@@ -100,18 +100,18 @@ TVBS新聞台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
 TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
 非凡商業台,https://z88.ubtvfans.com/live/rx6/314/2131df66e5e2fbd55751eb67b724f25c/index.m3u8
 非凡商業台,https://gat.zhoujie218.top/litv/4gtv-4gtv048
-非凡新闻台,mitv://135.148.104.228:19806/3d7f2e1d0e04407ba29c656092041b09
-非凡新闻台,mitv://135.148.104.228:19806/a404066e65af4566931c773a385ed1e3
-非凡新聞,https://z88.ubtvfans.com/live/rx1/2795/4b1b623041120e96c24bbb6c729c5b0d/index.m3u8
+非凡新闻台（p2p）,mitv://135.148.104.228:19806/3d7f2e1d0e04407ba29c656092041b09
+非凡新闻台（p2p）,mitv://135.148.104.228:19806/a404066e65af4566931c773a385ed1e3
+非凡新闻台（p2p）,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv010
-非凡新聞（備）,https://z88.ubtvfans.com/live/rx3/3236/e09419572785f3cef13fdf70391f18af/index.m3u8
-非凡新闻台(B),http://23.26.239.95:3599/xsj.php?id=unique-business-news
-東森財經新聞台,https://z88.ubtvfans.com/live/rx2/12/79e2953f288da7484cd18641c899c9d6/index.m3u8
+非凡新聞,https://z88.ubtvfans.com/live/rx3/3236/e09419572785f3cef13fdf70391f18af/index.m3u8
+非凡新聞,http://23.26.239.95:3599/xsj.php?id=unique-business-news
+東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經新聞台,https://gat.zhoujie218.top/litv/4gtv-4gtv153
 東森財經新聞台,http://23.26.239.95:3599/xsj.php?id=ebc-finance
 東森財經新聞台,mitv://generationnexxxt.com:19806/9193e5efd94f4991ba8bfbc98bdc3f19
-東森新聞,https://z88.ubtvfans.com/live/rx4/1025/120101fea9b83efc1e1567b35983558b/index.m3u8
-東森新聞,https://z88.ubtvfans.com/live/rx1/2766/7c8313f0387637d3abec8b79823b551c/index.m3u8
+東森新聞,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
+東森新聞,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
 東森新聞,https://z88.ubtvfans.com/live/rx2/1358/7eb08c8701281a6117ea7b14e3e55ffc/index.m3u8
 東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞,https://z88.ubtvfans.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
@@ -187,8 +187,7 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 民视第一台(B),P2p://generationnexxxt.com:19806/1c48731982a54a59a9555f7247f3bf7f
 民视第一台,P2p://generationnexxxt.com:19806/b97979cec8d74feebc370f3470cc06c6
 民視新聞,https://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
-民视新闻台,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
-
+民视新闻台,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37eb
 
 
 台灣頻道,#genre#
@@ -210,7 +209,7 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 八大綜合,https://z88.ubtvfans.com/live/rx1/3258/7da90cbc0cc5c247d6d52bc51e98024d/index.m3u8
 八大綜合,https://z88.ubtvfans.com/live/rx1/2286/bbfc612e34aa4278cb672507ae8f6080/index.m3u8
 東風衛視,https://z88.ubtvfans.com/live/rx1/3262/ecb1347dbef93804d7da43f50315d982/index.m3u8
-三立臺灣,https://z88.ubtvfans.com/live/rx1/35/95b580d006ccfa063954e194114981bb/index.m3u8
+三立臺灣,http://125.227.210.55:8160/VideoInput/play.ts
 三立臺灣,https://z88.ubtvfans.com/live/rx1/2436/b092782bb131a42358edd5973812efa9/index.m3u8
 三立臺灣,https://z88.ubtvfans.com/live/rx1/21/76c76eb600260e45acc3e1b7cc9b8829/index.m3u8
 三立都會,https://z88.ubtvfans.com/live/rx1/2435/a15f8b990537e8cd25f336a415380f30/index.m3u8
