@@ -83,10 +83,10 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 
 📺台灣新聞,#genre#
 TVBS HD,http://37.27.111.214:8080/live/23/hls.m3u8
-TVBS HD,https://z88.ubtvfans.com/live/rx4/16/0863004f457425d84eef2152ea466eb9/index.m3u8
+TVBS HD,mitv://135.148.104.228:19806/5fe15c41a5ed4d5f9262ee28464c45c0
 TVBS HD,http://23.26.239.95:3599/xsj.php?id=tvbs-hd
 TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
-TVBS HD,https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
+TVBS HD,mitv://135.148.104.228:19806/9e185dd6c7dd46edb5a7d675e4fca701
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS HD,http://shuma004.chunfengyun.top:8080/live/23/hls.m3u8
 TVBS HD,https://gat.zhoujie218.top/litv/4gtv-4gtv073
@@ -100,6 +100,8 @@ TVBS新聞台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
 TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
 非凡商業台,https://z88.ubtvfans.com/live/rx6/314/2131df66e5e2fbd55751eb67b724f25c/index.m3u8
 非凡商業台,https://gat.zhoujie218.top/litv/4gtv-4gtv048
+非凡新闻台,mitv://135.148.104.228:19806/3d7f2e1d0e04407ba29c656092041b09
+非凡新闻台,mitv://135.148.104.228:19806/a404066e65af4566931c773a385ed1e3
 非凡新聞,https://z88.ubtvfans.com/live/rx1/2795/4b1b623041120e96c24bbb6c729c5b0d/index.m3u8
 非凡新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv010
 非凡新聞（備）,https://z88.ubtvfans.com/live/rx3/3236/e09419572785f3cef13fdf70391f18af/index.m3u8
@@ -186,7 +188,6 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 民视第一台,P2p://generationnexxxt.com:19806/b97979cec8d74feebc370f3470cc06c6
 民視新聞,https://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
 民视新闻台,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
-
 
 
 
@@ -686,6 +687,9 @@ VIP頻道,#genre#
 水儿武士,https://f005.paopao.video:443/9A48A73AF33CBD05BF228364BF3DA64C3C3DDB81
 东北往事之黑道风云二十年11,https://vip.ffzy-online4.com/20230404/18386_b159ee99/2000k/hls/mixed.m3u8
 东北往事之黑道风云二十年17,https://vip.lz-cdn16.com/20230731/33145_85f5b5e4/2000k/hls/mixed.m3u8
+强欲少妇开脚勾引修理工-季妍希,https://t21.cdn2020.com/video/m3u8/2023/04/14/2b3b9462/index.m3u8
+厨师到你家,https://t21.cdn2020.com/video/m3u8/2023/03/31/082defcd/index.m3u8
+镜头外的欲火拍摄结束后的激情,https://t21.cdn2020.com/video/m3u8/2023/03/19/28f71874/index.m3u8
 古川伊織,p3p://108.181.20.159:54852/5ff7430900000f8fcccf091c30805ccb
 白兔,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6242/index.m3u8
 白兔1,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6242/index.m3u8
@@ -765,44 +769,6 @@ VIP頻道,#genre#
 驚艷,p3p://108.181.20.159:54852/60626a1b00010e3e6f5a5a4f018e5ebe
 驚豔成人電影臺,http://61.224.69.212:9088/udp/224.1.4.204:11111
 驚豔成人電影臺,http://61.224.69.212:9088/udp/230.1.2.27:11111
-91沈先生,p3p://108.181.20.159:54852/5fee5d4500060214aa0df631581d3164
-Amazing,https://z88.ubtvfans.com/live/rx4/2931/0abbe9024509c229983e5c124e987107/index.m3u8
-ATV 香蕉臺,p3p://108.181.32.169:24147/650b8ae60005f36b8f1e751f68bd1c14
-ATV 驚艷臺,p3p://108.181.32.169:24147/650b8b37000c4e8a8f1fb328756e4077
-Babes TV HD,https://z88.ubtvfans.com/live/rx3/458/48f056744305b13550c2f2b8b06c968d/index.m3u8
-Banana香蕉,https://z88.ubtvfans.com/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8
-Blue Hustler,https://z88.ubtvfans.com/live/rx4/3077/34024a0b6853c755124c206981e6b846/index.m3u8
-BUSTY LOVER,https://z88.ubtvfans.com/live/rx4/3093/2a861849d86e97cc28acbdb9729732c8/index.m3u8
-HAPPY,https://z88.ubtvfans.com/live/rx3/2908/83e945f894f770bf9e93b7e157cd0a8b/index.m3u8
-HAPPY,p3p://108.181.20.159:54852/616b79be000a35b17ab2f7b84c325eeb
-HAPPY,p3p://108.181.32.169:24147/650b8915000b1a1b8f175e0765017f8a
-Heyzo無碼,p3p://108.181.20.159:54852/5fe8014b0007228691371ed44a517e44
-Hustler HD,https://z88.ubtvfans.com/live/rx3/451/0beb7b22b55cbb81f36594df14b42858/index.m3u8
-IBIZA 巨乳控,p3p://108.181.20.159:54852/644ecb5f000ca4ee650265db655d0248
-JStar,https://z88.ubtvfans.com/live/rx3/2909/bcf2a48c5327078d0602115b3fdee5fe/index.m3u8
-K頻道,http://61.224.69.212:9088/udp/224.1.4.175:11111
-K頻道,http://61.224.69.212:9088/udp/224.1.4.65:11111
-LOOK,https://z88.ubtvfans.com/live/rx4/2933/60497d63c7532401bb5795a8e2a9adaa/index.m3u8
-LOOK,p3p://108.181.20.159:54852/606271190002a1266f75aaee0463186a
-Passie,https://z88.ubtvfans.com/live/rx3/461/5c00cfd7ef372e5376b3ad9bb5b48f4e/index.m3u8
-Penthouse Quickie,https://z88.ubtvfans.com/live/rx4/3082/f7658deac9432e6698292a88bef34f27/index.m3u8
-Play boy,p3p://fccsen.dyndns.tv:29706/6277188600044b271208d22208f54f69
-PLAYBOY HD,https://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
-Playboy KR,p3p://108.181.20.159:54852/646fa54000041fa7e554fbe50f3b3077
-SEX ATION HD,https://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
-sky angel blue,p3p://108.181.20.159:54852/6135967b0008b0e7a83579725d7b7ab3
-SM西貢女,p3p://108.181.20.159:54852/5ff92d000005f07cd448f7774faa47bd
-vip01wuma,p3p://108.181.32.169:24147/642316230005e319e267fc00076e6e77
-vip02wuma,p3p://108.181.32.169:24147/642319860005a2bce275369f096d68b2
-vip03wuma,p3p://108.181.32.169:24147/64231a180004ee7de27770c263dc6c5c
-vip04wuma,p3p://108.181.32.169:24147/64231a2700022f77e277aaa6349f3b6c
-vip05wuma,p3p://108.181.32.169:24147/64231a33000d8e7de277dc6f4f9a18e6
-Vivid red,p3p://fccsen.dyndns.tv:29706/5b2c54aa0003c48fe0d1190f0090339a
-Vivid Touch,https://z88.ubtvfans.com/live/rx4/3078/69852c14a4ed9a4589f372665e812d7a/index.m3u8
-VIXEN,https://z88.ubtvfans.com/live/rx4/3084/31362cad3e5b2c34fabdf7b30aceb4d0/index.m3u8
-XXXAV,p3p://108.181.20.159:54852/5fe80214000d2ec8913a3189085b6434
-YOSSO TV SEXY,http://ca.ukrainske.tv/8774/3530225EDBD6B16/video.m3u8
-
 
 
 
