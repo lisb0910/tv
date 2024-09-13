@@ -100,9 +100,9 @@ TVBS新聞台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
 TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
 非凡商業台,https://z88.ubtvfans.com/live/rx6/314/2131df66e5e2fbd55751eb67b724f25c/index.m3u8
 非凡商業台,https://gat.zhoujie218.top/litv/4gtv-4gtv048
-非凡新闻台（p2p）,mitv://135.148.104.228:19806/3d7f2e1d0e04407ba29c656092041b09
-非凡新闻台（p2p）,mitv://135.148.104.228:19806/a404066e65af4566931c773a385ed1e3
-非凡新闻台（p2p）,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
+非凡新闻台,mitv://135.148.104.228:19806/3d7f2e1d0e04407ba29c656092041b09
+非凡新闻台,mitv://135.148.104.228:19806/a404066e65af4566931c773a385ed1e3
+非凡新闻台,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv010
 非凡新聞,https://z88.ubtvfans.com/live/rx3/3236/e09419572785f3cef13fdf70391f18af/index.m3u8
 非凡新聞,http://23.26.239.95:3599/xsj.php?id=unique-business-news
