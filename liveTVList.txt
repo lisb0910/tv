@@ -105,6 +105,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 非凡商業台,https://z88.ubtvfans.com/live/rx6/314/2131df66e5e2fbd55751eb67b724f25c/index.m3u8
 非凡商業台,https://gat.zhoujie218.top/litv/4gtv-4gtv048
 非凡新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv010
+非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=09f354eef23965dad1dc2d07091f5db8
 非凡新聞,https://z88.ubtvfans.com/live/rx3/3236/e09419572785f3cef13fdf70391f18af/index.m3u8
 非凡新聞,http://23.26.239.95:3599/xsj.php?id=unique-business-news
 非凡新闻台（p2p）,mitv://135.148.104.228:19806/3d7f2e1d0e04407ba29c656092041b09
@@ -112,7 +113,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 非凡新闻台（p2p）,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新闻台（p2p）,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 東森財經新聞台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
-東森財經新聞台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156396
+東森財經新聞台,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=31baa4e2ca87271b454e5acc0e7d0e6c
 東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經新聞台,http://4gtv.mumi.rip:9877/293/4gtv-4gtv153/index.m3u8
 東森財經新聞台,http://4gtv.mumi.rip:9877/2937/4gtv-4gtv153/index.m3u8
@@ -123,9 +124,9 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 東森財經新聞(P2p),P2p://generationnexxxt.com:19806/5634f613b7f84f81a5c56a6af4311d57
 東森財經新聞(P2p),P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
 東森財經新聞(P2p),rtmp://f13h.mine.nu/sat/tv571
-東森新聞,http://shuma004.chunfengyun.top:8080/live/20/hls.m3u8
-東森新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
 東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
+東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=16a9e2e8be05f668cad9097c270e0c51
+東森新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
 東森新聞,https://z88.ubtvfans.com/live/rx4/1025/120101fea9b83efc1e1567b35983558b/index.m3u8
 東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞,http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
@@ -162,7 +163,7 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 年代新闻(P2p),P2p://generationnexxxt.com:19806/65fa6ea5000ec21a2a83897e03cd44bb
 年代新闻(P2p),P2p://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 年代新聞(P2p),mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
-年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
+年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
 年代新聞,https://z88.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 东森综合台,P2p://generationnexxxt.com:19806/a05a4d8b51f54013925315261a2c6aa9
 东森电影台,P2p://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
@@ -619,6 +620,7 @@ CCTV17,https://z88.ubtvfans.com/live/rx1/3260/1eb0ce21059a8e6090947afe226f3e43/i
 VIP頻道,#genre#
 松視1(18),http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
 松視1(18),http://18.svi-studio.com/live/176619383282/537544338952/5.m3u8
+松視1(p3p),p3p://167.114.175.6:42803/5fe445280008a40682a0367c343436bb
 松視2(18),http://18.svi-studio.com/live/176619383282/537544338952/6.m3u8
 松視2(18),http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
 松視3(18),http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
@@ -679,6 +681,9 @@ VIP頻道,#genre#
 长腿大奶的民宿老板娘,https://t21.cdn2020.com/video/m3u8/2023/04/02/c7269f70/index.m3u8
 汽车教练之爱的教导,https://t21.cdn2020.com/video/m3u8/2023/03/04/6883d40a/index.m3u8
 不停玩弄妹妹,https://t21.cdn2020.com/video/m3u8/2023/02/19/232a5721/index.m3u8
+当着大哥的面前玩弄大嫂,https://t21.cdn2020.com/video/m3u8/2023/02/15/e8ef5393/index.m3u8
+极乐修仙者,https://t21.cdn2020.com/video/m3u8/2023/04/11/75a9da10/index.m3u8
+
 
 
 
