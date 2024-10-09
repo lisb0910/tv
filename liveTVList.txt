@@ -2,83 +2,6 @@ Js=https://clonglii.serv00.net/user_data/youtube020.js?t=1719035247000
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 Decoder=3
 
-📺YouTube 新聞,#genre#
-Js=https://clonglii.serv00.net/user_data/youtube020.js?t=1719035247000
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-Decoder=3
-民視新聞,http://www.youtube.com/watch?v=ylYJSBUgaMA
-民視新聞,https://m.youtube.com/@FTV_News/streams/1
-三立 iNews,https://www.youtube.com/watch?v=CKjSm5ZeehE
-三立 iNews,https://m.youtube.com/@setinews/streams/1
-三立 Live,https://m.youtube.com/@setnews/live
-三立 NEWS+,https://m.youtube.com/watch?v=oZdzzvxTfUY
-三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
-公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
-公視新聞,https://m.youtube.com/@PNNPTS/streams/1
-公視,https://m.youtube.com/@ptslivestream/streams/1
-公視台語台,https://m.youtube.com/channel/UCX6SRupi5lTDbIFJEOpReCQ/streams/1
-非凡商業,https://www.youtube.com/watch?v=QlJJEwMYzEc
-臺視新聞,http://www.youtube.com/watch?v=xL0ch83RAK8
-華視新聞,http://m.youtube.com/watch?v=wM0g8EoUZ_E
-華視新聞,https://m.youtube.com/@CtsTw/streams/1
-鏡新聞,https://m.youtube.com/@mnews-tw/streams/1
-寰宇新聞,http://m.youtube.com/watch?v=6IquAgfvYmc
-寰宇新聞,https://m.youtube.com/@globalnewstw/streams/1
-寰宇新聞2,https://m.youtube.com/@globalnewstw/streams/3
-寰宇新聞台灣台,https://m.youtube.com/@globalnewstw/streams/2
-寰宇新聞臺灣臺,http://m.youtube.com/live/w87VGpgd90U
-寰宇財經台,https://m.youtube.com/@globlemoney/streams/1
-東森LIVE,https://www.youtube.com/watch?v=R2iMq5LKXco
-東森LIVE,https://m.youtube.com/watch?v=E0zhe2gkXBs
-東森LIVE,https://clonglii.serv00.net/youtube_d.php?id=E0zhe2gkXBs&data=normal
-東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
-東森新聞,https://m.youtube.com/watch?v=LuQ4S-i5zoE
-東森財經新聞,https://www.youtube.com/live/WHEPzbFA3hw
-東森財經新聞,https://m.youtube.com/@57ETFN/streams/2
-東森財經股市,https://www.youtube.com/watch?v=LbS-xQ67fos
-東森財經股市,https://m.youtube.com/@57ETFN/streams/1
-TVBS HD,https://m.youtube.com/watch?v=YvdcZ_jpLXE
-TVBS HD,https://clonglii.serv00.net/youtube_d.php?id=YvdcZ_jpLXE&data=normal
-TVBS HD,https://clonglii.serv00.net/youtube_d.php?id=YvdcZ_jpLXE&ln=2&data=normal
-TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVBS NEWS,https://m.youtube.com/watch?v=m_dhMSvUCIc
-TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
-TVBS新聞台,https://m.youtube.com/watch?v=2mCSYvcfhtc
-TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&data=normal
-TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data=normal中天亞洲台,https://m.youtube.com/@CtiAsia/streams/1
-中天新聞,https://m.youtube.com/@中天電視CtiTv/streams/1
-中天新聞1臺,https://www.youtube.com/watch?v=oIgbl7t0S_w
-中天新聞2台,https://m.youtube.com/@ctiplusnews/streams/1
-中天新聞2臺,https://www.youtube.com/watch?v=WPfPjbOLNfE
-中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-中視新聞,https://m.youtube.com/@twctvnews/streams/1
-全球財經台,https://m.youtube.com/@user-ro8bu3to2t/streams/1
-創世電視,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8&data=normal
-台灣地震監視,https://m.youtube.com/@eqm/streams/1 
-台視(台灣節點),https://m.youtube.com/watch?v=uDqQo8a7Xmk
-台視新聞,https://m.youtube.com/@TTV_NEWS/streams/1
-唯心電視台,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8&data=normal
-國會頻道1,https://m.youtube.com/@parliamentarytv/streams/1
-國會頻道2,https://m.youtube.com/@parliamentarytv/live
-大愛一臺-全球直播,https://m.youtube.com/watch?v=MIqUplvSRWA
-大愛一臺-臺灣直播(台灣節點),https://m.youtube.com/watch?v=oV_i3Hsl_zg
-大愛二臺-全球直播,https://m.youtube.com/watch?v=DTNkEm6jaqQ
-大愛二臺-臺灣直播(台灣節點),https://m.youtube.com/watch?v=OKvWtVoDR8I
-華藏,https://www.youtube.com/watch?v=ypmrwYeLAaQ
-華藏衛視,https://m.youtube.com/@hztv2212/streams/1
-希望電視台,https://videodelivery.net/f9fac529ef8cc8f8dc702ac06116ad1b/manifest/video.m3u8&data=normal
-新唐人,https://www.youtube.com/watch?v=WIhgU_mc05A
-新唐人亞太電視台,https://m.youtube.com/@NTDAPTV/streams/1
-東京新宿,https://www.youtube.com/watch?v=DjdUEyjx8GM
-正德電視台,https://m.youtube.com/@chengteTV/streams/1
-正德電視臺,https://www.youtube.com/watch?v=AfcVHGIRbP8
-淨空老法師直播台,https://m.youtube.com/@amtbhz/streams/1
-淨空老法師直播台,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8&data=normal
-清海無上師,https://m.youtube.com/@SupremeMasterTVlive/live
-
-
-
 📺台灣新聞,#genre#
 TVBS HD,http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS HD,mitv://135.148.104.228:19806/5fe15c41a5ed4d5f9262ee28464c45c0
@@ -88,11 +11,13 @@ TVBS HD,mitv://135.148.104.228:19806/9e185dd6c7dd46edb5a7d675e4fca701
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS HD,http://shuma004.chunfengyun.top:8080/live/23/hls.m3u8
 TVBS HD,https://gat.zhoujie218.top/litv/4gtv-4gtv073
-TVBS 56臺,http://free.xiptv.x10.bz/kudou.php?id=77
+TVBS 56臺,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
+TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
 TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc&fmt=37
-TVBS新聞台,http://194.87.101.118/live.m3u8?c=5
+TVBS新聞台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8574/.m3u8
 TVBS新聞台,https://z88.ubtvfans.com/live/rx4/2736/bfdca7e2a9b0141e6716a43f90e93d22/index.m3u8
 TVBS新聞台,https://z88.ubtvfans.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
 TVBS新聞台,https://z88.ubtvfans.com/live/rx2/2/04c1c443d4f9f5983c9e9a491ba05f05/index.m3u8
@@ -104,17 +29,18 @@ TVBS新聞（p2p）,P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f
 TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 非凡商業台,https://z88.ubtvfans.com/live/rx6/314/2131df66e5e2fbd55751eb67b724f25c/index.m3u8
 非凡商業台,https://gat.zhoujie218.top/litv/4gtv-4gtv048
+非凡新聞,http://ali.hlspull.yximgs.com/live/tboxprosqtnfqqoqdcbfcxvqfuuqqweqqqsqyuhhdqsqhqynffxw.flv
+非凡新聞,http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKr2WwbVdHJVIKKK705vhaXY/.m3u8
 非凡新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv010
-非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=09f354eef23965dad1dc2d07091f5db8
 非凡新聞,https://z88.ubtvfans.com/live/rx3/3236/e09419572785f3cef13fdf70391f18af/index.m3u8
 非凡新聞,http://23.26.239.95:3599/xsj.php?id=unique-business-news
 非凡新闻台（p2p）,mitv://135.148.104.228:19806/3d7f2e1d0e04407ba29c656092041b09
 非凡新闻台（p2p）,mitv://135.148.104.228:19806/a404066e65af4566931c773a385ed1e3
 非凡新闻台（p2p）,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新闻台（p2p）,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
-東森財經新聞台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
-東森財經新聞台,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=31baa4e2ca87271b454e5acc0e7d0e6c
 東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+東森財經新聞台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
+東森財經新聞台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156396
 東森財經新聞台,http://4gtv.mumi.rip:9877/293/4gtv-4gtv153/index.m3u8
 東森財經新聞台,http://4gtv.mumi.rip:9877/2937/4gtv-4gtv153/index.m3u8
 東森財經新聞台,https://www.youtube.com/watch?v=WHEPzbFA3hw&fmt=37
@@ -124,9 +50,10 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 東森財經新聞(P2p),P2p://generationnexxxt.com:19806/5634f613b7f84f81a5c56a6af4311d57
 東森財經新聞(P2p),P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
 東森財經新聞(P2p),rtmp://f13h.mine.nu/sat/tv571
-東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
-東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=16a9e2e8be05f668cad9097c270e0c51
 東森新聞,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
+東森新聞,http://ali.hlspull.yximgs.com/live/tboxpromhqttuqqcvbyquoqdqqeqywefqqfbxfbxxvbqqqlqqhqsxw.flv
+東森新聞,http://shuma004.chunfengyun.top:8080/live/20/hls.m3u8
+東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
 東森新聞,https://z88.ubtvfans.com/live/rx4/1025/120101fea9b83efc1e1567b35983558b/index.m3u8
 東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 東森新聞,http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
@@ -141,18 +68,18 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 东森新闻台(备),http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
 東森亞洲,https://z88.ubtvfans.com/live/rx1/3/e02dd030dc43d7e25fd8288fc9c22a11/index.m3u8
 三立新聞台,http://125.227.210.55:8162/VideoInput/play.ts
+三立新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新聞台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-三立新聞台,https://epg.pw/stream/bad9a4ebaf24f0b19d4edd02bef68b5dd5b463eb5527e4b44bb68e23248c6ddb.m3u8
 三立新聞台,https://z88.ubtvfans.com/live/rx6/320/fe69b133c10d8cf53971acc52a35ddff/index.m3u8
 三立新聞台,http://211.23.114.106:8507/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞台,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
 三立新聞台,mitv://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
 三立国際,https://z88.ubtvfans.com/live/rx3/2285/6a8add031ee3407648e3eb8731932206/index.m3u8
 中天新闻台(B),http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
-中天新闻台,https://epg.pw/stream/a62732193d00a568f75f933ea1ae23e6675480055b9cf392089c3c369f1fd0e7.m3u8
-中天新聞,http://211.23.114.106:8501/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
-中天新聞,https://gat.zhoujie218.top/litv/4gtv-4gtv009
 中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天新闻,http://ali.hlspull.yximgs.com/live/tboxpropqqtvvqqqyquuqqfvbscvqdqtwqfsqqsqqqcvuyqemqeqtxw.flv
+中天新聞,http://211.23.114.106:8501/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+中天新聞,http://211.72.65.236:8541/.m3u8
 中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 中天新聞台,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
@@ -163,7 +90,7 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 年代新闻(P2p),P2p://generationnexxxt.com:19806/65fa6ea5000ec21a2a83897e03cd44bb
 年代新闻(P2p),P2p://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 年代新聞(P2p),mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
-年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
+年代新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8539/.m3u8
 年代新聞,https://z88.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
 东森综合台,P2p://generationnexxxt.com:19806/a05a4d8b51f54013925315261a2c6aa9
 东森电影台,P2p://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
@@ -171,11 +98,11 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 东森戏剧台,P2p://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
 台视,P2p://generationnexxxt.com:19806/3c20d4387ec845149b2ded5f28805f18
 台视,P2p://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
-台视,rtmp://220.130.201.73/sat/tv071
+台视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台视,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
 台視財經台,https://z88.ubtvfans.com/live/rx1/300/56b15fc6b228e2e43d2873bd97b6ea9d/index.m3u8
 台視財經台,https://z88.ubtvfans.com/live/rx1/300/b2a1f44e14f47427518936897549976e/index.m3u8
-台視新聞台,https://z88.ubtvfans.com/live/rx6/1/f2689f3bc90c3782bc56427e5463bcf8/index.m3u8
+台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,mitv://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
 鳳凰資訊,http://61.221.215.25:8800/hls/47/index.m3u8
 鳳凰資訊,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
@@ -189,15 +116,15 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 民視新聞台P2p,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 鏡新聞台,http://shuma004.chunfengyun.top:8080/live/62/hls.m3u8
 鏡新聞台,http://37.27.111.214:8080/live/62/hls.m3u8
-鏡新聞台,https://epg.pw/stream/495154de63dcea2a3028c43323b8c41fcba189c3de87d1d8232e7edd6b5e9856.m3u8
+鏡新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 鏡新聞台,P2p://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
 鏡新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 鏡新聞台,mitv://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
 寰宇台湾,http://shuma004.chunfengyun.top:8080/live/63/hls.m3u8
-寰宇台湾,http://37.27.111.214:8080/live/63/hls.m3u8
+寰宇台湾,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+寰宇財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
 寰宇財經,http://37.27.111.214:8080/live/65/hls.m3u8
 寰宇財經,http://shuma004.chunfengyun.top:8080/live/65/hls.m3u8
-寰宇財經,https://z88.ubtvfans.com/live/rx6/2536/15b2e288eee63f0047911f73bcd0b3fc/index.m3u8
 环宇新闻,http://shuma004.chunfengyun.top:8080/live/63/hls.m3u8
 全球財经,http://shuma004.chunfengyun.top:8080/live/64/hls.m3u8
 
@@ -208,6 +135,7 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 民視,http://37.27.111.214:8080/live/6/hls.m3u8
 民視,https://gat.zhoujie218.top/litv/4gtv-4gtv002
 民視,P2p://generationnexxxt.com:19806/07d108fdb6f543de8226d05f281225e2
+民視戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
 民視台灣,http://37.27.111.214:8080/live/5/hls.m3u8
 民視台灣,http://4gtv.mumi.rip:9877/2/4gtv-4gtv001/index.m3u8
 民視台灣,http://shuma004.chunfengyun.top:8080/live/5/hls.m3u8 
@@ -221,11 +149,11 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 民視第一台,P2p://generationnexxxt.com:19806/b97979cec8d74feebc370f3470cc06c6
 民視综艺,http://shuma004.chunfengyun.top:8080/live/67/hls.m3u8
 民視新聞,https://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
+八大綜合,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
 八大娱乐,https://z88.ubtvfans.com/live/rx1/105/bc1daa0c7ab48bbec4ba74801befcad1/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大精彩,https://z88.ubtvfans.com/live/rx1/1024/08b238ed7421aede867c880e1e5c86f1/index.m3u8
-八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
-八大綜合,https://z88.ubtvfans.com/live/rx1/2286/bbfc612e34aa4278cb672507ae8f6080/index.m3u8
 三立国際,https://z88.ubtvfans.com/live/rx3/2285/6a8add031ee3407648e3eb8731932206/index.m3u8
 三立都會,https://z88.ubtvfans.com/live/rx1/1001/aa97429bb7cba900f227972bf6b4b97b/index.m3u8
 三立都會,https://z88.ubtvfans.com/live/rx1/2435/a15f8b990537e8cd25f336a415380f30/index.m3u8
@@ -248,9 +176,9 @@ TVBS歡樂,https://z88.ubtvfans.com/live/rx1/40/8ceb045b439bef6cb1f623464f39c519
 中天亞洲,https://z88.ubtvfans.com/live/rx1/322/adf09c9b125ca53d55e6d3504fb78dcb/index.m3u8
 中天亞洲,https://z88.ubtvfans.com/live/rx6/2277/7162c114ae1dc81d4c1d56184638ab5d/index.m3u8
 中天娛樂,https://z88.ubtvfans.com/live/rx1/324/fb84f373bc641f0424a893f87e1f88ba/index.m3u8
-中天新聞,https://z88.ubtvfans.com/live/rx6/2420/82fd118bff7d1de735a8e9bce8756b8d/index.m3u8
-中天新聞2台,https://z88.ubtvfans.com/live/rx6/152/2d8b2279a71a577a7a4817ccf6e8ead0/index.m3u8
-中天綜合,https://z88.ubtvfans.com/live/rx1/3072/82fc353808368794fe365772f595ba93/index.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天新聞2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+中天綜合,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天綜合,https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
 東風衛視,https://z88.ubtvfans.com/live/rx1/3262/ecb1347dbef93804d7da43f50315d982/index.m3u8
 東森亞洲,https://z88.ubtvfans.com/live/rx1/3/e02dd030dc43d7e25fd8288fc9c22a11/index.m3u8
@@ -262,7 +190,7 @@ TVBS歡樂,https://z88.ubtvfans.com/live/rx1/40/8ceb045b439bef6cb1f623464f39c519
 東森新聞,https://z88.ubtvfans.com/live/rx1/2766/7c8313f0387637d3abec8b79823b551c/index.m3u8
 東森綜合,https://z88.ubtvfans.com/live/rx1/3254/3c427ecd56ea46b403ced80f522024dd/index.m3u8
 東森綜合,https://z88.ubtvfans.com/live/rx1/372/be456746d41f8414c18f760897de0673/index.m3u8
-緯來日本,https://z88.ubtvfans.com/live/rx1/337/3b0d4202de1049a73589247a8028070a/index.m3u8
+緯來日本,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
 緯來日本,https://z88.ubtvfans.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
 緯來育樂,https://z88.ubtvfans.com/live/rx3/2772/6b4a1d089f96bd4152f46f3b5fd19f77/index.m3u8
 緯來育樂,https://z88.ubtvfans.com/live/rx1/338/b455808b20b7ad0cf01b55be627ed959/index.m3u8
@@ -325,7 +253,7 @@ TVBS歡樂,https://z88.ubtvfans.com/live/rx1/40/8ceb045b439bef6cb1f623464f39c519
 高點綜合,https://z88.ubtvfans.com/live/rx1/99/18738768f6f66bc143d29a1cfd626281/index.m3u8
 國家野生（英）,https://z88.ubtvfans.com/live/rx1/1038/9b32fc6e57855ef8d8f0eec759f9ae0e/index.m3u8
 第一名電視,https://z88.ubtvfans.com/live/rx6/216/9dd2225be1aacbfd3b6e5c1d6ee12e01/index.m3u8
-萬秀豬王,http://www.terrykang.xyz:35455/youtube/IsFtLpSuf_g
+萬秀豬王,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
 萬秀豬王,http://www.terrykang.xyz:35455/youtube/ADDSmXoPDY8
 萬秀豬王,https://z88.ubtvfans.com/live/rx6/2978/ce1f4fa827249995f5753e058545d453/index.m3u8
 萬秀豬王,https://z88.ubtvfans.com/live/rx1/75/a2ed12511d72325cff1e35643f55f79c/index.m3u8
@@ -344,7 +272,7 @@ JET綜合,https://z88.ubtvfans.com/live/rx1/41/c1064e0a4d03c8b2afb980287575e161/
 KKBOX華語單曲排行,http://www.terrykang.xyz:35455/youtube/SlnbT3GBeGI
 TaiwanPlus,https://z88.ubtvfans.com/live/rx6/327/ebb005678777b3ac5065158017054331/index.m3u8
 TVN台湾版,https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
-大陸尋奇,https://z88.ubtvfans.com/live/rx6/102/9e5a9c0636f4f9fbc9888e487df2058b/index.m3u8
+大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 大愛一臺,https://z88.ubtvfans.com/live/rx6/11/79c9c9e7e7068753ca822e3598e19eec/index.m3u8
 台灣地震監視,https://z88.ubtvfans.com/live/rx6/2637/6d4fbfc0d3ce3624f4ee82dc33c26649/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
@@ -1249,4 +1177,80 @@ TVBS臺劇臺,video://https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=22
 電影免費看 2臺,video://https://www.4gtv.tv/channel/4gtv-live005?set=1&ch=22
 超人力霸王整套看,video://https://www.4gtv.tv/channel/4gtv-live015?set=1&ch=22
 花系列 經典劇場,video://https://www.4gtv.tv/channel/4gtv-live016?set=1&ch=22
+
+📺YouTube 新聞,#genre#
+Js=https://clonglii.serv00.net/user_data/youtube020.js?t=1719035247000
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Decoder=3
+民視新聞,http://www.youtube.com/watch?v=ylYJSBUgaMA
+民視新聞,https://m.youtube.com/@FTV_News/streams/1
+三立 iNews,https://www.youtube.com/watch?v=CKjSm5ZeehE
+三立 iNews,https://m.youtube.com/@setinews/streams/1
+三立 Live,https://m.youtube.com/@setnews/live
+三立 NEWS+,https://m.youtube.com/watch?v=oZdzzvxTfUY
+三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
+公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
+公視新聞,https://m.youtube.com/@PNNPTS/streams/1
+公視,https://m.youtube.com/@ptslivestream/streams/1
+公視台語台,https://m.youtube.com/channel/UCX6SRupi5lTDbIFJEOpReCQ/streams/1
+非凡商業,https://www.youtube.com/watch?v=QlJJEwMYzEc
+臺視新聞,http://www.youtube.com/watch?v=xL0ch83RAK8
+華視新聞,http://m.youtube.com/watch?v=wM0g8EoUZ_E
+華視新聞,https://m.youtube.com/@CtsTw/streams/1
+鏡新聞,https://m.youtube.com/@mnews-tw/streams/1
+寰宇新聞,http://m.youtube.com/watch?v=6IquAgfvYmc
+寰宇新聞,https://m.youtube.com/@globalnewstw/streams/1
+寰宇新聞2,https://m.youtube.com/@globalnewstw/streams/3
+寰宇新聞台灣台,https://m.youtube.com/@globalnewstw/streams/2
+寰宇新聞臺灣臺,http://m.youtube.com/live/w87VGpgd90U
+寰宇財經台,https://m.youtube.com/@globlemoney/streams/1
+東森LIVE,https://www.youtube.com/watch?v=R2iMq5LKXco
+東森LIVE,https://m.youtube.com/watch?v=E0zhe2gkXBs
+東森LIVE,https://clonglii.serv00.net/youtube_d.php?id=E0zhe2gkXBs&data=normal
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+東森新聞,https://m.youtube.com/watch?v=LuQ4S-i5zoE
+東森財經新聞,https://www.youtube.com/live/WHEPzbFA3hw
+東森財經新聞,https://m.youtube.com/@57ETFN/streams/2
+東森財經股市,https://www.youtube.com/watch?v=LbS-xQ67fos
+東森財經股市,https://m.youtube.com/@57ETFN/streams/1
+TVBS HD,https://m.youtube.com/watch?v=YvdcZ_jpLXE
+TVBS HD,https://clonglii.serv00.net/youtube_d.php?id=YvdcZ_jpLXE&data=normal
+TVBS HD,https://clonglii.serv00.net/youtube_d.php?id=YvdcZ_jpLXE&ln=2&data=normal
+TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
+TVBS NEWS,https://m.youtube.com/watch?v=m_dhMSvUCIc
+TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS新聞台,https://m.youtube.com/watch?v=2mCSYvcfhtc
+TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&data=normal
+TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data=normal中天亞洲台,https://m.youtube.com/@CtiAsia/streams/1
+中天新聞,https://m.youtube.com/@中天電視CtiTv/streams/1
+中天新聞1臺,https://www.youtube.com/watch?v=oIgbl7t0S_w
+中天新聞2台,https://m.youtube.com/@ctiplusnews/streams/1
+中天新聞2臺,https://www.youtube.com/watch?v=WPfPjbOLNfE
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+中視新聞,https://m.youtube.com/@twctvnews/streams/1
+全球財經台,https://m.youtube.com/@user-ro8bu3to2t/streams/1
+創世電視,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8&data=normal
+台灣地震監視,https://m.youtube.com/@eqm/streams/1 
+台視(台灣節點),https://m.youtube.com/watch?v=uDqQo8a7Xmk
+台視新聞,https://m.youtube.com/@TTV_NEWS/streams/1
+唯心電視台,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8&data=normal
+國會頻道1,https://m.youtube.com/@parliamentarytv/streams/1
+國會頻道2,https://m.youtube.com/@parliamentarytv/live
+大愛一臺-全球直播,https://m.youtube.com/watch?v=MIqUplvSRWA
+大愛一臺-臺灣直播(台灣節點),https://m.youtube.com/watch?v=oV_i3Hsl_zg
+大愛二臺-全球直播,https://m.youtube.com/watch?v=DTNkEm6jaqQ
+大愛二臺-臺灣直播(台灣節點),https://m.youtube.com/watch?v=OKvWtVoDR8I
+華藏,https://www.youtube.com/watch?v=ypmrwYeLAaQ
+華藏衛視,https://m.youtube.com/@hztv2212/streams/1
+希望電視台,https://videodelivery.net/f9fac529ef8cc8f8dc702ac06116ad1b/manifest/video.m3u8&data=normal
+新唐人,https://www.youtube.com/watch?v=WIhgU_mc05A
+新唐人亞太電視台,https://m.youtube.com/@NTDAPTV/streams/1
+東京新宿,https://www.youtube.com/watch?v=DjdUEyjx8GM
+正德電視台,https://m.youtube.com/@chengteTV/streams/1
+正德電視臺,https://www.youtube.com/watch?v=AfcVHGIRbP8
+淨空老法師直播台,https://m.youtube.com/@amtbhz/streams/1
+淨空老法師直播台,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8&data=normal
+清海無上師,https://m.youtube.com/@SupremeMasterTVlive/live
+
 
