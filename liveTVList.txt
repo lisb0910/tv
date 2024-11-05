@@ -49,8 +49,8 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 東森財經新聞(P2p),P2p://generationnexxxt.com:19806/5634f613b7f84f81a5c56a6af4311d57
 東森財經新聞(P2p),P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
 東森財經新聞(P2p),rtmp://f13h.mine.nu/sat/tv571
-東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
 東森新聞,http://211.72.65.236:8540/.m3u8
+東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
 東森新聞,http://ali.hlspull.yximgs.com/live/tboxpromhqttuqqcvbyquoqdqqeqywefqqfbxfbxxvbqqqlqqhqsxw.flv
 東森新聞,https://z88.ubtvfans.com/live/rx4/1025/120101fea9b83efc1e1567b35983558b/index.m3u8
 東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
@@ -64,7 +64,8 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 东森新闻台(P2p),P2p://generationnexxxt.com:19806/e9f96143b31a4e869309a60c27c66bc4#P2p://generationnexxxt.com:19806/311e31668d704df7ade8a4d5e745d49b
 东森新闻台(P2p),P2p://generationnexxxt.com:19806/f848bf771436495b9ce252af20bea6e2
 东森新闻台(备),http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
-東森亞洲,https://z88.ubtvfans.com/live/rx1/3/e02dd030dc43d7e25fd8288fc9c22a11/index.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立新聞台,http://125.227.210.55:8162/VideoInput/play.ts
 三立新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新聞台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
@@ -109,7 +110,6 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 鳳凰資訊,http://125.227.210.55:39004/VideoInput/play.ts
 民視新聞台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-民視新聞台,https://litv.zapi.us.kg/?id=litv-ftv13
 民視新聞台,http://37.27.111.214:8080/live/6/hls.m3u8
 民視新聞台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民視新聞台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=156389
@@ -117,7 +117,6 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 民視新聞台P2p,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 鏡新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 鏡新聞台,http://37.27.111.214:8080/live/62/hls.m3u8
-鏡新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv075
 鏡新聞台,P2p://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
 鏡新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 鏡新聞台,mitv://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
@@ -128,7 +127,6 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 寰宇財經,http://shuma004.chunfengyun.top:8080/live/65/hls.m3u8
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-寰宇新聞台,https://litv.zapi.us.kg/?id=litv-longturn14
 全球財经,http://37.27.111.214:8080/live/64/hls.m3u8
 
 
@@ -162,15 +160,15 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 中視,rtmp://f13h.mine.nu/sat/tv091
 公視,http://125.227.210.55:8164/VideoInput/play.ts
+台視,rtmp://f13h.mine.nu/sat/tv071
 台視,mitv://generationnexxxt.com:19806/3c20d4387ec845149b2ded5f28805f18
 台視,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
-台視,rtmp://f13h.mine.nu/sat/tv071
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視綜合台,mitv://generationnexxxt.com:19806/6593a4d5000dedcb98fef0154abd184d
 台視綜合台,P2p://generationnexxxt.com:19806/6593a4d5000dedcb98fef0154abd184d
 民視,http://211.72.65.236:8541/.m3u8
 民視,http://37.27.111.214:8080/live/6/hls.m3u8
-民視,P2p://generationnexxxt.com:19806/07d108fdb6f543de8226d05f281225e2
+民視,rtmp://f13h.mine.nu/sat/tv051
 民視台灣台,http://37.27.111.214:8080/live/5/hls.m3u8
 民視台灣台,P2p://generationnexxxt.com:19806/192bd12842624eb39e2f6b86eeacdca8
 民視旅遊,http://37.27.111.214:8080/live/82/hls.m3u8
@@ -263,6 +261,7 @@ Nick動畫頻貳,http://37.27.111.214:8080/live/22/hls.m3u8
 八大综合,http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
 八大综合,http://211.72.65.236:8550/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
 八大综合,http://37.27.111.214:8080/live/21/hls.m3u8
+八大戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
 八大戲劇,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
 八大戲劇,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
@@ -273,6 +272,7 @@ Nick動畫頻貳,http://37.27.111.214:8080/live/22/hls.m3u8
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 三立戲劇,http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
 三立戲劇,http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
+民視影剧,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
 民視影剧,http://37.27.111.214:8080/live/88/hls.m3u8
 台湾戏剧台,https://litv.zapi.us.kg/?id=litv-longturn22
 公视戏剧,https://litv.zapi.us.kg/?id=4gtv-4gtv042
@@ -302,8 +302,11 @@ NEWTV动作电影,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000018653/1.m3u8
 靖洋戲劇台,http://37.27.111.214:8080/live/17/hls.m3u8
 靖天戲劇台,https://litv.zapi.us.kg/?id=4gtv-4gtv058
 靖天映画,https://litv.zapi.us.kg/?id=4gtv-4gtv055
-豆瓣高分✔原,http://159.75.85.63:35455/douyu/8770422東森洋片,https://z88.ubtvfans.com/live/rx1/1128/d55d315a51ee012fb8291d8b26b24e55/index.m3u8
-欧美大片✔原,http://159.75.85.63:35455/douyu/2793084東森電影,https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
+豆瓣高分✔原,http://159.75.85.63:35455/douyu/8770422
+东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
+东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
+欧美大片✔原,http://159.75.85.63:35455/douyu/2793084
+東森電影,https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
 東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 東森戲劇,http://211.72.65.236:8537/.m3u8
 東森戲劇,https://z88.ubtvfans.com/live/rx1/321/6e310925fa2aa6e7274b236cc99685ac/index.m3u8
@@ -355,7 +358,7 @@ hokkotv,http://37.27.111.214:8080/live/1/hls.m3u8
 原住民電視台,http://shuma004.chunfengyun.top:8080/live/2/hls.m3u8 
 飢餓遊戲,https://z88.ubtvfans.com/live/rx6/264/23083b43bd840220fdc5af900585eb00/index.m3u8
 壹電影,https://z88.ubtvfans.com/live/rx1/2284/0bc14977af0178bcdc71d180e230321c/index.m3u8
-猪哥会社,http://shuma004.chunfengyun.top:8080/live/35/hls.m3u8
+豬哥會社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 影迷纪实,http://shuma004.chunfengyun.top:8080/live/92/hls.m3u8
 靖天卡通台,https://litv.zapi.us.kg/?id=4gtv-4gtv044
@@ -363,7 +366,6 @@ hokkotv,http://37.27.111.214:8080/live/1/hls.m3u8
 
 
 體育頻道,#genre#
-緯來體育,http://125.227.210.55:8155/VideoInput/play.ts
 緯來體育,http://125.227.210.55:8155/VideoInput/play.ts
 緯來體育,rtmp://220.130.201.73/sat/tv721
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
@@ -411,16 +413,16 @@ TLC Canada,https://z88.ubtvfans.com/live/rx4/1262/adc7d3ca892336cdf136b5486b0023
 ELTA生活旅游,http://37.27.111.214:8080/live/85/hls.m3u8
 大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 民視旅遊,http://37.27.111.214:8080/live/82/hls.m3u8
+MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
 Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 History,http://37.27.111.214:8080/live/27/hls.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 地理野生動物,http://168.119.255.170/403/video.m3u8?token=M4f082ab4c
 亞洲旅遊台,http://37.27.111.214:8080/live/10/hls.m3u8
 亞洲旅遊台,http://61.221.215.25:8800/hls/50/index.m3u8
-法國時裝,https://z88.ubtvfans.com/live/rx3/2287/a999781167a6cc9754720051c0f4ffc9/index.m3u8
-美食星球,https://z88.ubtvfans.com/live/rx1/1360/87ea76a8fc524eb8b7d3bd41b531f834/index.m3u8
-美食星球,https://z88.ubtvfans.com/live/rx1/3073/d86b0ec21887580d706afa6f903a80d9/index.m3u8
-動物世界,http://61.221.215.25:8800/hls/57/index.m3u8
+LOVENATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+時尚FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8動物世界,http://61.221.215.25:8800/hls/57/index.m3u8
 國家地理,http://168.119.255.170/402/video.m3u8?token=M4f082ab4c
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
 探索亞洲,http://125.227.210.55:8154/VideoInput/play.ts
@@ -1213,11 +1215,14 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 Decoder=3
 民視新聞,http://www.youtube.com/watch?v=ylYJSBUgaMA
 民視新聞,https://m.youtube.com/@FTV_News/streams/1
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA&fmt=37
 三立 iNews,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立 iNews,https://m.youtube.com/@setinews/streams/1
 三立 Live,https://m.youtube.com/@setnews/live
 三立 NEWS+,https://m.youtube.com/watch?v=oZdzzvxTfUY
 三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
+三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY&fmt=37
+三立財經,https://www.youtube.com/watch?v=CKjSm5ZeehE&fmt=37
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
 公視新聞,https://m.youtube.com/@PNNPTS/streams/1
 公視,https://m.youtube.com/@ptslivestream/streams/1
@@ -1230,14 +1235,18 @@ Decoder=3
 寰宇新聞,http://m.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞,https://m.youtube.com/@globalnewstw/streams/1
 寰宇新聞2,https://m.youtube.com/@globalnewstw/streams/3
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc&fmt=37
+寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U&fmt=37
 寰宇新聞台灣台,https://m.youtube.com/@globalnewstw/streams/2
 寰宇新聞臺灣臺,http://m.youtube.com/live/w87VGpgd90U
 寰宇財經台,https://m.youtube.com/@globlemoney/streams/1
 東森LIVE,https://www.youtube.com/watch?v=R2iMq5LKXco
 東森LIVE,https://m.youtube.com/watch?v=E0zhe2gkXBs
 東森LIVE,https://clonglii.serv00.net/youtube_d.php?id=E0zhe2gkXBs&data=normal
+東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE&fmt=37
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森新聞,https://m.youtube.com/watch?v=LuQ4S-i5zoE
+EBC東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw&fmt=37
 東森財經新聞,https://www.youtube.com/live/WHEPzbFA3hw
 東森財經新聞,https://m.youtube.com/@57ETFN/streams/2
 東森財經股市,https://www.youtube.com/watch?v=LbS-xQ67fos
@@ -1250,7 +1259,8 @@ TVBS NEWS,https://m.youtube.com/watch?v=m_dhMSvUCIc
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBS新聞台,https://m.youtube.com/watch?v=2mCSYvcfhtc
 TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&data=normal
-TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data=normal中天亞洲台,https://m.youtube.com/@CtiAsia/streams/1
+TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data=normal
+中天亞洲台,https://m.youtube.com/@CtiAsia/streams/1
 中天新聞,https://m.youtube.com/@中天電視CtiTv/streams/1
 中天新聞1臺,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新聞2台,https://m.youtube.com/@ctiplusnews/streams/1
