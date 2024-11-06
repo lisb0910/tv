@@ -39,9 +39,9 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 非凡新闻台（p2p）,mitv://135.148.104.228:19806/a404066e65af4566931c773a385ed1e3
 非凡新闻台（p2p）,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新闻台（p2p）,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
+東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經新聞台,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
 東森財經新聞台,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
-東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經新聞台,http://211.72.65.236:8546/.m3u8
 東森財經新聞台,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
 東森財經新聞台,http://23.26.239.95:3599/xsj.php?id=ebc-finance
@@ -49,8 +49,8 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 東森財經新聞(P2p),P2p://generationnexxxt.com:19806/5634f613b7f84f81a5c56a6af4311d57
 東森財經新聞(P2p),P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
 東森財經新聞(P2p),rtmp://f13h.mine.nu/sat/tv571
-東森新聞,http://211.72.65.236:8540/.m3u8
 東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
+東森新聞,http://211.72.65.236:8540/.m3u8
 東森新聞,http://ali.hlspull.yximgs.com/live/tboxpromhqttuqqcvbyquoqdqqeqywefqqfbxfbxxvbqqqlqqhqsxw.flv
 東森新聞,https://z88.ubtvfans.com/live/rx4/1025/120101fea9b83efc1e1567b35983558b/index.m3u8
 東森新聞,http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
@@ -74,14 +74,14 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 三立新聞台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
 三立新聞台,mitv://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
 三立財經新聞,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-中天新闻台(B),http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中天新聞,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新闻,http://ali.hlspull.yximgs.com/live/tboxpropqqtvvqqqyquuqqfvbscvqdqtwqfsqqsqqqcvuyqemqeqtxw.flv
 中天新聞,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
 中天新聞,http://211.72.65.236:8541/.m3u8
 中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-中天新聞,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天新聞,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+中天亞洲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中视新闻台,P2p://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
 华视新闻,P2p://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
@@ -104,8 +104,9 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 台视,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
 台視財經台,https://litv.zapi.us.kg/?id=4gtv-4gtv056
 台視財經台,https://z88.ubtvfans.com/live/rx1/300/b2a1f44e14f47427518936897549976e/index.m3u8
-台視新聞台,https://live.wcetv.com/hls/master-ttvnews.m3u8#https://live.wcetv.com/hls/m3u8/ttvnews.m3u8#https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+台視新聞台,https://live.wcetv.com/hls/master-ttvnews.m3u8#https://live.wcetv.com/hls/m3u8/ttvnews.m3u8#https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
+鳳凰資訊,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 鳳凰資訊,http://61.221.215.25:8800/hls/47/index.m3u8
 鳳凰資訊,http://125.227.210.55:39004/VideoInput/play.ts
 民視新聞台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
@@ -145,7 +146,7 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 八大綜合,http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
-八大綜合,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
+八大戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
 大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 中天亞洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
@@ -163,6 +164,7 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 台視,rtmp://f13h.mine.nu/sat/tv071
 台視,mitv://generationnexxxt.com:19806/3c20d4387ec845149b2ded5f28805f18
 台視,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
+台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視綜合台,mitv://generationnexxxt.com:19806/6593a4d5000dedcb98fef0154abd184d
 台視綜合台,P2p://generationnexxxt.com:19806/6593a4d5000dedcb98fef0154abd184d
@@ -208,6 +210,7 @@ TVBS歡樂,http://37.27.111.214:8080/live/24/hls.m3u8
 華視,http://37.27.111.214:8080/live/8/hls.m3u8
 華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 華視,rtmp://f13h.mine.nu/sat/tv111
+華視戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 靖天電影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 臺灣戲劇台,https://litv.zapi.us.kg/?id=litv-longturn22
@@ -432,10 +435,12 @@ LUXETV,http://37.27.111.214:8080/live/86/hls.m3u8
 
 
 大陸頻道,#genre#
+CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8
 CCTV1,http://58.213.250.8:8001/rtp/239.49.8.129:6000
-CCTV1,http://119.98.133.138:4000/rtp/239.254.96.96:8550
+CCTV2,http://120.76.248.139/live/bfgd/4200000061.m3u8
 CCTV2,http://119.98.133.138:4000/rtp/239.69.1.102:10250
 CCTV3,http://119.98.133.138:4000/rtp/239.69.1.122:10370
+CCTV4,http://120.76.248.139/live/bfgd/4200000063.m3u8
 CCTV4,http://119.98.133.138:4000/rtp/239.69.1.138:10466
 CCTV5,http://119.98.133.138:4000/rtp/239.69.1.123:10376
 CCTV5+,http://119.98.133.138:4000/rtp/239.254.96.234:9484
@@ -461,19 +466,20 @@ CCTV16奥林匹克-4K,http://119.98.133.138:4000/rtp/239.69.1.249:11136
 BestTV测试1-4K,http://119.98.133.138:4000/rtp/239.69.1.26:9796厦门卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
 厦门卫视,http://114.243.104.64:8822/rtp/239.3.1.143:4120
 厦门卫视,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221225689/index.m3u8
+东方卫视,http://120.76.248.139/live/bfgd/4200000093.m3u8
+东南卫视,http://120.76.248.139/live/bfgd/4200000483.m3u8
 东南卫视,http://119.98.133.138:4000/rtp/239.69.1.108:10286
-东南卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 东南卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
-江苏卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
+江苏卫视,http://120.76.248.139/live/bfgd/4200000085.m3u8
 江苏卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 江苏卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226495/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 浙江卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
-浙江卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
+浙江卫视,http://120.76.248.139/live/bfgd/4200000094.m3u8
 湖南卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 湖南卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 湖南卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226430/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
-广东卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
-深圳卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
+广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8
+深圳卫视,http://120.76.248.139/live/bfgd/4200000100.m3u8
 深圳卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 深圳卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 广西卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
