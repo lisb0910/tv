@@ -3,14 +3,14 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 Decoder=3
 
 📺台灣新聞,#genre#
+TVBS HD,https://litv.zapi.us.kg/?id=4gtv-4gtv073
 TVBS HD,http://37.27.111.214:8080/live/23/hls.m3u8
-TVBS HD,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS HD,http://211.72.65.236:8575/.m3u8
 TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
+TVBS HD,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 TVBS HD,mitv://135.148.104.228:19806/9e185dd6c7dd46edb5a7d675e4fca701
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS HD,https://litv.zapi.us.kg/?id=4gtv-4gtv073
 TVBS 56臺,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
@@ -1266,22 +1266,44 @@ Decoder=3
 民視新聞,http://www.youtube.com/watch?v=ylYJSBUgaMA
 民視新聞,https://m.youtube.com/@FTV_News/streams/1
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA&fmt=37
-三立 iNews,https://www.youtube.com/watch?v=CKjSm5ZeehE
+三立 iNews,https://www.youtube.com/watch?v=pF507BLtbqU
 三立 iNews,https://m.youtube.com/@setinews/streams/1
 三立 Live,https://m.youtube.com/@setnews/live
 三立 NEWS+,https://m.youtube.com/watch?v=oZdzzvxTfUY
 三立新聞,https://m.youtube.com/watch?v=FoBfXvlOR6I
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY&fmt=37
 三立財經,https://www.youtube.com/watch?v=CKjSm5ZeehE&fmt=37
+非凡商業,https://www.youtube.com/watch?v=QlJJEwMYzEc
+非凡新聞,https://www.youtube.com/watch?v=NHQDx8vCrC4
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+東森新聞,https://m.youtube.com/watch?v=LuQ4S-i5zoE
+東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
+東森財經新聞,https://youtu.be/1I2iq41Akmo?list=PLUz3zvlwsLgVePWqWAjGpDBAvr2oz3jZC
+東森財經股市,https://www.youtube.com/watch?v=AEBeWMM1atA
+東森LIVE,https://www.youtube.com/watch?v=R2iMq5LKXco
+東森LIVE,https://m.youtube.com/watch?v=E0zhe2gkXBs
+東森LIVE,https://clonglii.serv00.net/youtube_d.php?id=E0zhe2gkXBs&data=normal
+TVBS HD,https://bit.ly/2HgBc3K
+TVBS HD,https://clonglii.serv00.net/youtube_d.php?id=YvdcZ_jpLXE&data=normal
+TVBS HD,https://clonglii.serv00.net/youtube_d.php?id=YvdcZ_jpLXE&ln=2&data=normal
+TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
+TVBS NEWS,https://m.youtube.com/watch?v=m_dhMSvUCIc
+TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS新聞台,https://youtu.be/m_dhMSvUCIc?list=PLUz3zvlwsLgVePWqWAjGpDBAvr2oz3jZC
+TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&data=normal
+TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data=normal
+中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
+中天新聞1臺,https://www.youtube.com/watch?v=oIgbl7t0S_w
+中天新聞2台,https://m.youtube.com/@ctiplusnews/streams/1
+中天新聞2臺,https://www.youtube.com/watch?v=WPfPjbOLNfE
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
 公視新聞,https://m.youtube.com/@PNNPTS/streams/1
 公視,https://m.youtube.com/@ptslivestream/streams/1
 公視台語台,https://m.youtube.com/channel/UCX6SRupi5lTDbIFJEOpReCQ/streams/1
-非凡商業,https://www.youtube.com/watch?v=QlJJEwMYzEc
 臺視新聞,http://www.youtube.com/watch?v=xL0ch83RAK8
 華視新聞,http://m.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞,https://m.youtube.com/@CtsTw/streams/1
-鏡新聞,https://m.youtube.com/@mnews-tw/streams/1
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 寰宇新聞,http://m.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞,https://m.youtube.com/@globalnewstw/streams/1
 寰宇新聞2,https://m.youtube.com/@globalnewstw/streams/3
@@ -1290,31 +1312,6 @@ Decoder=3
 寰宇新聞台灣台,https://m.youtube.com/@globalnewstw/streams/2
 寰宇新聞臺灣臺,http://m.youtube.com/live/w87VGpgd90U
 寰宇財經台,https://m.youtube.com/@globlemoney/streams/1
-東森LIVE,https://www.youtube.com/watch?v=R2iMq5LKXco
-東森LIVE,https://m.youtube.com/watch?v=E0zhe2gkXBs
-東森LIVE,https://clonglii.serv00.net/youtube_d.php?id=E0zhe2gkXBs&data=normal
-東森新聞,https://www.youtube.com/watch?v=LuQ4S-i5zoE&fmt=37
-東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
-東森新聞,https://m.youtube.com/watch?v=LuQ4S-i5zoE
-EBC東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw&fmt=37
-東森財經新聞,https://www.youtube.com/live/WHEPzbFA3hw
-東森財經新聞,https://m.youtube.com/@57ETFN/streams/2
-東森財經股市,https://www.youtube.com/watch?v=LbS-xQ67fos
-東森財經股市,https://m.youtube.com/@57ETFN/streams/1
-TVBS HD,https://m.youtube.com/watch?v=YvdcZ_jpLXE
-TVBS HD,https://clonglii.serv00.net/youtube_d.php?id=YvdcZ_jpLXE&data=normal
-TVBS HD,https://clonglii.serv00.net/youtube_d.php?id=YvdcZ_jpLXE&ln=2&data=normal
-TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVBS NEWS,https://m.youtube.com/watch?v=m_dhMSvUCIc
-TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
-TVBS新聞台,https://m.youtube.com/watch?v=2mCSYvcfhtc
-TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&data=normal
-TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data=normal
-中天亞洲台,https://m.youtube.com/@CtiAsia/streams/1
-中天新聞,https://m.youtube.com/@中天電視CtiTv/streams/1
-中天新聞1臺,https://www.youtube.com/watch?v=oIgbl7t0S_w
-中天新聞2台,https://m.youtube.com/@ctiplusnews/streams/1
-中天新聞2臺,https://www.youtube.com/watch?v=WPfPjbOLNfE
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 中視新聞,https://m.youtube.com/@twctvnews/streams/1
 全球財經台,https://m.youtube.com/@user-ro8bu3to2t/streams/1
