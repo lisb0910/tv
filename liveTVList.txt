@@ -16,11 +16,11 @@ TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
+TVBS新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 TVBS新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 TVBS新聞台,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 TVBS新聞台,http://211.72.65.236:8574/.m3u8
 TVBS新聞台,rtmp://f13h.mine.nu/sat/tv551
-TVBS新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 TVBS新聞（p2p）,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 TVBS新聞（p2p）,P2p://generationnexxxt.com:19806/53f80a10fb054d5ab0649a59980025a9
 TVBS新聞（p2p）,P2p://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65804
@@ -53,7 +53,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 東森財經新聞(P2p),P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
 東森財經新聞(P2p),rtmp://f13h.mine.nu/sat/tv571
 東森新聞,http://litv.zapi.us.kg/?id=4gtv-4gtv152
-東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
+東森新聞,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
 東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 東森新聞,https://stream1.freetv.fun/cc12094e587ba5c0817931b093c74ad6ca7f3f13394b1986dc1aaf6c201f8499.ctv
 東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
@@ -304,12 +304,13 @@ Nick動畫頻貳,http://37.27.111.214:8080/live/22/hls.m3u8
 民视影剧,https://litv.zapi.us.kg/?id=litv-ftv09
 台湾戏剧台,https://litv.zapi.us.kg/?id=litv-longturn22
 公视戏剧,https://litv.zapi.us.kg/?id=4gtv-4gtv042
+HBO HD,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
-HBO HD,P2p://generationnexxxt.com:19806/ccabaebf243e4385a8f39a6abf31f8bb
-HBO强档p3p,p3p://108.181.32.169:42218/64137f700008f329a583c3344ddf5dfc
-HBO原创p3p,p3p://108.181.32.169:42218/64137f970005246ea5845a9326ce6233
-HBO Hits,https://z88.ubtvfans.com/live/rx1/330/672bf68a0a682cd02168cf83418d4aef/index.m3u8
-HBO_HD中文,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+HBO-p3p,P2p://generationnexxxt.com:19806/ccabaebf243e4385a8f39a6abf31f8bb
+HBO-p3p,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
+HBO-p3p,p3p,p3p://108.181.32.169:42218/64137f970005246ea5845a9326ce6233
+漫威影院,http://120.77.28.4:8648/douyu.php?id=6140589
+欧美大片,http://120.77.28.4:8648/douyu.php?id=2793084
 杰森斯坦森,http://159.75.85.63:35455/huya/21059588
 探案台,http://37.27.111.214:8080/live/11/hls.m3u8
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
@@ -435,6 +436,7 @@ MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
 Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 History,http://37.27.111.214:8080/live/27/hls.m3u8
+荒野求生,https://live.iill.top/huya/593667
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 地理野生動物,http://168.119.255.170/403/video.m3u8?token=M4f082ab4c
 亞洲旅遊台,http://37.27.111.214:8080/live/10/hls.m3u8
@@ -451,26 +453,23 @@ LUXETV,http://37.27.111.214:8080/live/86/hls.m3u8
 
 
 大陸頻道,#genre#
-CCTV-01咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv1
-CCTV-02咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv2 
-CCTV-03咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv3
-CCTV-04咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4
-CCTV-04美洲咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4a 
-CCTV-04欧洲咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4o
-CCTV-05咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv5
-CCTV-05+咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv5p
-CCTV-06咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv6 
-CCTV-07咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv7 
-CCTV-08咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv8
-CCTV-09咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv9
-CCTV-10咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv10
-CCTV-11咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv11
-CCTV-12咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv12
-CCTV-13咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv13
-CCTV-14咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv14
-CCTV-15咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv15
-CCTV-17咪咕,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv17
-厦门卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000058
+CCTV1,http://iptv.887979.xyz/ysptp/cctv1.m3u8
+CCTV2,http://iptv.887979.xyz/ysptp/cctv2.m3u8
+CCTV3,http://iptv.887979.xyz/ysptp/cctv3.m3u8
+CCTV4,http://iptv.887979.xyz/ysptp/cctv4.m3u8
+CCTV5,http://iptv.887979.xyz/ysptp/cctv5.m3u8
+CCTV5+,http://iptv.887979.xyz/ysptp/cctv5p.m3u8
+CCTV7,http://iptv.887979.xyz/ysptp/cctv7.m3u8
+CCTV8,http://iptv.887979.xyz/ysptp/cctv8.m3u8
+CCTV9,http://iptv.887979.xyz/ysptp/cctv9.m3u8
+CCTV10,http://iptv.887979.xyz/ysptp/cctv10.m3u8
+CCTV11,http://iptv.887979.xyz/ysptp/cctv11.m3u8
+CCTV12,http://iptv.887979.xyz/ysptp/cctv12.m3u8
+CCTV13,http://iptv.887979.xyz/ysptp/cctv13.m3u8
+CCTV14,http://iptv.887979.xyz/ysptp/cctv14.m3u8
+CCTV15,http://iptv.887979.xyz/ysptp/cctv15.m3u8
+CCTV16,http://iptv.887979.xyz/ysptp/cctv16.m3u8
+CCTV17,http://iptv.887979.xyz/ysptp/cctv17.m3u8厦门卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000058
 厦门卫视,http://1b6467f415.iok.la:9931/tsfile/live/1093_1.m3u8
 厦门卫视,http://220.164.192.48:50085/tsfile/live/1004_1.m3u8
 厦门卫视,http://125.70.181.206:4000/udp/239.93.42.57:5140
