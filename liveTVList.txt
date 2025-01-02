@@ -4,10 +4,10 @@ Decoder=3
 
 📺台灣新聞,#genre#
 TVBS HD,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv073
-TVBS HD,http://37.27.111.214:8080/live/23/hls.m3u8
+TVBS HD,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv073
 TVBS HD,http://211.72.65.236:8575/.m3u8
 TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
-TVBS HD,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS HD,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv073
 TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 TVBS HD,mitv://135.148.104.228:19806/9e185dd6c7dd46edb5a7d675e4fca701
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
@@ -16,12 +16,12 @@ TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
+TVBS新聞台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv072
 TVBS新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
 TVBS新聞台,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv072
 TVBS新聞台,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 TVBS新聞台,http://211.72.65.236:8574/.m3u8
 TVBS新聞台,rtmp://f13h.mine.nu/sat/tv551
-TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS新聞（p2p）,P2p://generationnexxxt.com:19806/53f80a10fb054d5ab0649a59980025a9
 TVBS新聞（p2p）,P2p://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65804
 TVBS新聞（p2p）,P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1e1
@@ -42,7 +42,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 非凡新闻台（p2p）,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經新聞台,http://rjy.x3322.net:5000/litv/4gtv-4gtv153
-東森財經新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv153
+東森財經新聞台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv153
 東森財經新聞台,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
 東森財經新聞台,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
 東森財經新聞台,http://211.72.65.236:8546/.m3u8
@@ -53,7 +53,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 東森財經新聞(P2p),P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
 東森財經新聞(P2p),rtmp://f13h.mine.nu/sat/tv571
 東森新聞,http://rjy.x3322.net:5000/litv/4gtv-4gtv152
-東森新聞,https://www.4gtv.tv/channel/4gtv-4gtv152?set=1&ch=292
+東森新聞,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv152
 東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 東森新聞,https://stream1.freetv.fun/cc12094e587ba5c0817931b093c74ad6ca7f3f13394b1986dc1aaf6c201f8499.ctv
 東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
@@ -67,6 +67,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 东森新闻台(备),http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立iNEWS,https://4gtv.mytvsuper.xyz/?id=4gtv-live089
 三立新聞台,http://125.227.210.55:8162/VideoInput/play.ts
 三立新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新聞台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
@@ -85,7 +86,8 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 中天亞洲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 中視新聞,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv074
-华视新闻,P2p://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
+中視新聞,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv074
+华视新闻,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv052
 SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983f7fcbd4/index.m3u8
 年代新闻,https://stream1.freetv.fun/28f2a175c45cd3d6885a0432398d36f149c45c516575d0da8a4312b445351c10.m3u8
 年代新闻,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
@@ -100,11 +102,12 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 台视,https://litv.zapi.us.kg/?id=4gtv-4gtv066
 台视,P2p://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
 台视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+台視財經台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv056
 台視財經台,https://litv.zapi.us.kg/?id=4gtv-4gtv056
 台視財經台,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv056
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://live.wcetv.com/hls/master-ttvnews.m3u8#https://live.wcetv.com/hls/m3u8/ttvnews.m3u8#https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
-台視新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv051
+台視新聞台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv051
 鳳凰資訊,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 鳳凰資訊,http://125.227.210.55:39004/VideoInput/play.ts
@@ -112,13 +115,13 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 民視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 民視新聞台,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-ftv13
 民視新聞台,http://37.27.111.214:8080/live/6/hls.m3u8
-民視新聞台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民視新聞台,https://4gtv.mytvsuper.xyz/?id=litv-ftv13
 民視新聞台P2p,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 民視新聞台P2p,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 鏡新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 鏡新聞台,http://37.27.111.214:8080/live/62/hls.m3u8
 鏡新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv075
-鏡新聞台,P2p://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
+鏡新聞台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv075
 鏡新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 鏡新聞台,mitv://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
 寰宇台湾,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn15
@@ -129,6 +132,7 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 寰宇新聞台,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn14
 寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 全球財经,http://rjy.x3322.net:5000/4gtv/224
+全球財经,https://4gtv.mytvsuper.xyz/?id=4gtv-live130
 
 
 台灣頻道,#genre#
@@ -136,9 +140,9 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 三立臺灣,http://211.72.65.236:8537/.m3u8
 三立臺灣,http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
-三立新聞,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+三立新聞,https://4gtv.mytvsuper.xyz/?id=4gtv-live089
 三立綜合,http://rjy.x3322.net:5000/4gtv/169
-三立綜合,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+三立綜合,https://4gtv.mytvsuper.xyz/?id=4gtv-live207
 三立綜合,http://37.27.111.214:8080/live/31/hls.m3u8
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 三立戲劇,https://stream1.freetv.fun/38b16d6f182cd55b7a542696a148d850cf352ea7c01b6a76d452002644e34fbb.m3u8
@@ -150,6 +154,7 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 八大綜合,http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
 八大戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+八大精彩台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv034
 八大精彩台,http://rjy.x3322.net:5000/litv/4gtv-4gtv034
 大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 中天亞洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
@@ -160,7 +165,7 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 中天新聞2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 中天綜合,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
 中天綜合,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-中視,http://37.27.111.214:8080/live/7/hls.m3u8
+中視,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv040
 中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 中視,rtmp://f13h.mine.nu/sat/tv091
 公視,http://125.227.210.55:8164/VideoInput/play.ts
@@ -173,17 +178,19 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 台視綜合台,mitv://generationnexxxt.com:19806/6593a4d5000dedcb98fef0154abd184d
 台視綜合台,P2p://generationnexxxt.com:19806/6593a4d5000dedcb98fef0154abd184d
 民視,https://litv.zapi.us.kg/?id=4gtv-4gtv002
-民視,http://211.72.65.236:8541/.m3u8
+民視,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv002
 民視,http://37.27.111.214:8080/live/6/hls.m3u8
 民視,rtmp://f13h.mine.nu/sat/tv051
 民視新聞台,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-ftv13
+民視新聞台,https://4gtv.mytvsuper.xyz/?id=litv-ftv13
 民視台灣台,http://37.27.111.214:8080/live/5/hls.m3u8
 民視台灣台,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv001
+民視台灣台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv001
 民視旅遊,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-ftv07
 民視旅遊,http://litv.zapi.us.kg/?id=litv-ftv07
 民視第一台,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv003
 民視第一台,https://litv.zapi.us.kg/?id=4gtv-4gtv003
-民視第一台,P2p://generationnexxxt.com:19806/1c48731982a54a59a9555f7247f3bf7f
+民視第一台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv003
 民視第綜藝台,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv004
 民視第一頻道,http://37.27.111.214:8080/live/4/hls.m3u8
 民視臺灣,http://37.27.111.214:8080/live/5/hls.m3u8
@@ -195,7 +202,7 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 居家,http://37.27.111.214:8080/live/26/hls.m3u8
 東森超視,rtmp://f13h.mine.nu/sat/tv331
 東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-東森新聞,http://220.249.51.134:10006/东森新闻-盗源者死全家/易發TV/hls.m3u8
+東森新聞,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv152
 東森Live,https://stream1.freetv.fun/27238a4dfef13f9989c8ed00588f93f244e815902d6d5c42241767e1714c0bb1.ctv
 東森Live,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 東森美洲,http://37.27.111.214:8080/live/20/hls.m3u8
@@ -227,8 +234,9 @@ TVBS歡樂,http://37.27.111.214:8080/live/24/hls.m3u8
 華視戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 靖天電影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-臺灣戲劇台,https://litv.zapi.us.kg/?id=litv-longturn22
-影迷數位台,https://litv.zapi.us.kg/?id=4gtv-4gtv011
+臺灣戲劇台,https://4gtv.mytvsuper.xyz/?id=litv-longturn22
+影迷數位台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv011
+影迷數位紀實台,https://4gtv.mytvsuper.xyz/?id=4gtv-live023
 影迷數位紀實台,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/4gtv/212
 靖天综合台,https://litv.zapi.us.kg/?id=4gtv-4gtv046
 靖天日本台,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv047
@@ -251,7 +259,7 @@ HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 龍華電影台,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn03
 龍華電影台,https://litv.zapi.us.kg/?id=litv-longturn03
 龍華戲劇台,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/litv-longturn18
-amc電影頻英,http://61.221.215.25:8800/hls/43/index.m3u8
+amc電影頻英,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv017
 萬秀豬王,http://37.27.111.214:8080/live/35/hls.m3u8
 萬秀豬王,http://www.terrykang.xyz:35455/youtube/ADDSmXoPDY8
 萬秀豬王,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
@@ -314,7 +322,7 @@ HBO-p3p,p3p,p3p://108.181.32.169:42218/64137f970005246ea5845a9326ce6233
 CI 罪案偵查頻道,http://rjy.x3322.net:5000/4gtv/215
 探案台,http://37.27.111.214:8080/live/11/hls.m3u8
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
-AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017
+AMC电影,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv017
 AXN亞洲,https://streamer1.nexgen.bz/AXN/index.m3u8
 AXN臺灣,https://z88.ubtvfans.com/live/rx1/2816/e5ef36f1ac98bfb819d5f3232972d391/index.m3u8
 CHC高清電影,P2p://generationnexxxt.com:19806/c77364a223374152b5dfccd162cc159a
@@ -431,6 +439,7 @@ ZooMoo-AKtv,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 地理野生動物,http://168.119.255.170/403/video.m3u8?token=M4f082ab4c
 亞洲旅遊台,http://rjy.x3322.net:5000/litv/litv-longturn17
 亞洲旅遊台,http://61.221.215.25:8800/hls/50/index.m3u8
+亞洲旅遊台,https://4gtv.mytvsuper.xyz/?id=litv-longturn17
 LUXE TV,http://rjy.x3322.net:5000/4gtv/175
 LOVENATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 時尚FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
