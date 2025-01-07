@@ -3,7 +3,7 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 Decoder=3
 
 📺台灣新聞,#genre#
-TVBS HD,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv073
+TVBS HD,http://rjy.x3322.net:5000/litv/4gtv-4gtv073
 TVBS HD,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv073
 TVBS HD,http://211.72.65.236:8575/.m3u8
 TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
@@ -17,8 +17,8 @@ TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
 TVBS新聞台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv072
-TVBS新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
-TVBS新聞台,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv072
+TVBS新聞台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv072
+TVBS新聞台,http://rjy.x3322.net:5000/litv/4gtv-4gtv072
 TVBS新聞台,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 TVBS新聞台,http://211.72.65.236:8574/.m3u8
 TVBS新聞台,rtmp://f13h.mine.nu/sat/tv551
@@ -27,12 +27,12 @@ TVBS新聞（p2p）,P2p://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c
 TVBS新聞（p2p）,P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1e1
 #P2p://generationnexxxt.com:19806/53f80a10fb054d5ab0649a59980025a9
 TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
+非凡商業台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv048
 非凡商業台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8545/.m3u8
-非凡商業台,https://litv.zapi.us.kg/?id=4gtv-4gtv048
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
-非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+非凡新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv010
 非凡新聞,http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKr2WwbVdHJVIKKK705vhaXY/.m3u8
 非凡新聞,http://23.26.239.95:3599/xsj.php?id=unique-business-news
 非凡新聞,http://rjy.x3322.net:5000/litv/4gtv-4gtv010
@@ -42,7 +42,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 非凡新闻台（p2p）,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經新聞台,http://rjy.x3322.net:5000/litv/4gtv-4gtv153
-東森財經新聞台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv153
+東森財經新聞台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv153
 東森財經新聞台,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
 東森財經新聞台,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
 東森財經新聞台,http://211.72.65.236:8546/.m3u8
@@ -52,7 +52,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 東森財經新聞(P2p),P2p://generationnexxxt.com:19806/5634f613b7f84f81a5c56a6af4311d57
 東森財經新聞(P2p),P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
 東森財經新聞(P2p),rtmp://f13h.mine.nu/sat/tv571
-東森新聞,http://rjy.x3322.net:5000/litv/4gtv-4gtv152
+東森新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv152
 東森新聞,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv152
 東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 東森新聞,https://stream1.freetv.fun/cc12094e587ba5c0817931b093c74ad6ca7f3f13394b1986dc1aaf6c201f8499.ctv
@@ -240,10 +240,10 @@ HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 影迷數位紀實台,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/4gtv/212
 靖天综合台,https://litv.zapi.us.kg/?id=4gtv-4gtv046
 靖天日本台,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv047
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來日本,http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
 緯來日本,http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
 緯來日本,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
-緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂,http://211.72.65.236:8584/.m3u8
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
