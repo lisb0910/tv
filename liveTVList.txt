@@ -3,10 +3,10 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 Decoder=3
 
 📺台灣新聞,#genre#
-TVBS HD,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS HD,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv073
-TVBS HD,http://211.72.65.236:8575/.m3u8
 TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
+TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS HD,https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
+TVBS HD,http://211.72.65.236:8575/.m3u8
 TVBS HD,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv073
 TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 TVBS HD,mitv://135.148.104.228:19806/9e185dd6c7dd46edb5a7d675e4fca701
@@ -44,7 +44,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 台視財經台,https://litv.zapi.us.kg/?id=4gtv-4gtv056
 台視財經台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv056
 三立財經新聞,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-東森財經新聞台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv153
+東森財經新聞台,https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293
 東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經新聞台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv153
 東森財經新聞台,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
@@ -489,8 +489,8 @@ ELEVEN2體育,rtmp://twcdn.top/sat/tv741
 
 
 紀實頻道,#genre#
-幸福空間,https://4gtv.mytvsuper.xyz/?id=4gtv-live206
 幸福空間,https://www.4gtv.tv/channel/4gtv-live206?set=1&ch=168
+幸福空間,https://4gtv.mytvsuper.xyz/?id=4gtv-live206
 TLC,http://50.7.234.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 TLC,http://50.7.234.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 TLC,http://211.72.65.236:8511/.m3u8
@@ -498,6 +498,7 @@ TLC Canada,https://z88.ubtvfans.com/live/rx4/1262/adc7d3ca892336cdf136b5486b0023
 ELTA生活旅游,http://37.27.111.214:8080/live/85/hls.m3u8
 ELTA生活旅游,http://rjy.x3322.net:5000/4gtv/237
 大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+民視旅遊,https://www.4gtv.tv/channel/litv-ftv07?set=1&ch=61
 民視旅遊,https://4gtv.mytvsuper.xyz/?id=litv-ftv07
 MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
