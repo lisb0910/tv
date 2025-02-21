@@ -14,8 +14,8 @@ TVBS HD,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-TVBS新聞台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv072
 TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
+TVBS新聞台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv072
 TVBS新聞台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv072
 TVBS新聞台,http://fm1077.serv00.net/Smart.php?id=tvbs_n
 TVBS新聞台,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
@@ -27,12 +27,12 @@ TVBS新聞（p2p）,P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f
 TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 非凡商業台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv048
 非凡商業台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8545/.m3u8
+非凡新聞,rtmp://f13h.mine.nu/sat/tv581
+非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477083.m3u8
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
-非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,http://fm1077.serv00.net/Smart.php?id=feifannews_twn
 非凡新聞,http://125.229.9.67:8545/http/220.130.87.218:8081/hls/75/817/ch057.m3u8
-非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv010
 非凡新闻台（p2p）,mitv://135.148.104.228:19806/3d7f2e1d0e04407ba29c656092041b09
 非凡新闻台（p2p）,mitv://135.148.104.228:19806/a404066e65af4566931c773a385ed1e3
@@ -789,9 +789,9 @@ VIP頻道,#genre#
 👅奧視🔞3,http://125.227.210.55:8917/VideoInput/play.ts
 🔮奧視2,http://125.227.210.55:55643/VideoInput/play.ts
 麻豆影畫,http://125.227.210.55:51359/VideoInput/play.ts
+松視1(18),http://suo.im/c4FP2
 松視1(18),https://2.ddyunbo.com/20190914/dSIYelxz/index.m3u8
 松視1(18),http://18.svi-studio.com/live/176619383282/537544338952/5.m3u8
-松視1(P2p),P2p://147.135.39.171:9906/5e9e806400061219c0ba862b0384014c.ts
 松視1(p3p),p3p://108.181.20.159:75234/5fe445280008a40682a0367c343436bb
 松視2(p3p),p3p://108.181.20.159:75234/60232b5f00007bc37850649979e379df
 松視2(18),https://z100.cdn2020.com/video/m3u8/2020/07/23/7029e94d/index.m3u8
@@ -799,6 +799,7 @@ VIP頻道,#genre#
 松視3(18),https://2.ddyunbo.com/20190904/ZnGN7sEl/index.m3u8
 松視3(18),http://18.svi-studio.com/live/176619383282/537544338952/20205.m3u8
 限制级电影,https://2.ddyunbo.com/20191004/FxbqgEFY/index.m3u8
+脱衣女仆,https://1080p.huyall.com/play/YerDQNKb/index.m3u8
 强欲少妇开脚勾引修理工-季妍希,https://t21.cdn2020.com/video/m3u8/2023/04/14/2b3b9462/index.m3u8
 厨师到你家,https://t21.cdn2020.com/video/m3u8/2023/03/31/082defcd/index.m3u8
 爱的心理辅导,https://t21.cdn2020.com/video/m3u8/2023/04/25/9512857a/index.m3u8
