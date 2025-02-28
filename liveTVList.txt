@@ -28,9 +28,9 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 非凡商業台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv048
 非凡商業台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8545/.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
-非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-非凡新聞,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/477083.m3u8
-非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
+非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+非凡新聞,http://108.181.20.197/livehttpplay?channel_id=20034
+非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 非凡新聞,http://fm1077.serv00.net/Smart.php?id=feifannews_twn
 非凡新聞,http://125.229.9.67:8545/http/220.130.87.218:8081/hls/75/817/ch057.m3u8
 非凡新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv010
@@ -149,7 +149,7 @@ Decoder=3
 民視新聞,http://www.youtube.com/watch?v=ylYJSBUgaMA
 民視新聞,https://m.youtube.com/@FTV_News/streams/1
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA&fmt=37
-三立 iNews,https://www.youtube.com/watch?v=pF507BLtbqU
+三立 iNews,https://youtu.be/MV9mI0GChwo
 三立 iNews,https://m.youtube.com/@setinews/streams/1
 三立 Live,https://m.youtube.com/@setnews/live
 三立 NEWS+,https://m.youtube.com/watch?v=oZdzzvxTfUY
@@ -158,25 +158,25 @@ Decoder=3
 三立財經,https://www.youtube.com/watch?v=CKjSm5ZeehE&fmt=37
 非凡商業,https://www.youtube.com/watch?v=QlJJEwMYzEc
 非凡新聞,https://www.youtube.com/watch?v=NHQDx8vCrC4
-東森新聞,https://youtu.be/V1p33hqPrUk
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森新聞,http://www.youtube.com/c/newsebc/live
 東森財經新聞,https://www.youtube.com/@57ETFN/live
 東森財經新聞,https://www.youtube.com/watch?v=1I2iq41Akmo
 東森財經新聞,https://youtu.be/1I2iq41Akmo?list=PLUz3zvlwsLgVePWqWAjGpDBAvr2oz3jZC
 東森財經股市,https://www.youtube.com/watch?v=AEBeWMM1atA
-東森LIVE,https://www.youtube.com/watch?v=R2iMq5LKXco
+東森LIVE,https://youtu.be/V1p33hqPrUk
 東森LIVE,https://m.youtube.com/watch?v=E0zhe2gkXBs
 東森LIVE,https://clonglii.serv00.net/youtube_d.php?id=E0zhe2gkXBs&data=normal
-TVBS HD,https://bit.ly/2HgBc3K
+TVBS HD,https://youtu.be/tyT_B7LJIPw
 TVBS HD,https://clonglii.serv00.net/youtube_d.php?id=YvdcZ_jpLXE&data=normal
 TVBS HD,https://clonglii.serv00.net/youtube_d.php?id=YvdcZ_jpLXE&ln=2&data=normal
-TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
+TVBS NEWS,https://youtu.be/m_dhMSvUCIc
 TVBS NEWS,https://m.youtube.com/watch?v=m_dhMSvUCIc
-TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS新聞,https://youtu.be/khRyrHgs0t8
 TVBS新聞台,https://youtu.be/m_dhMSvUCIc?list=PLUz3zvlwsLgVePWqWAjGpDBAvr2oz3jZC
 TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&data=normal
 TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data=normal
-中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
+中天新聞,https://youtu.be/vr3XyVCR4T0
 中天新聞1臺,https://www.youtube.com/watch?v=oIgbl7t0S_w
 中天新聞2台,https://m.youtube.com/@ctiplusnews/streams/1
 中天新聞2臺,https://www.youtube.com/watch?v=WPfPjbOLNfE
@@ -188,7 +188,7 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 華視新聞,http://m.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞,https://m.youtube.com/@CtsTw/streams/1
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-寰宇新聞,http://m.youtube.com/watch?v=6IquAgfvYmc
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞,https://m.youtube.com/@globalnewstw/streams/1
 寰宇新聞2,https://m.youtube.com/@globalnewstw/streams/3
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc&fmt=37
@@ -202,8 +202,10 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 創世電視,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8&data=normal
 台灣地震監視,https://m.youtube.com/@eqm/streams/1 
 台視(台灣節點),https://m.youtube.com/watch?v=uDqQo8a7Xmk
-台視新聞,https://m.youtube.com/@TTV_NEWS/streams/1
-唯心電視台,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8&data=normal
+台視新聞,https://www.youtube.com/watch?v=fyqNPsod_RM
+舌尖上的中国第四季 01,https://www.youtube.com/watch?v=9efpLqzjvCw
+舌尖上的中国第四季 02,https://www.youtube.com/watch?v=hVfBTUF4cHM
+舌尖上的中国第四季 03,https://www.youtube.com/watch?v=zRx82X5S5rY
 國會頻道1,https://m.youtube.com/@parliamentarytv/streams/1
 國會頻道2,https://m.youtube.com/@parliamentarytv/live
 大愛一臺-全球直播,https://m.youtube.com/watch?v=MIqUplvSRWA
@@ -377,7 +379,7 @@ TVBS歡樂,http://37.27.111.214:8080/live/24/hls.m3u8
 华视闽南4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv041
 华视新闻4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv052
 地理野生動物,http://168.119.255.170/403/video.m3u8?token=M4f082ab4c
-好消息贰4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv17
+好莱坞电影,http://108.181.20.197/livehttpplay?channel_id=20062
 好消息壹4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv16
 时尚运动4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv014
 达文西台4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv018
@@ -525,7 +527,7 @@ CineMAX,http://125.227.210.55:8151/VideoInput/play.ts
 东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
 好莱坞电影,http://fm1077.serv00.net/Smart.php?id=hollywoodmovies_twn
-好莱坞电影,http://211.72.65.236:8554/.m3u8
+好莱坞电影,http://108.181.20.197/livehttpplay?channel_id=20062
 東森電影,http://fm1077.serv00.net/Smart.php?id=ettvmovie
 東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
 東森戲劇,http://211.72.65.236:8530/.m3u8
@@ -537,7 +539,7 @@ CineMAX,http://125.227.210.55:8151/VideoInput/play.ts
 緯來日本,http://211.72.65.236:8537/.m3u8
 緯來育樂,http://211.23.114.106:8527/http/60.251.39.91:8081/hls/67/809/ch26.m3u8
 緯來戲劇,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8533/.m3u8
-緯來電影,http://211.72.65.236:8579/.m3u8
+緯來電影,http://108.181.20.197/livehttpplay?channel_id=20199
 緯來電影,http://211.72.65.236:8550/http/116.50.42.19:8081/hls/74/816/ch54.m3u8
 緯來電影,http://211.72.65.236:8550/.m3u8
 緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
