@@ -3,10 +3,10 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 Decoder=3
 
 📺台灣新聞,#genre#
-TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS HD,http://108.181.21.27:27347/livehttpplay?channel_id=20085
-TVBS HD,http://gat.bkpcp.top/litv.php?id=4gtv-4gtv073
-TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
+TVBS HD,https://www.4gtv.tv/channel/4gtv-4gtv073?set=2&ch=183
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS HD,https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 TVBS HD,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv073
@@ -14,8 +14,8 @@ TVBS HD,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
 TVBS新聞台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv072
+TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
 TVBS新聞台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv072
 TVBS新聞台,http://fm1077.serv00.net/Smart.php?id=tvbs_n
 TVBS新聞台,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
@@ -43,7 +43,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 台視財經台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv056
 三立財經新聞,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 東森財經新聞台,http://108.181.21.27:27347/livehttpplay?channel_id=20078
-東森財經新聞台,http://fm1077.serv00.net/Smart.php?id=ettvcaijing_twn
+東森財經新聞台,https://stream1.freetv.fun/9ab1d387aea892378b7046dff801ff75aa65efb7a39fabda8629a2246ab8542e.ctv
 東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 東森財經新聞台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv153
 東森財經新聞台,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
@@ -58,7 +58,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 東森新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv152
 東森新聞,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv152
 東森新聞,http://fm1077.serv00.net/Smart.php?id=ettvnews
-東森新聞,https://stream1.freetv.fun/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.ctv
+東森新聞,https://stream1.freetv.fun/4e8297ed0610c91e855ddb69d24344baa6b732dd2d1b24ac2e0a71a3d39ca41c.ctv
 東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 东森新闻台(P2p),P2p://generationnexxxt.com:19806/311e31668d704df7ade8a4d5e745d49b
@@ -231,7 +231,7 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 三立綜合,http://rjy.x3322.net:5000/4gtv/169
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大第一,http://108.181.21.27:27347/livehttpplay?channel_id=20073
-八大第一,http://fm1077.serv00.net/Smart.php?id=badafirst
+八大第一,https://stream1.freetv.fun/0a69db542fb0ffb28f514894c0121fab614596f933505273a7d0443515e1bba1.m3u8
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 八大精彩台,http://108.181.21.27:27347/livehttpplay?channel_id=20052
