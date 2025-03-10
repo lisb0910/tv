@@ -43,9 +43,9 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 台視財經台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv056
 三立財經新聞,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 東森財經新聞台,http://108.181.21.27:27347/livehttpplay?channel_id=20078
+東森財經新聞台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv153
 東森財經新聞台,https://stream1.freetv.fun/9ab1d387aea892378b7046dff801ff75aa65efb7a39fabda8629a2246ab8542e.ctv
 東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-東森財經新聞台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv153
 東森財經新聞台,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
 東森財經新聞台,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
 東森財經新聞台,http://211.72.65.236:8546/.m3u8
@@ -93,7 +93,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 中視新聞,http://fm1077.serv00.net/Smart.php?id=zhongshinews_twn
 华视新闻,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv052
 SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983f7fcbd4/index.m3u8
-年代新闻,http://fm1077.serv00.net/Smart.php?id=niandainews_twn
+年代新闻,http://108.181.21.27:27347/livehttpplay?channel_id=20033
 年代新闻,https://stream1.freetv.fun/28f2a175c45cd3d6885a0432398d36f149c45c516575d0da8a4312b445351c10.m3u8
 年代新闻,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新闻,http://108.181.21.27:27347/livehttpplay?channel_id=20033
@@ -104,8 +104,8 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 華視,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv041
 台视,rtmp://f13h.mine.nu/sat/tv071
+台视,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv066
 台视,https://litv.zapi.us.kg/?id=4gtv-4gtv066
-台视,P2p://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
 台视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台視新聞台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv051
 台視新聞台,https://live.wcetv.com/hls/master-ttvnews.m3u8#https://live.wcetv.com/hls/m3u8/ttvnews.m3u8#https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
@@ -115,12 +115,12 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 鳳凰資訊,http://125.227.210.55:39004/VideoInput/play.ts
 民視新聞台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv002
+民視新聞台,http://108.181.21.27:27347/livehttpplay?channel_id=20097
 民視新聞台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-民視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 民視新聞台,http://37.27.111.214:8080/live/6/hls.m3u8
 民視新聞台,http://fm1077.serv00.net/Smart.php?id=ftvnew_taiwan
 民視新聞台P2p,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
-民視新聞台P2p,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
+壹新闻,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 鏡新聞台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv075
 鏡新聞台,http://37.27.111.214:8080/live/62/hls.m3u8
 鏡新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv075
@@ -269,6 +269,7 @@ tvbs新闻4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv072
 TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts
 TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新聞,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+tvbs精采,http://108.181.21.27:27347/livehttpplay?channel_id=20136
 tvbs精采4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv067
 TVBS歡樂,http://108.181.21.27:27347/livehttpplay?channel_id=20105
 TVBS歡樂,http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn
@@ -282,7 +283,7 @@ TVBS歡樂,http://37.27.111.214:8080/live/24/hls.m3u8
 中天新聞,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新聞2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-中天綜合,http://fm1077.serv00.net/Smart.php?id=ctizhonghe
+中天綜合,http://108.181.21.27:27347/livehttpplay?channel_id=20064
 中天綜合,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
 中天綜合,http://108.181.21.27:27347/livehttpplay?channel_id=20064
 中视经典4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv080
@@ -353,7 +354,7 @@ TVBS歡樂,http://37.27.111.214:8080/live/24/hls.m3u8
 緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 緯來綜合,http://211.72.65.236:8518/.m3u8
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
-緯來體育,http://fm1077.serv00.net/Smart.php?id=videolandsport
+緯來體育,http://108.181.21.27:27347/livehttpplay?channel_id=20120
 靖天日本4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv047
 靖天日本台,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/litv/4gtv-4gtv047
 靖天卡通4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv044
@@ -427,9 +428,9 @@ TVBS歡樂,http://37.27.111.214:8080/live/24/hls.m3u8
 影迷數位台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv011
 影迷數位紀實台,https://4gtv.mytvsuper.xyz/?id=4gtv-live023
 影迷數位紀實台,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/4gtv/212
+豬哥亮歌廳秀,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv006
 豬哥亮歌廳秀,http://37.27.111.214:8080/live/35/hls.m3u8
 豬哥亮歌廳秀,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv006
-豬哥亮歌廳秀,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
 龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 龍華日韓台,https://litv.zapi.us.kg/?id=litv-longturn11
 龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
@@ -563,6 +564,7 @@ DW,http://125.227.210.55:42534/VideoInput/play.ts
 CATCHPLAY电影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 MTV,http://61.221.215.25:8080/live/25/hls.m3u8 
+TVBS歡樂台,http://108.181.21.27:27347/livehttpplay?channel_id=20105
 TVBS歡樂台,http://37.27.111.214:8080/live/24/hls.m3u8
 美剧解说轮播,http://cfss.cc/cdn/dyu/9643264.m3u8
 经典美剧解说,http://cfss.cc/cdn/dyu/9123570.m3u8
