@@ -4,9 +4,9 @@ Decoder=3
 
 📺台灣新聞,#genre#
 TVBS HD,http://108.181.21.27:27347/livehttpplay?channel_id=20085
-TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
-TVBS HD,https://www.4gtv.tv/channel/4gtv-4gtv073?set=2&ch=183
+TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+TVBS HD,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv073
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS HD,https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 TVBS HD,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv073
@@ -29,8 +29,8 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 非凡商業台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8545/.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-非凡新聞,http://108.181.20.197/livehttpplay?channel_id=20034
 非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
+非凡新聞,http://108.181.20.197/livehttpplay?channel_id=20034
 非凡新聞,http://fm1077.serv00.net/Smart.php?id=feifannews_twn
 非凡新聞,http://125.229.9.67:8545/http/220.130.87.218:8081/hls/75/817/ch057.m3u8
 非凡新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv010
@@ -425,7 +425,7 @@ TVBS歡樂,http://37.27.111.214:8080/live/24/hls.m3u8
 靖洋卡通4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv057
 靖洋戏剧4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv045
 臺灣戲劇台,https://4gtv.mytvsuper.xyz/?id=litv-longturn22
-影迷數位台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv011
+影迷數位台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv011
 影迷數位紀實台,https://4gtv.mytvsuper.xyz/?id=4gtv-live023
 影迷數位紀實台,https://sqrxz.us.kg/proxy/http://rjy.x3322.net:5000/4gtv/212
 豬哥亮歌廳秀,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv006
@@ -478,8 +478,8 @@ GLO-Bet4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv016
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
 八大戲劇,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
 八大戲劇,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
-八大精彩台,https://litv.zapi.us.kg/?id=4gtv-4gtv034
-八大综艺台,https://litv.zapi.us.kg/?id=4gtv-4gtv039
+八大精彩台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv034
+八大综艺台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv039
 三立台灣,http://125.227.210.55:8160/VideoInput/play.ts
 三立台灣,http://fm1077.serv00.net/Smart.php?id=sanlitaiwan
 三立国际台,https://epg.pw/stream/caee12e9a6003edf4b3527015471234fb74e84b94006b903a48c45e21184f133.ctv
@@ -491,7 +491,7 @@ GLO-Bet4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv016
 三立戲劇,http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
 三立戲劇,http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
 民視影剧,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
-民視影剧,https://4gtv.mytvsuper.xyz/?id=litv-ftv09
+民視影剧,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv09
 民視影剧,http://37.27.111.214:8080/live/88/hls.m3u8
 民视影剧,https://litv.zapi.us.kg/?id=litv-ftv09
 臺灣戲劇台,https://4gtv.mytvsuper.xyz/?id=litv-longturn22
@@ -520,10 +520,10 @@ CinemaWorld,http://37.27.111.214:8080/live/30/hls.m3u8
 CineMAX,http://125.227.210.55:8151/VideoInput/play.ts
 靖天電影台,https://litv.zapi.us.kg/?id=4gtv-4gtv061
 靖天電影台,http://37.27.111.214:8080/live/18/hls.m3u8
-靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+靖天電影台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv061
 靖天電影台,https://litv.zapi.us.kg/?id=4gtv-4gtv061
 靖洋戲劇台,http://37.27.111.214:8080/live/17/hls.m3u8
-靖天戲劇台,https://litv.zapi.us.kg/?id=4gtv-4gtv058
+靖天戲劇台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv058
 靖天映画,https://litv.zapi.us.kg/?id=4gtv-4gtv055
 东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545f
@@ -609,8 +609,9 @@ ELEVEN2體育,rtmp://twcdn.top/sat/tv741
 
 
 紀實頻道,#genre#
-幸福空間,https://www.4gtv.tv/channel/4gtv-live206?set=1&ch=168
-幸福空間,https://4gtv.mytvsuper.xyz/?id=4gtv-live206
+靖天國際台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv063
+靖天資訊台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv065
+幸福空間,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-live206
 TLC,http://fm1077.serv00.net/Smart.php?id=tlc_twn
 TLC,http://50.7.234.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 TLC,http://50.7.234.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
@@ -652,62 +653,37 @@ LUXETV,http://37.27.111.214:8080/live/86/hls.m3u8
 
 大陸頻道,#genre#
 CCTV1,http://fm1077.serv00.net/Smart.php?id=cctv1
-CCTV1,http://newtv.fun:35455/gaoma/cctv1.m3u8
+CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV2,http://fm1077.serv00.net/Smart.php?id=cctv2
-CCTV2,http://newtv.fun:35455/gaoma/cctv2.m3u8
+CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV3,http://120.76.248.139/live/bfgd/4200000062.m3u8
-CCTV3,http://newtv.fun:35455/gaoma/cctv3.m3u8
+CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
 CCTV4,http://fm1077.serv00.net/Smart.php?id=cctv4
+CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
 CCTV4,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV4欧洲,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4o
 CCTV4美洲,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4a
 CCTV5,http://fm1077.serv00.net/Smart.php?id=cctv5
-CCTV5,http://newtv.fun:35455/gaoma/cctv5.m3u8
+CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV6,http://120.76.248.139/live/bfgd/4200000065.m3u8
 CCTV6,http://fm1077.serv00.net/Smart.php?id=cctv6
+CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
 CCTV7,http://120.76.248.139/live/bfgd/4200000127.m3u8
 CCTV7,http://fm1077.serv00.net/Smart.php?id=cctv7
 CCTV8,http://fm1077.serv00.net/Smart.php?id=cctv8
-CCTV8,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/1.m3u8
+CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
 CCTV9,http://120.76.248.139/live/bfgd/4200000128.m3u8
 CCTV9,http://fm1077.serv00.net/Smart.php?id=cctv9
-CCTV10,http://4330413.xyz:35455/gaoma/cctv10.m3u8
+CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10
 CCTV10,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010203/1.m3u8
-CCTV11,http://hangfun.top:35455/gaoma/cctv11.m3u8
-CCTV11,http://newtv.fun:35455/gaoma/cctv11.m3u8
-CCTV11,http://117.144.58.42:35455/gaoma/cctv11.m3u8
-CCTV11,http://1.itv.nctv.top:35455/gaoma/cctv11.m3u8
-CCTV11,http://iptv.0564.org:35455/gaoma/cctv11.m3u8
-CCTV12,http://117.144.58.42:35455/gaoma/cctv12.m3u8
-CCTV12,http://4330413.xyz:35455/gaoma/cctv12.m3u8
-CCTV12,http://3501776.xyz:35455/gaoma/cctv12.m3u8
-CCTV12,http://newtv.fun:35455/gaoma/cctv12.m3u8
-CCTV12,http://39.164.160.249:9901/tsfile/live/0012_1.m3u8
-CCTV13,http://111.170.172.113:35455/gaoma/cctv13.m3u8
-CCTV13,http://1.itv.nctv.top:35455/gaoma/cctv13.m3u8
-CCTV13,http://4330413.xyz:35455/gaoma/cctv13.m3u8
-CCTV13,http://3501776.xyz:35455/gaoma/cctv13.m3u8
-CCTV13,http://117.144.58.42:35455/gaoma/cctv13.m3u8
-CCTV14,http://112.74.115.68:35455/gaoma/cctv14.m3u8
-CCTV14,http://117.144.58.42:35455/gaoma/cctv14.m3u8
-CCTV14,http://39.164.160.249:9901/tsfile/live/0014_1.m3u8
-CCTV14,http://iptv.0564.org:35455/gaoma/cctv14.m3u8
-CCTV14,http://wab201.win:35455/gaoma/cctv14.m3u8
-CCTV15,http://117.144.58.42:35455/gaoma/cctv15.m3u8
-CCTV15,http://newtv.fun:35455/gaoma/cctv15.m3u8
-CCTV15,http://hangfun.top:35455/gaoma/cctv15.m3u8
-CCTV15,http://wab201.win:35455/gaoma/cctv15.m3u8
-CCTV15,http://home.wwang.pw:35455/gaoma/cctv15.m3u8
-CCTV16,http://112.74.115.68:35455/gaoma/cctv16.m3u8
-CCTV16,http://117.144.58.42:35455/gaoma/cctv16.m3u8
-CCTV16,http://wab201.win:35455/gaoma/cctv16.m3u8
-CCTV16,http://newtv.fun:35455/gaoma/cctv16.m3u8
-CCTV16,http://hangfun.top:35455/gaoma/cctv16.m3u8
-CCTV17,http://117.144.58.42:35455/gaoma/cctv17.m3u8
-CCTV17,http://wab201.win:35455/gaoma/cctv17.m3u8
-CCTV17,http://newtv.fun:35455/gaoma/cctv17.m3u8
-CCTV17,http://iptv.0564.org:35455/gaoma/cctv17.m3u8
-CCTV17,http://1.itv.nctv.top:35455/gaoma/cctv17.m3u8
+CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV-12,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14
+CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/playlist.m3u8
 厦门卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000058
 厦门卫视,http://220.164.192.48:50085/tsfile/live/1004_1.m3u8
