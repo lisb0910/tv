@@ -10,7 +10,7 @@ TVBS HD,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv073
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS HD,https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183
 TVBS HD,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv073
-TVBS HD,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv073
+新聞大白話（YT）,https://www.youtube.com/watch?v=E6GRr0X64zM
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
@@ -27,14 +27,14 @@ TVBS新聞（p2p）,P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f
 TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 非凡商業台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv048
 非凡商業台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8545/.m3u8
-非凡新聞,http://108.181.20.197/livehttpplay?channel_id=20034
-非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+非凡新聞,rtmp://f13h.mine.nu/sat/tv581
+非凡新聞,http://108.181.20.197/livehttpplay?channel_id=20034
 非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 非凡新聞,http://fm1077.serv00.net/Smart.php?id=feifannews_twn
 非凡新聞,http://125.229.9.67:8545/http/220.130.87.218:8081/hls/75/817/ch057.m3u8
 非凡新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv010
-非凡新闻台（p2p）,mitv://135.148.104.228:19806/3d7f2e1d0e04407ba29c656092041b09
+非凡新闻台（YT）,https://www.youtube.com/watch?v=NHQDx8vCrC4
 非凡新闻台（p2p）,mitv://135.148.104.228:19806/a404066e65af4566931c773a385ed1e3
 非凡新闻台（p2p）,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新闻台（p2p）,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
@@ -51,7 +51,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 東森財經新聞台,http://211.72.65.236:8546/.m3u8
 東森財經新聞台,http://108.181.20.197/livehttpplay?channel_id=20078
 東森財經新聞台,http://23.26.239.95:3599/xsj.php?id=ebc-finance
-東森財經新聞(P2p),mitv://generationnexxxt.com:19806/9193e5efd94f4991ba8bfbc98bdc3f19
+東森財經新聞(YT),https://www.youtube.com/watch?v=1I2iq41Akmo
 東森財經新聞(P2p),P2p://generationnexxxt.com:19806/5634f613b7f84f81a5c56a6af4311d57
 東森財經新聞(P2p),P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
 東森財經新聞(P2p),rtmp://f13h.mine.nu/sat/tv571
@@ -61,7 +61,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 東森新聞,https://stream1.freetv.fun/4e8297ed0610c91e855ddb69d24344baa6b732dd2d1b24ac2e0a71a3d39ca41c.ctv
 東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
-东森新闻台(P2p),P2p://generationnexxxt.com:19806/311e31668d704df7ade8a4d5e745d49b
+东森新闻台(YT),https://www.youtube.com/watch?v=V1p33hqPrUk
 东森新闻台(P2p),P2p://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
 东森新闻台(P2p),P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
 东森新闻台(P2p),P2p://generationnexxxt.com:19806/e9f96143b31a4e869309a60c27c66bc4
@@ -69,7 +69,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 东森新闻台(P2p),P2p://generationnexxxt.com:19806/f848bf771436495b9ce252af20bea6e2
 东森新闻台(备),http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-三立iNEWS,http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
+三立iNEWS(YT),https://www.youtube.com/watch?v=pF507BLtbqU
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 三立iNEWS,https://4gtv.mytvsuper.xyz/?id=4gtv-live089
 三立新聞台,http://125.227.210.55:8162/VideoInput/play.ts
@@ -151,7 +151,7 @@ Decoder=3
 民視新聞,http://www.youtube.com/watch?v=ylYJSBUgaMA
 民視新聞,https://m.youtube.com/@FTV_News/streams/1
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA&fmt=37
-三立 iNews,https://youtu.be/MV9mI0GChwo
+三立 iNews,https://www.youtube.com/watch?v=pF507BLtbqU
 三立 iNews,https://m.youtube.com/@setinews/streams/1
 三立 Live,https://m.youtube.com/@setnews/live
 三立 NEWS+,https://m.youtube.com/watch?v=oZdzzvxTfUY
