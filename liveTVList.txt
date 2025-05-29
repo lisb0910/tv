@@ -31,7 +31,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
-非凡新聞,http://fm1077.serv00.net/Smart.php?id=feifannews_twn
+非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://125.229.9.67:8545/http/220.130.87.218:8081/hls/75/817/ch057.m3u8
 非凡新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv010
 非凡新闻台（YT）,https://www.youtube.com/watch?v=NHQDx8vCrC4
@@ -41,8 +41,8 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 台視財經台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv056
 台視財經台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv056
 台視財經台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv056
-東森超視,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 東森超視,rtmp://f13h.mine.nu:1935/sat/tv331
+東森超視,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 東森財經新聞台,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
 東森財經新聞台,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
 東森財經新聞台,https://stream1.freetv.fun/9ab1d387aea892378b7046dff801ff75aa65efb7a39fabda8629a2246ab8542e.ctv
@@ -325,7 +325,7 @@ JET 綜合,https://smart.pendy.dpdns.org/Smart.php?id=jettv_japan
 亞洲美食,https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
 亞洲旅遊 TLC Asia,https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
 華視 CTS HD,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
-好萊塢電影台,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=adb194efeba5a77f0effa9d90cfb8f2b
+好萊塢電影台,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來日本,https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
 緯來日本,http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=70283ceb3b9f1cb39c326f328521e79b
@@ -341,8 +341,8 @@ JET 綜合,https://smart.pendy.dpdns.org/Smart.php?id=jettv_japan
 愛爾達影劇,http://50.7.234.10:8278/eltayingju_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=5ce748da1aad651ca8ee7f68760251dc
 愛爾達影劇台,https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
 愛爾達體育 1,http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=19dc80cf972ed07683b0cd2b94e94b4b
-愛爾達體育 2,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=433c402ab35c42a3032f0619ab9fb588
-愛爾達體育 3,http://50.7.234.10:8278/eltasport3_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=0fc359f9c20e894a0f6aa0b86c15b1a5
+愛爾達體育2台,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=433c402ab35c42a3032f0619ab9fb588
+愛爾達體育3台,http://50.7.234.10:8278/eltasport3_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=0fc359f9c20e894a0f6aa0b86c15b1a5
 愛爾達體育2台,https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
 愛爾達體育3台,https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
 亞洲美食,http://50.7.234.10:8278/afc_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9a258d5e5910448bc703a61bab8e37c0
@@ -414,27 +414,28 @@ Fox News,http://50.7.234.10:8278/foxnews_twn/playlist.m3u8?tid=mc609f36f8a214&ct
 
 
 影視頻道,#genre#
+八大第一,https://smart.pendy.dpdns.org/Smart.php?id=badafirst
 八大第一,http://198.16.100.186:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
-八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 八大第一,http://211.72.65.236:8519/.m3u8
 八大第一,http://108.181.20.197/livehttpplay?channel_id=20073
-八大综合,http://198.16.100.186:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+八大综合,https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
 八大综合,http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
 八大综合,http://108.181.20.197/livehttpplay?channel_id=20068
 八大综合,http://211.72.65.236:8550/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
 八大综合,http://37.27.111.214:8080/live/21/hls.m3u8
 八大娱乐,http://108.181.20.197/livehttpplay?channel_id=20071
-八大戲劇,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+八大戲劇,https://smart.pendy.dpdns.org/Smart.php?id=badadrama
 八大戲劇,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
 三立台灣,http://125.227.210.55:8160/VideoInput/play.ts
+三立台灣,https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
 三立台灣,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlitaiwan
 三立国际台,https://epg.pw/stream/caee12e9a6003edf4b3527015471234fb74e84b94006b903a48c45e21184f133.ctv
-三立综合,http://198.16.100.186:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
+三立综合,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
 三立综合,http://37.27.111.214:8080/live/31/hls.m3u8
-三立都会,http://108.181.20.197/livehttpplay?channel_id=20100
-三立戲劇,http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
+三立都会,https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
+三立戲劇,https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
 三立戲劇,http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 三立戲劇,http://fm1077.serv00.net/Smart.php?id=sanlixiju_twn
@@ -442,33 +443,44 @@ Fox News,http://50.7.234.10:8278/foxnews_twn/playlist.m3u8?tid=mc609f36f8a214&ct
 民視影剧,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv09
 民視影剧,http://37.27.111.214:8080/live/88/hls.m3u8
 民视影剧,https://litv.zapi.us.kg/?id=litv-ftv09
-東森戲劇, http://50.7.234.10:8278/ettvdrama/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=26a349d5abdee81aa312e5c0715729a6
-東森洋片, http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=81879e3735e7108c442ffd832a2c45c3
+東森戲劇,https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
+東森洋片, https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
+東森電影, https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 臺灣戲劇台,https://4gtv.mytvsuper.xyz/?id=litv-longturn22
+AXN臺灣,https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
 AXN臺灣,http://198.16.100.186:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
-公视戏剧,https://litv.zapi.us.kg/?id=4gtv-4gtv042
-HBO HD,http://108.181.20.197/livehttpplay?channel_id=20314
+緯來電影台,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
+Cinemax,https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
 HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
-龍祥時代, http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ecef2e9ff71ee9b8a242099d17b88512
-龍華偶像, http://50.7.234.10:8278/lunghuaidol_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=67ce20e649159389d4369ea496176477
-龍華戲劇, http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4be89a2c5525a1a325a079a4a6bec682
+HBO HD,https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
+HBO HD,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+HBO HD,https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
+Dreamworks,https://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
+龍祥時代,https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
+龍華偶像,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
+龍華戲劇, https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
 龍華洋片, http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=17a343fd040ef9c1283a111d60b8c242
 龍華經典, http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1cb964c32a7625db277030a612341eae
 龍華電影, http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=810692f2d54b933cc82ecd02d2f13657
-美亞電影, http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4a266dac5755d165e118db3624107ae0
-
+美亞電影, https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
+好莱坞电影,https://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn
+好莱坞电影,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+好莱坞电影,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MFDF3993740539937405&ct=19234&tsum=9c77fd229b7086f14748debe0f6b4ae6
+爱尔达影剧台,https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
+卫视电影台,https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
+爱奇艺,https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
 
 
 體育頻道,#genre#
-緯來體育,http://108.181.21.27:27347/livehttpplay?channel_id=20120
+緯來體育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 緯來體育,http://125.227.210.55:8155/VideoInput/play.ts
 緯來體育,http://fm1077.serv00.net/Smart.php?id=videolandsport
 緯來體育,http://50.7.234.10:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
 愛爾達體育1,http://108.181.20.197/livehttpplay?channel_id=20129
 愛爾達體育1,http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-愛爾達體育2,http://fm1077.serv00.net/Smart.php?id=eltasport2_twn
-愛爾達體育3,http://fm1077.serv00.net/Smart.php?id=eltasport3_twn
+愛爾達體育2,https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
+愛爾達體育3,https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
 ELTA體育3,rtmp://f13h.mine.nu/sat/md041
 ELTA體育2,rtmp://f13h.mine.nu/sat/md011
 ELTA體育1,rtmp://f13h.mine.nu/sat/md051
@@ -485,17 +497,20 @@ ELEVEN2體育,http://108.181.20.197/livehttpplay?channel_id=10105
 
 
 紀實頻道,#genre#
-探索世界,http://108.181.20.197/livehttpplay?channel_id=20110
+Discovery,http://125.227.210.55:8154/VideoInput/play.ts
+Discovery,https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
+Discovery,https://smart.pendy.dpdns.org/Smart.php?id=discoveryworldtam_raj
+EYETV 旅游,https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
 國家地理,http://108.181.20.197/livehttpplay?channel_id=20037
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-动物星球,http://108.181.20.197/livehttpplay?channel_id=20106
+动物星球,https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
 幸福空間,https://www.youtube.com/watch?v=4cm2ORa-4LE
 TLC Asia,https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
 TLC,http://198.16.100.186:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 TLC,http://50.7.234.10:8278/tlc_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8f13ae0ea1143384471db3685eecde63
 TLC,http://fm1077.serv00.net/Smart.php?id=tlc_twn
-TLC,http://211.72.65.236:8511/.m3u8
-TLC Canada,https://z88.ubtvfans.com/live/rx4/1262/adc7d3ca892336cdf136b5486b00239f/index.m3u8
+TLC,https://smart.pendy.dpdns.org/Smart.php?id=Tlc
+亚洲美食,https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
 ELTA生活旅游,http://37.27.111.214:8080/live/85/hls.m3u8
 ELTA生活旅游,http://rjy.x3322.net:5000/4gtv/237
 大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
@@ -503,19 +518,15 @@ ELTA生活旅游,http://rjy.x3322.net:5000/4gtv/237
 民視旅遊,https://4gtv.mytvsuper.xyz/?id=litv-ftv07
 MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
-Discovery,http://125.227.210.55:8154/VideoInput/play.ts
-Discovery,http://fm1077.serv00.net/Smart.php?id=discoveryhd_twn
-Discovery,http://fm1077.serv00.net/Smart.php?id=discoveryworldtam_raj
 History,http://37.27.111.214:8080/live/27/hls.m3u8
-Love Nature,https://4gtv.mytvsuper.xyz/?id=4gtv-live208
+History,https://smart.pendy.dpdns.org/Smart.php?id=History
+Foodnetwork Hd,https://smart.pendy.dpdns.org/Smart.php?id=Foodnetwork
 荒野求生,https://live.iill.top/huya/593667
 野生動物,http://fm1077.serv00.net/Smart.php?id=natgeowild_twn
 野生動物,http://168.119.255.170/403/video.m3u8?token=M4f082ab4c
 歷史頻道,https://4gtv.mytvsuper.xyz/?id=4gtv-live026
-亞洲旅遊台,http://61.221.215.25:8800/hls/50/index.m3u8
+亞洲旅遊台,https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
 亞洲旅遊台,http://fm1077.serv00.net/Smart.php?id=asiatravel_twn
-靖天國際台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv063
-靖天資訊台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv065
 LUXE TV,https://4gtv.mytvsuper.xyz/?id=4gtv-live121
 LOVENATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 時尚FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
