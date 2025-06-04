@@ -5,9 +5,10 @@ Decoder=3
 📺台灣新聞,#genre#
 TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS HD,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
+TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=51767e95111b87503a1995bcfbae5e5b
 TVBS HD,http://198.16.100.186:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
-TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
-TVBS HD,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv073
+TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+TVBS HD,https://live.tvfix.org/live/tvbs/index.m3u8
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS HD,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv073
 新聞大白話（YT）,https://www.youtube.com/watch?v=E6GRr0X64zM
@@ -28,9 +29,9 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 非凡商業台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv048
 非凡商業台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8545/.m3u8
 非凡新聞,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
-非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
-非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
+非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+非凡新聞,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,http://125.229.9.67:8545/http/220.130.87.218:8081/hls/75/817/ch057.m3u8
 非凡新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv010
@@ -260,7 +261,8 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 八大綜合,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv039
 TVBS HD,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
 TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=51767e95111b87503a1995bcfbae5e5b
-TVBS新聞,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9cf843ae30d2500fa5b60e182a52b5c2
+TVBS新聞,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+TVBS新聞,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 TVBS歡樂台,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ef02578497d13965a0af430c964d4edc
 非凡新聞,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=062cd4838cc875a5c2b36c7b6c0441d9
@@ -476,6 +478,10 @@ Dreamworks,https://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
 爱尔达影剧台,https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
 卫视电影台,https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
 爱奇艺,https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
+漫威,http://live.nctv.top/DJlio/huya.php?id=11602034
+高分动作,http://live.nctv.top/DJlio/huya.php?id=11352884
+斯坦森,http://live.nctv.top/DJlio/huya.php?id=21059588
+强森,http://live.nctv.top/DJlio/huya.php?id=21059581
 
 
 體育頻道,#genre#
@@ -553,6 +559,7 @@ LUXETV,http://37.27.111.214:8080/live/86/hls.m3u8
 CCTV1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 CCTV1,https://live.tvfix.org/live/cctv1hd/index.m3u8
 CCTV1,http://50.7.234.10:8278/cctv1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3b6c82557bb7806de888e3b0eea2f820
+CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 CCTV2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
 CCTV2,http://ygbh.site/php/bfgd.php?id=061
 CCTV2,http://50.7.234.10:8278/cctv2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=2cbb2b46fe8a4e583421cfdab174267c
