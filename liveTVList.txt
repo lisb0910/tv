@@ -34,7 +34,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
-非凡新聞,http://125.229.9.67:8545/http/220.130.87.218:8081/hls/75/817/ch057.m3u8
+非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 非凡新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv010
 非凡新闻台（YT）,https://www.youtube.com/watch?v=NHQDx8vCrC4
 非凡新闻台（p2p）,mitv://135.148.104.228:19806/a404066e65af4566931c773a385ed1e3
@@ -86,7 +86,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 民視新聞台(YT),https://www.youtube.com/watch?v=ylYJSBUgaMA
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 中天新聞,https://k44991.kylintv.tv/live/cti_iphone.m3u8
-中天新聞,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
+中天新聞,http://222.128.55.152:9080/live/fc.m3u8
 中天新聞,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
 中天新聞,http://211.72.65.236:8541/.m3u8
 中天新聞(YT),https://youtu.be/vr3XyVCR4T0
@@ -558,21 +558,25 @@ LUXETV,http://37.27.111.214:8080/live/86/hls.m3u8
 
 大陸頻道,#genre#
 CCTV1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
-CCTV1,https://live.tvfix.org/live/cctv1hd/index.m3u8
+CCTV1,http://goo.bkpcp.top/mg/cctv1
 CCTV1,http://50.7.234.10:8278/cctv1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3b6c82557bb7806de888e3b0eea2f820
 CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+CCTV2,http://goo.bkpcp.top/mg/cctv2
 CCTV2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
 CCTV2,http://ygbh.site/php/bfgd.php?id=061
 CCTV2,http://50.7.234.10:8278/cctv2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=2cbb2b46fe8a4e583421cfdab174267c
+CCTV3,http://goo.bkpcp.top/mg/cctv3
 CCTV3,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
 CCTV3,http://50.7.234.10:8278/cctv3/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=debf095a54bb394709c2d4bbc6b6d15b
 CCTV4,https://k09093.kylintv.tv/live/cctv4hd_iphone.m3u8
 CCTV4,http://50.7.234.10:8278/cctv4/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=2506126e8ea083b6597209bc83e2d357
 CCTV4,http://ygbh.site/php/bfgd.php?id=063
 CCTV4,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
-CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
+CCTV4,http://goo.bkpcp.top/mg/cctv4
+CCTV4美洲,http://goo.bkpcp.top/mg/cctv4m
 CCTV5,https://k09093.kylintv.tv/live/cctv5hd_iphone.m3u8
 CCTV5,http://ygbh.site/php/bfgd.php?id=064
+CCTV5,http://goo.bkpcp.top/mg/cctv5
 CCTV6,https://k09093.kylintv.tv/live/cctv6hd_iphone.m3u8
 CCTV6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
 CCTV6,http://120.76.248.139/live/bfgd/4200000065.m3u8
@@ -591,7 +595,9 @@ CCTV-12 社会与法,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
 CCTV-13 新闻频道,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
 CCTV-14 少儿,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
 CCTV-15 音乐,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
+CCTV-15,http://goo.bkpcp.top/mg/cctv15
 CCTV-16,http://50.7.234.10:8278/cctv16/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=eda739fbdb8d848eadd22734bd3684d5
+CCTV-17,http://goo.bkpcp.top/mg/cctv17
 CCTV-17,http://50.7.234.10:8278/cctv17/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=341b99710d206be44b1493ec1ae4fa33
 CCTV-17,http://ygbh.site/php/bfgd.php?id=204
 浙江卫视,https://k09093.kylintv.tv/live/zhejtvhd_iphone.m3u8
