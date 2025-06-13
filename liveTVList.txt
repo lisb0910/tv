@@ -11,7 +11,7 @@ TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=mc609f36f8a214&ct=1161771
 TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 TVBS HD,https://live.tvfix.org/live/tvbs/index.m3u8
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-新聞大白話（YT）,https://www.youtube.com/watch?v=w1I14oC1uWw
+新聞大白話（YT）,https://www.youtube.com/watch?v=DYSYTNkCObk
 國民大會（YT）,https://www.youtube.com/live/MTQOwNli63M
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS NEWS,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
@@ -116,8 +116,8 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 台視新聞台,http://222.128.55.152:9080/live/ts.m3u8
 台視新聞台,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
 台視新聞(YT),https://www.youtube.com/watch?v=xL0ch83RAK8
-鳳凰資訊,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 鳳凰資訊,http://125.227.210.55:39004/VideoInput/play.ts
 民視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv13
 民視新聞台,https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
@@ -153,13 +153,13 @@ parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 Decoder=3
 民視新聞,http://www.youtube.com/watch?v=ylYJSBUgaMA
-民視新聞,https://m.youtube.com/@FTV_News/streams/1
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA&fmt=37
+民视戲劇,https://www.youtube.com/watch?v=hVOM87angqk&list=PL02zpjjwMEjoiKM4Rnd864YGyqYW-PsfV
 三立 iNews,https://www.youtube.com/watch?v=pF507BLtbqU
-三立 iNews,https://m.youtube.com/@setinews/streams/1
 三立 Live,https://m.youtube.com/@setnews/live
 三立新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
 三立財經,https://www.youtube.com/watch?v=CKjSm5ZeehE&fmt=37
+三立電視,https://www.youtube.com/watch?v=hfytG5Fj05w&list=PLE6ICy7YAcNYvZiazthDbEubWwJ0H4X_2&pp=iAQB
 非凡商業,https://www.youtube.com/watch?v=QlJJEwMYzEc
 非凡新聞,https://www.youtube.com/watch?v=NHQDx8vCrC4
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
@@ -171,9 +171,9 @@ Decoder=3
 東森LIVE,https://youtu.be/V1p33hqPrUk
 東森LIVE,https://m.youtube.com/watch?v=E0zhe2gkXBs
 東森LIVE,https://clonglii.serv00.net/youtube_d.php?id=E0zhe2gkXBs&data=normal
-TVBS HD,https://youtu.be/tyT_B7LJIPw
+TVBS HD,https://www.youtube.com/watch?v=DYSYTNkCObk
 TVBS HD,https://clonglii.serv00.net/youtube_d.php?id=YvdcZ_jpLXE&data=normal
-TVBS HD,https://clonglii.serv00.net/youtube_d.php?id=YvdcZ_jpLXE&ln=2&data=normal
+TVBS HD,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS NEWS,https://youtu.be/m_dhMSvUCIc
 TVBS NEWS,https://m.youtube.com/watch?v=m_dhMSvUCIc
 TVBS新聞,https://youtu.be/khRyrHgs0t8
@@ -629,7 +629,7 @@ LUXETV,http://37.27.111.214:8080/live/86/hls.m3u8
 
 大陸頻道,#genre#
 CCTV1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
-CCTV1,http://goo.bkpcp.top/mg/cctv1
+CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV1,http://50.7.234.10:8278/cctv1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3b6c82557bb7806de888e3b0eea2f820
 CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 CCTV2,http://goo.bkpcp.top/mg/cctv2
@@ -793,9 +793,9 @@ VIP頻道,#genre#
 体大女生暗恋教练勇敢告白,https://t25.cdn2020.com/video/m3u8/2024/03/28/d84ebd0f/index.m3u8
 女体宴吃完操餐具,https://t25.cdn2020.com/video/m3u8/2024/04/14/cbdcc1f5/index.m3u8
 按摩师傅的插入式服务,https://t25.cdn2020.com/video/m3u8/2024/06/18/38589583/index.m3u8
-老師用巨乳教學,https://video2.51daao.com/btt1/2020/08/20200811/GNEu0aax/index.m3u8
-到府裸體清潔婦,https://video2.51daao.com/btt1/2020/10/20201006/iY0BTHXT/index.m3u8
-蜜桃成熟时33D,https://v5.jindangao.com/jj/j4/11/hls/index.m3u8
+隔壁老王尾随风骚少妇,https://t25.cdn2020.com/video/m3u8/2024/08/01/364e427d/index.m3u8
+采精按摩师的特色服务,https://t25.cdn2020.com/video/m3u8/2024/07/27/17c189f0/index.m3u8
+家教老师的性启蒙教育-桥本香菜,https://t25.cdn2020.com/video/m3u8/2024/03/27/a4d31abf/index.m3u8
 蜜桃成熟时3之蜜桃仙子,https://v5.jindangao.com/jj/j4/13/hls/index.m3u8
 聊斋花弄月,https://v5.jindangao.com/eee/ee10/14/hls/index.m3u8
 风月奇谭,https://v5.jindangao.com/ll/l5/38/hls/index.m3u8
