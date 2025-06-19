@@ -240,6 +240,9 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 三立台灣,https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
 三立台灣,http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 三立台灣,http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=77eb1dd21bce370359c7999bea4250a6
+三立台劇(YT),https://www.youtube.com/watch?v=LGpEb8dIOPw&list=PLE6ICy7YAcNYvZiazthDbEubWwJ0H4X_2&pp=iAQB
+戲說台灣(YT),https://www.youtube.com/watch?v=WzkhDwXLolI
+好運來(YT),https://www.youtube.com/watch?v=9v2SOMKT7rs&list=PL02zpjjwMEjoiKM4Rnd864YGyqYW-PsfV&pp=iAQBmAUB0gcJCYsCa94AFGB0
 三立都會,https://smart.pendy.dpdns.org/Smart.php?id=Huahee
 三立都會,https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
@@ -488,6 +491,8 @@ TraceUrban,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 
 
 影視頻道,#genre#
+八大綜藝,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv039
+八大精彩,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv034
 八大第一,https://smart.pendy.dpdns.org/Smart.php?id=badafirst
 八大第一,http://198.16.100.186:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
@@ -498,21 +503,27 @@ TraceUrban,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 八大综合,http://108.181.20.197/livehttpplay?channel_id=20068
 八大综合,http://211.72.65.236:8550/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
 八大综合,http://37.27.111.214:8080/live/21/hls.m3u8
-八大娱乐,http://108.181.20.197/livehttpplay?channel_id=20071
 八大戲劇,https://smart.pendy.dpdns.org/Smart.php?id=badadrama
 八大戲劇,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
 三立台灣,http://125.227.210.55:8160/VideoInput/play.ts
 三立台灣,https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
+三立台灣,http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 三立台灣,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlitaiwan
+三立台劇(YT),https://www.youtube.com/watch?v=LGpEb8dIOPw&list=PLE6ICy7YAcNYvZiazthDbEubWwJ0H4X_2&pp=iAQB
 三立国际台,https://epg.pw/stream/caee12e9a6003edf4b3527015471234fb74e84b94006b903a48c45e21184f133.ctv
 三立综合,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
 三立综合,http://37.27.111.214:8080/live/31/hls.m3u8
+三立综合,http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?ct=17874&tid=m3362167a08a014596868&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 三立都会,https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
 三立戲劇,https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
+三立戲劇,http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
 三立戲劇,http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 三立戲劇,http://fm1077.serv00.net/Smart.php?id=sanlixiju_twn
+戲說台灣(YT),https://www.youtube.com/watch?v=pBlyGXo4gqw&t=13s
+戲說台灣(YT),https://www.youtube.com/watch?v=WzkhDwXLolI&t=153s
+好運來(YT),https://www.youtube.com/watch?v=9v2SOMKT7rs&list=PL02zpjjwMEjoiKM4Rnd864YGyqYW-PsfV&pp=iAQBmAUB0gcJCYsCa94AFGB0
 民視影剧,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
 民視影剧,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv09
 民視影剧,http://37.27.111.214:8080/live/88/hls.m3u8
