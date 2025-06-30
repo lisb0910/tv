@@ -639,47 +639,47 @@ LUXETV,http://37.27.111.214:8080/live/86/hls.m3u8
 
 
 大陸頻道,#genre#
-CCTV1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
+CCTV1,http://106.52.196.79:80/TV/mui.php?id=cctv1
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV1,http://50.7.234.10:8278/cctv1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3b6c82557bb7806de888e3b0eea2f820
 CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-CCTV2,http://goo.bkpcp.top/mg/cctv2
+CCTV2,http://106.52.196.79:80/TV/mui.php?id=cctv2
 CCTV2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
 CCTV2,http://ygbh.site/php/bfgd.php?id=061
 CCTV2,http://50.7.234.10:8278/cctv2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=2cbb2b46fe8a4e583421cfdab174267c
-CCTV3,http://goo.bkpcp.top/mg/cctv3
+CCTV3,http://106.52.196.79:80/TV/mui.php?id=cctv3
 CCTV3,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
 CCTV3,http://50.7.234.10:8278/cctv3/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=debf095a54bb394709c2d4bbc6b6d15b
-CCTV4,https://k09093.kylintv.tv/live/cctv4hd_iphone.m3u8
+CCTV4,http://106.52.196.79:80/TV/mui.php?id=cctv4
 CCTV4,http://50.7.234.10:8278/cctv4/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=2506126e8ea083b6597209bc83e2d357
 CCTV4,http://ygbh.site/php/bfgd.php?id=063
 CCTV4,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
 CCTV4,http://goo.bkpcp.top/mg/cctv4
 CCTV4美洲,http://goo.bkpcp.top/mg/cctv4m
-CCTV5,https://k09093.kylintv.tv/live/cctv5hd_iphone.m3u8
+CCTV5,http://106.52.196.79:80/TV/mui.php?id=cctv5
 CCTV5,http://ygbh.site/php/bfgd.php?id=064
 CCTV5,http://goo.bkpcp.top/mg/cctv5
-CCTV6,https://k09093.kylintv.tv/live/cctv6hd_iphone.m3u8
+CCTV6,http://106.52.196.79:80/TV/mui.php?id=cctv6
 CCTV6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
 CCTV6,http://120.76.248.139/live/bfgd/4200000065.m3u8
-CCTV7,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
+CCTV7,http://106.52.196.79:80/TV/mui.php?id=cctv7
 CCTV7,http://120.76.248.139/live/bfgd/4200000127.m3u8
 CCTV7,http://fm1077.serv00.net/Smart.php?id=cctv7
-CCTV8,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
+CCTV8,http://106.52.196.79:80/TV/mui.php?id=cctv8
 CCTV8,http://ygbh.site/php/bfgd.php?id=066
-CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV9,http://106.52.196.79:80/TV/mui.php?id=cctv9
 CCTV9,http://120.76.248.139/live/bfgd/4200000128.m3u8
 CCTV9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
 CCTV10,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
-CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV-11 戏曲,https://smart.pendy.dpdns.org/Smart.php?id=cctv11
-CCTV-12 社会与法,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
-CCTV-13 新闻频道,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
-CCTV-14 少儿,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
-CCTV-15 音乐,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
+CCTV10,http://106.52.196.79:80/TV/mui.php?id=cctv10
+CCTV-11 戏曲,http://106.52.196.79:80/TV/mui.php?id=cctv11
+CCTV-12 社会与法,http://106.52.196.79:80/TV/mui.php?id=cctv12
+CCTV-13 新闻频道,http://106.52.196.79:80/TV/mui.php?id=cctv13
+CCTV-14 少儿,http://106.52.196.79:80/TV/mui.php?id=cctv14
+CCTV-15 音乐,http://106.52.196.79:80/TV/mui.php?id=cctv15
 CCTV-15,http://goo.bkpcp.top/mg/cctv15
 CCTV-16,http://50.7.234.10:8278/cctv16/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=eda739fbdb8d848eadd22734bd3684d5
-CCTV-17,http://goo.bkpcp.top/mg/cctv17
+CCTV-17,http://106.52.196.79:80/TV/mui.php?id=cctv17
 CCTV-17,http://50.7.234.10:8278/cctv17/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=341b99710d206be44b1493ec1ae4fa33
 CCTV-17,http://ygbh.site/php/bfgd.php?id=204
 浙江卫视,https://k09093.kylintv.tv/live/zhejtvhd_iphone.m3u8
