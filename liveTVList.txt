@@ -9,7 +9,7 @@ TVBS HD,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
 TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=51767e95111b87503a1995bcfbae5e5b
 TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
-TVBS HD,https://live.tvfix.org/live/tvbs/index.m3u8
+TVBS HD,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 新聞大白話（YT）,https://www.youtube.com/watch?v=DYSYTNkCObk
 國民大會（YT）,https://www.youtube.com/live/MTQOwNli63M
@@ -248,10 +248,10 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 三立綜合,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
 三立綜合,http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c7bcade088cb0f7c18f6fd6c6b4a627e
-三立戲劇,https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+三立戲劇,https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
 三立戲劇,http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
-三立戲劇台,http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=abc21407f01eefcc6df98ebbdbd585ab
+三立戲劇台,http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
 TVBS HD,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv073
 TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=51767e95111b87503a1995bcfbae5e5b
 TVBS HD,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
@@ -516,13 +516,13 @@ TraceUrban,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=
 三立综合,http://37.27.111.214:8080/live/31/hls.m3u8
 三立综合,http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?ct=17874&tid=m3362167a08a014596868&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 三立都会,https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
-三立戲劇,https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
-三立戲劇,http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
+三立戲劇,http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
+三立戲劇,http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
 三立戲劇,http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 三立戲劇,http://fm1077.serv00.net/Smart.php?id=sanlixiju_twn
-戲說台灣(YT),https://www.youtube.com/watch?v=pBlyGXo4gqw&t=13s
-戲說台灣(YT),https://www.youtube.com/watch?v=WzkhDwXLolI&t=153s
+戲說台灣(YT),https://www.youtube.com/watch?v=Y_f8oxWZYE4
+戲說台灣(YT),https://www.youtube.com/watch?v=Lh7O2MD-8MA&list=PLEV-wAbr4PucoEGrVluxyf9x_7F49_7c9
 好運來(YT),https://www.youtube.com/watch?v=9v2SOMKT7rs&list=PL02zpjjwMEjoiKM4Rnd864YGyqYW-PsfV&pp=iAQBmAUB0gcJCYsCa94AFGB0
 民視影剧,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
 民視影剧,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv09
@@ -639,9 +639,9 @@ LUXETV,http://37.27.111.214:8080/live/86/hls.m3u8
 
 
 大陸頻道,#genre#
-CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-CCTV1,http://106.52.196.79:80/TV/mui.php?id=cctv1
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+CCTV1,http://ygbh.site/php/bfgd.php?id=488
+CCTV1,http://106.52.196.79:80/TV/mui.php?id=cctv1
 CCTV1,http://50.7.234.10:8278/cctv1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3b6c82557bb7806de888e3b0eea2f820
 CCTV2,http://106.52.196.79:80/TV/mui.php?id=cctv2
 CCTV2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
