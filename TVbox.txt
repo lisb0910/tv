@@ -1,3 +1,5 @@
+配置位置
+https://github.com/lisb0910/tv/blob/main/TVbox.txt
 https://github.com/lisb0910/tv/blob/main/4gtv%E5%8E%BB%E5%BB%A3%E5%91%8A.json
 https://github.com/lisb0910/tv/blob/main/%E5%9B%9B%E5%AD%A3.txt
 IPTV電視直播網址 https://m.iptv234.com
