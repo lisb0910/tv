@@ -16,7 +16,7 @@ TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS NEWS,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
+TVBS新聞台,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 TVBS新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
 TVBS新聞台,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 TVBS新聞台,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
@@ -220,6 +220,34 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 
 
 台灣頻道,#genre#
+民視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv002
+民視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv155
+民視,http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=19e1c2009b356aeb0b8cd2c4155ada22
+民視,https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
+民視台灣,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv001
+民視台灣台,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8201e27c64398b11362da6f5a8afa92e
+民視台灣台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
+民視旅遊,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv07
+民視第一,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv003
+民視第一,http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1cb964c32a7625db277030a612341eae
+民視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv13
+民視新聞,http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
+民視新聞,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
+民視綜藝,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv004
+民視影劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv09
+非凡商業,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv048
+非凡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv010
+非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=062cd4838cc875a5c2b36c7b6c0441d9
+非凡新聞,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
+非凡新聞,rtmp://f13h.mine.nu/sat/tv581
+東森財經新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
+東森財經新聞,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1c72ebf556e1cc4f5f7d31b8de9b4de2
+東森財經新聞,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
+東森超視,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
+東森超視,rtmp://f13h.mine.nu/sat/tv331
+東森新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
+東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f71d63a3f4f29c1989254097e43d1628
+東森新聞,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
 八大精彩,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv034
 八大娛樂,https://smart.pendy.dpdns.org/Smart.php?id=badaentertain
 八大第一,https://smart.pendy.dpdns.org/Smart.php?id=badafirst
@@ -229,15 +257,15 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大第一,http://smt.iktv.ddns-ip.net/Smart.php?id=badafirst
 八大綜藝,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv039
+八大綜合,https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
 八大綜合,http://198.16.100.186:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
 八大綜合,http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=020937c001062a4332afb110a312bd20
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
-八大綜合,https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
 八大戲劇,https://smart.pendy.dpdns.org/Smart.php?id=badadrama
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
 八大戲劇,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=861e8fc388791a904100e419dfd4914a
-三立台灣,http://125.227.210.55:8160/VideoInput/play.ts
 三立台灣,https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
+三立台灣,http://125.227.210.55:8160/VideoInput/play.ts
 三立台灣,http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 三立台灣,http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=77eb1dd21bce370359c7999bea4250a6
 三立台劇(YT),https://www.youtube.com/watch?v=LGpEb8dIOPw&list=PLE6ICy7YAcNYvZiazthDbEubWwJ0H4X_2&pp=iAQB
@@ -255,38 +283,25 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 TVBS HD,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv073
 TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=51767e95111b87503a1995bcfbae5e5b
 TVBS HD,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
+TVBS新聞,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
 TVBS新聞,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
-TVBS新聞,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 TVBS精采,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv067
 TVBS歡樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv068
 TVBS歡樂台,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ef02578497d13965a0af430c964d4edc
-中天亞洲台,http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
-中天亞洲台,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d07136a2d6a7e4bd268434d68673481f
-中天亞洲台,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
-中天娛樂,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f638d0887843283530ddb62d4d8e3257
-中天娛樂,https://smart.pendy.dpdns.org/Smart.php?id=ctient
 中天新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv009
 中天新聞,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 中天新聞,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d61541eb2b655702cac4d94cda026d96
 中天綜合 CTI Metro,https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
 中天綜合,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=16ebd28b8fed732a20c025197b9a5dd0
-東森財經新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
-東森財經新聞,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1c72ebf556e1cc4f5f7d31b8de9b4de2
-東森財經新聞,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
-東森超視,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
-東森超視,rtmp://f13h.mine.nu/sat/tv331
-東森新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
-東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f71d63a3f4f29c1989254097e43d1628
-東森新聞,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
+中天亞洲台,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
+中天亞洲台,http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
+中天亞洲台,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d07136a2d6a7e4bd268434d68673481f
+中天娛樂,https://smart.pendy.dpdns.org/Smart.php?id=ctient
+中天娛樂,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f638d0887843283530ddb62d4d8e3257
 東森電影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=a075bdb8849783c1693f9dd62b185e4e
-東森綜合,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7c67d8df65d0f243d7ed4e4080609bd5
 東森綜合,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
-非凡商業,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv048
-非凡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv010
-非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=062cd4838cc875a5c2b36c7b6c0441d9
-非凡新聞,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
-非凡新聞,rtmp://f13h.mine.nu/sat/tv581
+東森綜合,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7c67d8df65d0f243d7ed4e4080609bd5
 中視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv040
 中視,https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
 中視,http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=32d18c5b25d1beb4c99b22e3309ae886
@@ -305,21 +320,6 @@ TVBS歡樂台,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=mc609f36f
 台視新聞台,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
 台視綜合台,https://smart.pendy.dpdns.org/Smart.php?id=ttvzhonghe
 台灣戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn22
-民視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv002
-民視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv155
-民視,http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=19e1c2009b356aeb0b8cd2c4155ada22
-民視,https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
-民視台灣,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv001
-民視台灣台,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8201e27c64398b11362da6f5a8afa92e
-民視台灣台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
-民視旅遊,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv07
-民視第一,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv003
-民視第一,http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1cb964c32a7625db277030a612341eae
-民視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv13
-民視新聞,http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
-民視新聞,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
-民視綜藝,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv004
-民視影劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv09
 華視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv052
 華視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv041
 華視,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
@@ -338,11 +338,11 @@ amc電影,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4
 影迷數位電影,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv011
 AXN Taiwan,https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
 AXN,http://50.7.234.10:8278/axn_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=03765d6e573bb47ebdfb4c9c366c2052
+HBO,https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
+HBO,https://smart.pendy.dpdns.org/Smart.php?id=hbohit_twn
 HBO,http://125.227.210.55:8153/VideoInput/play.ts
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 HBO,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ca82da37e8eeb07511bfc6b5f9e9795f
-HBO,https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
-HBO,https://smart.pendy.dpdns.org/Smart.php?id=hbohit_twn
 HBO Family,https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
 HBO Family,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c6b7b1a30c4faf9433b8de2037988922
 HBO Hits,https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
@@ -360,6 +360,7 @@ AFC 亞洲旅遊台,https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
 亞洲旅遊台,http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8eea6c49ddad8f8d366d6d5d899cfdb7
 探索亞洲,http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f2a44f0c9477bbd4866c1a9d45fa5ca5
 JET 綜合,https://smart.pendy.dpdns.org/Smart.php?id=jettv_japan
+TLC旅遊生活,https://smart.pendy.dpdns.org/Smart.php?id=Tlc
 TLC旅遊生活,http://50.7.234.10:8278/tlc_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8f13ae0ea1143384471db3685eecde63
 美食星球,https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
 國家地理,http://198.16.100.186:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
@@ -603,12 +604,13 @@ EYETV 旅游,https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 动物星球,https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
 动物星球,http://198.16.100.186:8278/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17b9b4813ed1
+美食星球,https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
 幸福空間,https://www.youtube.com/watch?v=4cm2ORa-4LE
 TLC Asia,https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
+TLC,https://smart.pendy.dpdns.org/Smart.php?id=Tlc
 TLC,http://198.16.100.186:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 TLC,http://50.7.234.10:8278/tlc_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8f13ae0ea1143384471db3685eecde63
 TLC,http://fm1077.serv00.net/Smart.php?id=tlc_twn
-TLC,https://smart.pendy.dpdns.org/Smart.php?id=Tlc
 亚洲美食,https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
 ELTA生活旅游,http://37.27.111.214:8080/live/85/hls.m3u8
 ELTA生活旅游,http://rjy.x3322.net:5000/4gtv/237
@@ -640,7 +642,7 @@ LUXETV,http://37.27.111.214:8080/live/86/hls.m3u8
 
 大陸頻道,#genre#
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-CCTV1,http://ygbh.site/php/bfgd.php?id=488
+CCTV1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 CCTV1,http://106.52.196.79:80/TV/mui.php?id=cctv1
 CCTV1,http://50.7.234.10:8278/cctv1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3b6c82557bb7806de888e3b0eea2f820
 CCTV2,http://106.52.196.79:80/TV/mui.php?id=cctv2
@@ -650,38 +652,33 @@ CCTV2,http://50.7.234.10:8278/cctv2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719
 CCTV3,http://106.52.196.79:80/TV/mui.php?id=cctv3
 CCTV3,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
 CCTV3,http://50.7.234.10:8278/cctv3/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=debf095a54bb394709c2d4bbc6b6d15b
+CCTV4,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
 CCTV4,http://106.52.196.79:80/TV/mui.php?id=cctv4
 CCTV4,http://50.7.234.10:8278/cctv4/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=2506126e8ea083b6597209bc83e2d357
 CCTV4,http://ygbh.site/php/bfgd.php?id=063
-CCTV4,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
 CCTV4,http://goo.bkpcp.top/mg/cctv4
 CCTV4美洲,http://goo.bkpcp.top/mg/cctv4m
-CCTV5,http://106.52.196.79:80/TV/mui.php?id=cctv5
+CCTV5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
 CCTV5,http://ygbh.site/php/bfgd.php?id=064
 CCTV5,http://goo.bkpcp.top/mg/cctv5
-CCTV6,http://106.52.196.79:80/TV/mui.php?id=cctv6
 CCTV6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
+CCTV6,http://106.52.196.79:80/TV/mui.php?id=cctv6
 CCTV6,http://120.76.248.139/live/bfgd/4200000065.m3u8
-CCTV7,http://106.52.196.79:80/TV/mui.php?id=cctv7
+CCTV7,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
 CCTV7,http://120.76.248.139/live/bfgd/4200000127.m3u8
 CCTV7,http://fm1077.serv00.net/Smart.php?id=cctv7
-CCTV8,http://106.52.196.79:80/TV/mui.php?id=cctv8
+CCTV8,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
 CCTV8,http://ygbh.site/php/bfgd.php?id=066
-CCTV9,http://106.52.196.79:80/TV/mui.php?id=cctv9
+CCTV9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
 CCTV9,http://120.76.248.139/live/bfgd/4200000128.m3u8
 CCTV9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
 CCTV10,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
 CCTV10,http://106.52.196.79:80/TV/mui.php?id=cctv10
-CCTV-11 戏曲,http://106.52.196.79:80/TV/mui.php?id=cctv11
-CCTV-12 社会与法,http://106.52.196.79:80/TV/mui.php?id=cctv12
-CCTV-13 新闻频道,http://106.52.196.79:80/TV/mui.php?id=cctv13
-CCTV-14 少儿,http://106.52.196.79:80/TV/mui.php?id=cctv14
-CCTV-15 音乐,http://106.52.196.79:80/TV/mui.php?id=cctv15
-CCTV-15,http://goo.bkpcp.top/mg/cctv15
-CCTV-16,http://50.7.234.10:8278/cctv16/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=eda739fbdb8d848eadd22734bd3684d5
-CCTV-17,http://106.52.196.79:80/TV/mui.php?id=cctv17
-CCTV-17,http://50.7.234.10:8278/cctv17/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=341b99710d206be44b1493ec1ae4fa33
-CCTV-17,http://ygbh.site/php/bfgd.php?id=204
+CCTV-11 戏曲,https://smart.pendy.dpdns.org/Smart.php?id=cctv11
+CCTV-12 社会与法,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
+CCTV-13 新闻频道,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
+CCTV-14 少儿,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
+CCTV-15 音乐,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 浙江卫视,https://k09093.kylintv.tv/live/zhejtvhd_iphone.m3u8
 浙江卫视,https://smart.pendy.dpdns.org/Smart.php?id=zhejiang_twn
 湖南卫视,https://k44991.kylintv.tv/live/huntvhd_iphone.m3u8
@@ -689,15 +686,15 @@ CCTV-17,http://ygbh.site/php/bfgd.php?id=204
 湖南卫视,http://ygbh.site/php/bfgd.php?id=086
 湖南国际,http://php.jdshipin.com/TVOD/iptv.php?id=hngj
 湖南娱乐,http://php.jdshipin.com/TVOD/iptv.php?id=hnyl
-厦门卫视,http://221.213.91.64:9901/tsfile/live/0109_2.m3u8?key=txiptv&playlive=0&authid=0
+厦门卫视,http://175.150.31.212:9002/hls/47/index.m3u8
 厦门卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000058
 厦门卫视,http://220.164.192.48:50085/tsfile/live/1004_1.m3u8
 厦门卫视,http://125.70.181.206:4000/udp/239.93.42.57:5140
 福建海峡卫视,https://k44991.kylintv.tv/live/fjstv_iphone.m3u8
+东方卫视,http://goo.bkpcp.top/mg/dfws
 东方卫视,https://k09093.kylintv.tv/live/dragontvhd_iphone.m3u8
 东方卫视,https://smart.pendy.dpdns.org/Smart.php?id=dongfangweishi_twn
 东方卫视,http://ygbh.site/php/bfgd.php?id=093
-东方卫视,http://goo.bkpcp.top/mg/dfws
 东方卫视,http://120.224.178.16:9901/tsfile/live/0122_1.m3u8
 东南卫视,https://smart.pendy.dpdns.org/Smart.php?id=fujian
 东南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873473.m3u8
@@ -705,9 +702,9 @@ CCTV-17,http://ygbh.site/php/bfgd.php?id=204
 东南卫视,http://123.166.61.70:8003/hls/53/index.m3u8
 东南卫视,http://171.38.25.112:8181/tsfile/live/0137_1.m3u8
 云南卫视,https://k09093.kylintv.tv/live/yntv_iphone.m3u8
+江苏卫视,https://smart.pendy.dpdns.org/Smart.php?id=jiangsu_twn
 江苏卫视,https://k09093.kylintv.tv/live/jstvhd_iphone.m3u8
 江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
-江苏卫视,http://121.24.98.232:8090/hls/38/index.m3u8
 江苏卫视,http://59.173.243.210:9901/tsfile/live/1023_1.m3u8
 江苏卫视,http://60.223.224.176:8888/newlive/live/hls/21/live.m3u8
 广东卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangdongweishi_twn
