@@ -645,8 +645,8 @@ CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 CCTV1,http://106.52.196.79:80/TV/mui.php?id=cctv1
 CCTV1,http://50.7.234.10:8278/cctv1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3b6c82557bb7806de888e3b0eea2f820
-CCTV2,http://106.52.196.79:80/TV/mui.php?id=cctv2
 CCTV2,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
+CCTV2,http://106.52.196.79:80/TV/mui.php?id=cctv2
 CCTV2,http://ygbh.site/php/bfgd.php?id=061
 CCTV2,http://50.7.234.10:8278/cctv2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=2cbb2b46fe8a4e583421cfdab174267c
 CCTV3,http://106.52.196.79:80/TV/mui.php?id=cctv3
@@ -657,19 +657,20 @@ CCTV4,http://106.52.196.79:80/TV/mui.php?id=cctv4
 CCTV4,http://50.7.234.10:8278/cctv4/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=2506126e8ea083b6597209bc83e2d357
 CCTV4,http://ygbh.site/php/bfgd.php?id=063
 CCTV4,http://goo.bkpcp.top/mg/cctv4
-CCTV4美洲,http://goo.bkpcp.top/mg/cctv4m
-CCTV5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
+CCTV4美洲,http://106.52.196.79:80/TV/mui.php?id=cctv4o
 CCTV5,http://ygbh.site/php/bfgd.php?id=064
-CCTV5,http://goo.bkpcp.top/mg/cctv5
+CCTV5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
+CCTV5,http://106.52.196.79:80/TV/mui.php?id=cctv5
 CCTV6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
 CCTV6,http://106.52.196.79:80/TV/mui.php?id=cctv6
 CCTV6,http://120.76.248.139/live/bfgd/4200000065.m3u8
 CCTV7,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
+CCTV7,http://106.52.196.79:80/TV/mui.php?id=cctv7
 CCTV7,http://120.76.248.139/live/bfgd/4200000127.m3u8
-CCTV7,http://fm1077.serv00.net/Smart.php?id=cctv7
 CCTV8,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
+CCTV8,http://106.52.196.79:80/TV/mui.php?id=cctv8
 CCTV8,http://ygbh.site/php/bfgd.php?id=066
-CCTV9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
+CCTV9,http://106.52.196.79:80/TV/mui.php?id=cctv9
 CCTV9,http://120.76.248.139/live/bfgd/4200000128.m3u8
 CCTV9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
 CCTV10,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
@@ -677,42 +678,46 @@ CCTV10,http://106.52.196.79:80/TV/mui.php?id=cctv10
 CCTV-11 戏曲,https://smart.pendy.dpdns.org/Smart.php?id=cctv11
 CCTV-12 社会与法,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
 CCTV-13 新闻频道,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
+CCTV-13 新闻频道,http://106.52.196.79:80/TV/mui.php?id=cctv13
 CCTV-14 少儿,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
 CCTV-15 音乐,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 浙江卫视,https://k09093.kylintv.tv/live/zhejtvhd_iphone.m3u8
 浙江卫视,https://smart.pendy.dpdns.org/Smart.php?id=zhejiang_twn
 湖南卫视,https://k44991.kylintv.tv/live/huntvhd_iphone.m3u8
+湖南卫视,http://106.52.196.79:80/TV/mui.php?id=hunws
 湖南卫视,https://smart.pendy.dpdns.org/Smart.php?id=hunan_twn
 湖南卫视,http://ygbh.site/php/bfgd.php?id=086
-湖南国际,http://php.jdshipin.com/TVOD/iptv.php?id=hngj
 湖南娱乐,http://php.jdshipin.com/TVOD/iptv.php?id=hnyl
 厦门卫视,http://175.150.31.212:9002/hls/47/index.m3u8
 厦门卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000058
 厦门卫视,http://220.164.192.48:50085/tsfile/live/1004_1.m3u8
 厦门卫视,http://125.70.181.206:4000/udp/239.93.42.57:5140
 福建海峡卫视,https://k44991.kylintv.tv/live/fjstv_iphone.m3u8
+福建海峡卫视,http://106.52.196.79:80/TV/mui.php?id=hxws
 东方卫视,http://goo.bkpcp.top/mg/dfws
-东方卫视,https://k09093.kylintv.tv/live/dragontvhd_iphone.m3u8
+东方卫视,http://106.52.196.79:80/TV/mui.php?id=dfws
 东方卫视,https://smart.pendy.dpdns.org/Smart.php?id=dongfangweishi_twn
 东方卫视,http://ygbh.site/php/bfgd.php?id=093
 东方卫视,http://120.224.178.16:9901/tsfile/live/0122_1.m3u8
 东南卫视,https://smart.pendy.dpdns.org/Smart.php?id=fujian
-东南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873473.m3u8
+东南卫视,http://106.52.196.79:80/TV/mui.php?id=dnws
 东南卫视,http://ygbh.site/php/bfgd.php?id=483
 东南卫视,http://123.166.61.70:8003/hls/53/index.m3u8
 东南卫视,http://171.38.25.112:8181/tsfile/live/0137_1.m3u8
 云南卫视,https://k09093.kylintv.tv/live/yntv_iphone.m3u8
 江苏卫视,https://smart.pendy.dpdns.org/Smart.php?id=jiangsu_twn
-江苏卫视,https://k09093.kylintv.tv/live/jstvhd_iphone.m3u8
+江苏卫视,http://106.52.196.79:80/TV/mui.php?id=jsws
 江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
 江苏卫视,http://59.173.243.210:9901/tsfile/live/1023_1.m3u8
 江苏卫视,http://60.223.224.176:8888/newlive/live/hls/21/live.m3u8
 广东卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangdongweishi_twn
-广东卫视,http://50.7.234.10:8278/guangdongweishi_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=688be458525e5e5788399e610ad2f6d8
+广东卫视,http://106.52.196.79:80/TV/mui.php?id=gdws
 深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
 深圳卫视,http://50.7.234.10:8278/shenzhen/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=33032458263252246530014391d69bee
 深圳财经生活,http://php.jdshipin.com/TVOD/iptv.php?id=szcjsh
+大灣區衛視,http://106.52.196.79:80/TV/mui.php?id=dwqws
 广西卫视,https://k09093.kylintv.tv/live/guangxitv_iphone.m3u8
+广西卫视,http://106.52.196.79:80/TV/mui.php?id=gxws
 天津卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000530
 天津卫视,http://111.61.236.247:9081/hls/29/index.m3u8
 天津卫视,http://123.166.61.70:8003/hls/57/index.m3u8
@@ -725,19 +730,19 @@ CCTV-15 音乐,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 北京卫视,http://111.61.236.247:9081/hls/28/index.m3u8
 纪实科教,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
 辽宁卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000526
-辽宁卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3
-重庆卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000004796458.m3u8
+辽宁卫视,http://106.52.196.79:80/TV/mui.php?id=lnws
+重庆卫视,http://106.52.196.79:80/TV/mui.php?id=cqws
 重庆卫视,http://123.166.61.70:8003/hls/62/index.m3u8
 重庆卫视,http://111.61.236.247:9081/hls/41/index.m3u8
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
 重庆卫视,http://123.182.60.29:9002/hls/42/index.m3u8
-河南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887270.m3u8
+河南卫视,http://106.52.196.79:80/TV/mui.php?id=hnws
 河北卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873460.m3u8
 河北卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000057
 河北卫视,http://1b6467f415.iok.la:9931/tsfile/live/1074_1.m3u8
 河北卫视,http://124.128.73.58:9901/tsfile/live/0117_1.m3u8
 河北卫视,http://121.24.98.154:8090/hls/25/index.m3u8
-山东卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873467.m3u8
+山东卫视,http://106.52.196.79:80/TV/mui.php?id=sdws
 山东卫视,http://123.182.60.29:9002/hls/32/index.m3u8
 山东卫视,http://121.24.98.232:8090/hls/39/index.m3u8
 山东卫视,http://111.61.236.247:9081/hls/31/index.m3u8
@@ -747,7 +752,7 @@ CCTV-15 音乐,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 山西卫视,http://111.61.236.247:9081/hls/47/index.m3u8
 山西卫视,http://60.223.224.176:8888/newlive/live/hls/43/live.m3u8
 山西卫视,http://121.24.98.154:8090/hls/35/index.m3u8
-陕西卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887404.m3u8
+陕西卫视,http://106.52.196.79:80/TV/mui.php?id=sxws
 陕西卫视,http://121.24.98.232:8090/hls/86/index.m3u8
 陕西卫视,http://202.100.46.58:9901/tsfile/live/1017_1.m3u8
 陕西卫视,http://111.61.236.247:9081/hls/46/index.m3u8
@@ -757,14 +762,14 @@ CCTV-15 音乐,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 四川衛視,http://50.7.234.10:8278/sichuan_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7bd5989e72267fefb851cede07f7c134
 湖北卫视,https://k44991.kylintv.tv/live/hubeitv_iphone.m3u8
 湖北卫视,https://smart.pendy.dpdns.org/Smart.php?id=hubei
-湖北卫视,http://110.7.128.156:8096/tsfile/live/0132_1.m3u8
+湖北卫视,http://106.52.196.79:80/TV/mui.php?id=hubws
 湖北卫视,http://vod.hnqczh.cn:808/hls/33/index.m3u8
-第一财经,http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000010000027146
-东方财经,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000007000010003
+第一财经,http://106.52.196.79:80/TV/mui.php?id=dycj
+上海新聞綜合,http://106.52.196.79:80/TV/mui.php?id=shxwzh
 环球旅游,http://enlen.vip:4022/udp/239.200.201.175:8652
 上海财经,https://k09093.kylintv.tv/live/snvn_iphone.m3u8
-深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
-爱奇艺 iQiyi,https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
+高清大片,http://106.52.196.79:80/TV/mui.php?id=gqdp
+新片放映廳,http://106.52.196.79:80/TV/mui.php?id=xpfyt
 
 
 
