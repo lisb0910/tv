@@ -16,7 +16,8 @@ https://raw.githubusercontent.com/lisb0910/tv/main/liveTVList.txt
 
 
 點播源
-http://xhztv.top/xhz
+https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn
+https://7337.kstore.space/kjtv/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json
 http://xhztv.top/4k.json
 https://catbox.n13.club/jk/jsm.json
 http://ok321.top/tv
