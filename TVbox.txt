@@ -16,12 +16,14 @@ https://raw.githubusercontent.com/lisb0910/tv/main/liveTVList.txt
 
 
 點播源
+麻花影院
+https://gzy.lzo.publicvm.com
+https://vip.nxog.top
 https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn
 https://7337.kstore.space/kjtv/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json
 http://xhztv.top/4k.json
 https://catbox.n13.club/jk/jsm.json
 http://ok321.top/tv
-https://vip.nxog.top
 http://饭太硬.com/tv
 http://肥猫.com
 https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json
@@ -37,13 +39,26 @@ https://raw.githubusercontent.com/cyao2q/files/master/m.json
 （8）摸鱼儿：http://我不是.摸鱼儿.com
 （9）菜妮丝：https://tvbox.cainisi.cf
 （10）盒子迷： https://盒子迷.top/春盈天下
-（11）多多：https://yydsys.top/duo
-（12）南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
-（13）王二小： http://tvbox.王二小放牛娃.top
-（14）巧技：http://pandown.pro/tvbox/tvbox.json
-（15）星辰：https://fmbox.cc
-（16）拾光：https://4708.kstore.space/omg/hollo.json
-（17）潇洒：https://github.moeyy.xyz/https://github.com/PizazzGY/TVBox/blob/main/api.json
+公子福利接口:
+https://gzy.lzo.publicvm.com/19-1.txt
+
+阿祥福利接口:
+http://666.hz.cz/only/only.json
+
+參考福利接口:
+https://gzy.lzo.publicvm.com/18.txt
+
+B521福利接口:
+https://ghfast.top/https://raw.githubusercontent.com/wwb521/live/main/video.json
+
+老色批福利接口:
+https://ghfast.top/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt
+
+貓18福利接口:
+https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json
+
+張杰福利接口:
+https://ghfast.top/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json
 https://github.com/lisb0910/tv/blob/main/1.json
 https://github.com/lisb0910/tv/blob/main/tv.txt
 https://github.com/lisb0910/tv/blob/main/TVbox.text
