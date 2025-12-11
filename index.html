@@ -11,21 +11,21 @@
             margin: 0;
             background: #f5f5f5;
             display: flex; /* Enable flex layout for sidebar + content */
-            min-height: 100vh;
+            height: 100vh; /* Full viewport height */
+            overflow: hidden; /* Prevent body scroll */
         }
         
         /* Sidebar Styles */
         .sidebar {
-            width: 350px;
+            width: 350px; /* Initial width */
+            min-width: 200px;
+            max-width: 800px;
             background: white;
-            border-right: 1px solid #ddd;
+            /* border-right: 1px solid #ddd; Removed in favor of resizer visual */
             display: flex;
             flex-direction: column;
-            position: fixed;
-            left: 0;
-            top: 0;
-            bottom: 0;
-            z-index: 100;
+            height: 100%;
+            overflow-y: auto; /* Allow sidebar to scroll */
         }
         
         .sidebar-header {
@@ -33,6 +33,7 @@
             background: #f8f9fa;
             border-bottom: 1px solid #ddd;
             text-align: center;
+            flex-shrink: 0;
         }
         
         .sidebar-header a {
@@ -54,16 +55,34 @@
             flex: 1;
             width: 100%;
             border: none;
+            /* Ensure iframe doesn't capture mouse events during resize (handled in JS too) */
         }
-
+        /* Resizer Styles */
+        .resizer {
+            width: 8px;
+            background-color: #e0e0e0;
+            cursor: col-resize;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background-color 0.2s;
+            z-index: 50;
+            flex-shrink: 0;
+            border-left: 1px solid #ccc;
+            border-right: 1px solid #ccc;
+        }
+        .resizer:hover, .resizer.active {
+            background-color: #007bff;
+        }
         /* Main Content Styles */
         .main-content {
             flex: 1;
-            margin-left: 350px; /* Offset by sidebar width */
             padding: 20px;
             box-sizing: border-box;
+            height: 100%;
+            overflow-y: auto; /* Allow content to scroll */
+            /* margin-left removed */
         }
-
         h1, h2 {
             text-align: center;
         }
@@ -116,7 +135,6 @@
         button.reset-btn:hover {
             background-color: #5a6268;
         }
-
         .result-section {
             margin-top: 25px;
             padding-top: 15px;
@@ -157,35 +175,41 @@
         @media (max-width: 768px) {
             body {
                 flex-direction: column;
+                height: auto;
+                overflow: auto;
             }
             .sidebar {
-                width: 100%;
+                width: 100% !important; /* Force width on mobile */
                 height: 300px;
-                position: relative;
                 border-right: none;
                 border-bottom: 1px solid #ddd;
+                flex: none;
+            }
+            .resizer {
+                display: none; /* Hide resizer on mobile */
             }
             .main-content {
-                margin-left: 0;
                 padding: 10px;
+                height: auto;
+                overflow: visible;
             }
         }
     </style>
 </head>
 <body>
-
-<!-- Fixed Sidebar for External Link -->
-<div class="sidebar">
+<!-- Resizable Sidebar -->
+<div class="sidebar" id="sidebar">
     <div class="sidebar-header">
         <a href="https://www.cmoney.tw/forum/stock/2330" target="_blank">
             CMoney 台積電(2330) 討論區
         </a>
         <p class="small" style="margin: 5px 0 0;">若無法顯示，請點擊按鈕開啟</p>
     </div>
-    <!-- Using iframe to attempt to show content, though many sites block it via X-Frame-Options -->
+    <!-- Using iframe to attempt to show content -->
     <iframe src="https://www.cmoney.tw/forum/stock/2330" title="CMoney Forum"></iframe>
 </div>
-
+<!-- Resizer Handle -->
+<div class="resizer" id="resizer"></div>
 <div class="main-content">
     <div class="container">
         <h1>開盤八法 判斷與盤勢解析系統</h1>
@@ -194,7 +218,6 @@
             系統會依「每 5 分鐘與前一單位比較」判斷為「漲 / 跌」組合，對應到八種開盤模式，
             並顯示：模式類型、盤勢解析、研判與應對、盤中走勢模擬與總結。
         </p>
-
         <!-- 輸入區 -->
         <h2>資料輸入</h2>
         <div class="form-row">
@@ -213,12 +236,10 @@
             <label for="priceC">9:15 收盤價 (C)：</label>
             <input id="priceC" type="number" step="0.01" placeholder="例如：151.0">
         </div>
-
         <div class="mt-4">
             <button class="analyze-btn" onclick="analyze()">開始判斷</button>
             <button class="reset-btn" onclick="resetForm()">清除重填</button>
         </div>
-
         <!-- 計算結果簡要顯示 -->
         <div class="result-section">
             <div class="result-block">
@@ -226,28 +247,23 @@
                 <div id="methodResult">尚未計算</div>
                 <div id="patternString" class="small"></div>
             </div>
-
             <div class="result-block">
                 <div class="result-title">二、開盤模式之種類、盤勢解析：</div>
                 <div id="analysis">尚未計算</div>
             </div>
-
             <div class="result-block">
                 <div class="result-title">三、研判行情與應對上之參考：</div>
                 <div id="reference">尚未計算</div>
             </div>
-
             <div class="result-block">
                 <div class="result-title">四、盤中走勢模擬：</div>
                 <div id="intraSim">尚未計算</div>
             </div>
-
             <div class="result-block">
                 <div class="result-title">五、總結：</div>
                 <div id="summary">尚未計算</div>
             </div>
         </div>
-
         <div class="result-section">
             <div class="result-title">判斷說明</div>
             <ul class="small">
@@ -271,8 +287,38 @@
         </div>
     </div>
 </div>
-
 <script>
+// Resizer Logic
+const resizer = document.getElementById('resizer');
+const sidebar = document.getElementById('sidebar');
+let isResizing = false;
+if (resizer && sidebar) {
+    resizer.addEventListener('mousedown', (e) => {
+        isResizing = true;
+        resizer.classList.add('active');
+        document.body.style.cursor = 'col-resize';
+        document.body.style.userSelect = 'none'; // Prevent text selection
+        // Disable iframe pointer events to prevent capturing mouse over iframe during drag
+        document.querySelectorAll('iframe').forEach(iframe => iframe.style.pointerEvents = 'none');
+    });
+    document.addEventListener('mousemove', (e) => {
+        if (!isResizing) return;
+        let newWidth = e.clientX;
+        if (newWidth < 200) newWidth = 200; // Min width
+        if (newWidth > 800) newWidth = 800; // Max width
+        sidebar.style.width = newWidth + 'px';
+    });
+    document.addEventListener('mouseup', () => {
+        if (isResizing) {
+            isResizing = false;
+            resizer.classList.remove('active');
+            document.body.style.cursor = 'default';
+            document.body.style.userSelect = '';
+            // Re-enable iframe pointer events
+            document.querySelectorAll('iframe').forEach(iframe => iframe.style.pointerEvents = 'auto');
+        }
+    });
+}
 // 八種模式的說明文字（完全依題目內容歸納整理）
 const methodData = {
     "漲漲漲": {
@@ -285,7 +331,6 @@ const methodData = {
 (3) 關鍵點、關卡跳空突破時。
 (4) 金融股或大型績優股領軍上漲時。
 (5) 原本上升趨勢中的大漲小回波段中。
-
 盤勢解析（含原文說明）：
 此一徵兆表示，開盤後就連續上攻，應特別注意強勢拉抬後，短線賣壓會出籠，應以 9:10 的收盤價為不能跌破之基準點，可介入相同走勢之強勢股，拉回不破可作多。
 圖 A 開大漲：若因重大利多消息刺激，多半能開高震盪盤堅在高檔，多方操作較能獲利。
@@ -297,12 +342,10 @@ const methodData = {
 (3) 次營業日尚有短線高點可期。
 (4) 指標股強勢，常有長紅或漲停。
 (5) 價量配合得宜。
-
 應對時點：
 (1) 震盪時第三波低點常為當日低點，可短線進場。
 (2) 低點時間約略在 9:40–10:20。
 (3) 開中高盤：高點約在 10:30–10:45；開平高盤，高點常在尾盤臨收。
-
 操作：
 (1) 以作多為主。
 (2) 選擇強勢股介入。
@@ -317,18 +360,15 @@ B. 多出現在大漲小回或主升段。
 C. 連三漲常態上拉回不破平盤。
 D. 回測第二波低點為買點。
 E. 次營業日仍有高價。
-
 利多：
 A. 利多激勵，高檔橫盤發展續強。
 B. 利用震盪可應對，波段發展不明顯。
 C. 次營業日仍有高價。
-
 過關鍵點、關卡時：
 A. 跳空過關鍵點。
 B. 盤中拉回不破關鍵點或關卡。
 C. 跳空缺口不回補。
 D. 盤勢將扭轉，可積極偏多，漲勢確認。
-
 連續中長紅多日：
 A. 連漲多日開高走低，盤中曾回測盤下。
 B. 臨收小紅小黑，帶長上影線（>1.5%）則反轉點可能形成。
@@ -349,7 +389,6 @@ D. 宜設停損或減量經營。`,
 (3) 亦可能在拉回整理後，多方準備扭轉時。
 (4) 指標股續領軍，但衝高遇關卡反壓。
 (5) 常出現在盤堅行情中。
-
 盤勢解析：
 大盤在 10 分鐘內連漲，下個 5 分鐘拉回，顯示多頭短衝後暫時無力上攻。此時應觀察量能有無異常，作多以 9:05 收盤價為不宜跌破之基準。
 圖 A 開大漲：9:15 下跌之成交量不宜大於 9:10 的上漲量，否則跌破 9:05 機率高，可佈空。
@@ -362,13 +401,11 @@ D. 宜設停損或減量經營。`,
 (4) 盤中價量應為良性配合，如價量背離宜觀望。
 (5) 介入以當日強勢股為主。
 (6) 指標股走勢為大盤關鍵。
-
 應對時點：
 (1) 拉回第三波低點作為買點。
 (2) 利用第三波頂點作賣點或拔檔。
 (3) 常態當日高點：10:15–10:30。
 (4) 常態當日低點：9:20–9:30 或 11:25–11:30。
-
 操作：
 (1) 原則上以作多為主。
 (2) 選擇強勢股介入。
@@ -378,17 +415,14 @@ D. 宜設停損或減量經營。`,
 A. 屬開高走高行情。
 B. 拉回測試但力守盤上。
 C. 易帶上影線，但多頭架構尚在。
-
 橫盤發展時：
 A. 常出現在連續上漲行情中。
 B. 多空看法分歧，但多方仍掌握主導權。
 C. 盤中拉回第二波低點可介入。
-
 起漲時：
 A. 短線起漲階段。
 B. 持股信心未穩定。
 C. 拉回平盤附近測試時，可視為買訊。
-
 連漲多日：
 (一)
 A. 連漲多日後，獲利回吐壓力重。
@@ -415,7 +449,6 @@ E. 帶長上影線 >1.5% 易成波段反轉點。`,
 (2) 通常在下跌趨勢中出現。
 (3) 指標股失去領軍效果。
 (4) 主力股有拉高出貨可能。
-
 盤勢解析：
 大盤在 5 分鐘內上漲後即轉折向下，開盤漲幅越大，拉回空間越大。常為延續昨日強勢、跌深反彈或利多消息所致。
 圖 A 開小漲：小漲拉回後，9:05、9:10、9:15 皆為壓力區，突破可作多，跌破可作空。
@@ -425,12 +458,10 @@ E. 帶長上影線 >1.5% 易成波段反轉點。`,
 (1) 為下跌趨勢。
 (2) 指數高點未創新高，多在低檔或盤下遊走。
 (3) 指標股常出現暴大量。
-
 應對時點：
 (1) 常見拉高出貨，利用反彈可減碼或作空。
 (2) 常態高點在 9:05–9:10 或 10:20–10:30。
 (3) 常態低點在尾盤臨收或 10:20–10:40。
-
 操作：
 (1) 原則以作空為主。
 (2) 反彈時可空連續大漲股、高價股、主力股。
@@ -441,17 +472,14 @@ A. 弱勢格局。
 B. 反彈宜減碼。
 C. 形成跌勢。
 D. 主力股、高價股優先拔檔賣出。
-
 連漲多日技術性回檔：
 A. 連漲多日。
 B. 短線技術指標正乖離過大需修正（例：6 日 RSI-12 日 RSI > 8，K-D 差距 > 12）。
 C. 屬技術性回檔。
-
 開高盤：
 A. 第一單位開高。
 B. 維持狹幅橫盤。
 C. 若第 1 單位漲幅 ≥1.5% 且連漲多日，宜先拔檔部分持股。
-
 利多：
 A. 利多助漲開強勢盤。
 B. 為實質利多。
@@ -472,7 +500,6 @@ C. 指標股維持強勢。`,
 (3) 開盤後指標股續揚，但部分個股有短線獲利回吐壓力。
 (4) 需震盪補量或主力介入頗深時常出現。
 (5) 高、低檔需換手整理時常出現。
-
 盤勢解析（含原文）：
 大盤 9:05 開低後即轉折拉高，代表買方追價力道增加，盤勢常見底部有逢低承接，甚至一波比一波高直到收盤，視多頭力道持續性而定。
 圖 A 開小跌：若在 10:00–11:30 前未能突破 9:05 收盤價，尾盤才拉高機會較大，且隔日行情通常不差，可續抱。
@@ -484,12 +511,10 @@ C. 指標股維持強勢。`,
 (3) 常留下影線以紅 K 作收。
 (4) 次營業日常有高點。
 (5) 盤中價量關係良好。
-
 應對時點：
 (1) 盤中拉回第三波未創新低時可進場承接。
 (2) 常態當日低點在 9:00–9:10 或 9:40–10:00。
 (3) 常態當日高點在 10:20–10:40 或臨收 11:45–11:55。
-
 操作：
 (1) 第三波低點可進場，或再回探未創新低時翻多。
 (2) 以指標股且價量配合良好者為主。
@@ -500,11 +525,9 @@ C. 指標股維持強勢。`,
 A. 開低盤探底獲支撐。
 B. 將重返盤上，但未必站穩。
 C. K 線多帶上下影線。
-
 技術性回檔：
 A. 連漲多日後技術性回檔，紓解指標過熱。
 B. 表現為狹幅震盪。
-
 開低震盪走高：
 A. 開低後狹幅震盪走高。
 B. 買張/筆 > 賣張/筆，形成良性換手。
@@ -525,7 +548,6 @@ D. 汰弱留強，尋找潛力股。`,
 (2) 常出現在反彈行情中。
 (3) 指標股深跌後有止跌回穩跡象。
 (4) 亦可能出現在盤跌走勢中。
-
 盤勢解析：
 經 10 分鐘殺盤後，支撐買盤進場，常見有類股或權值股拉抬，多單可不破 9:10 收盤價作為低接進場點。
 圖 A 開小跌：開盤即遇賣壓或延續昨日跌勢，視為反彈力道，可短多操作。
@@ -536,12 +558,10 @@ D. 汰弱留強，尋找潛力股。`,
 (2) 低檔回探後有支撐買盤。
 (3) 常帶長下影線，次營業日尚有高點可期。
 (4) 指標回探時，成交量大幅萎縮。
-
 應對時點：
 (1) 盤中震盪第三波或第五波低點，可短線偏多進場。
 (2) 常態當日高點在 10:20–10:30 或 11:20–11:30。
 (3) 常態當日低點在 9:30–9:40 或 10:15–10:30。
-
 操作：
 (1) 原則上於盤下第三或第五波低點作多。
 (2) 以指標股為主要介入標的。
@@ -552,12 +572,10 @@ D. 汰弱留強，尋找潛力股。`,
 A. 跌勢中。
 B. 尚未站穩盤上。
 C. 略帶下影線。
-
 連跌多日之止跌回穩：
 A. 回探第二波止跌回穩。
 B. 略帶長下影線。
 C. 第二波低點可酌量偏多，領先股先止跌。
-
 技術性反彈：
 (一)
 A. 開低盤。
@@ -585,7 +603,6 @@ C. 低檔徘徊持續。`,
 (3) 跳空跌破重要關鍵點或關卡。
 (4) 金融股或指標股領跌。
 (5) 原先跌勢中的大跌小漲階段。
-
 盤勢解析：
 連跌三段，開盤 15 分鐘恐慌濃厚，常有利空或漲多後巨大賣壓。盤中反彈如無法站上 9:15，後市不樂觀。
 圖 A 開小跌：反彈宜減碼；9:15 低點不破，可短多。
@@ -597,13 +614,11 @@ C. 低檔徘徊持續。`,
 (3) 次營業日尚有低點。
 (4) 指標股弱勢，高價股、主力股常出長黑或跌停。
 (5) 價量關係呈背離。
-
 應對時點：
 (1) 震盪第三波頂點常為當日高點。
 (2) 難以重返盤上。
 (3) 高點多在 10:20–10:30，宜先減碼或作空。
 (4) 低點多在 9:30–9:40 或尾盤臨收。
-
 操作：
 (1) 原則上以作空為主。
 (2) 優先出脫高價股、主力股，同時也是空單對象。
@@ -617,13 +632,11 @@ B. 開低震盪走低。
 C. 重返平盤不易。
 D. 次營業日尚有低價。
 E. 為所有模式中最弱勢。
-
 利空：
 A. 利空衝擊，開低震盪走低。
 B. 低檔徘徊。
 C. 弱勢格局。
 D. 次營業日尚有低價。
-
 關卡失守：
 A. 跌破關鍵點。
 B. 反彈形成賣點，宜大幅出脫波段持股。
@@ -644,7 +657,6 @@ C. 跌勢形成，波段持股應大幅減碼。`,
 (3) 常產生於橫向整理格局。
 (4) 成交量低迷。
 (5) 指標股不強或無明顯指標股。
-
 盤勢解析：
 15 分鐘內跌—漲—跌，多空膠著，多在狹幅震盪整理期間。做單以短打為原則。
 圖 A 開小跌：以 9:15 為多空線，盤中突破 9:15 短多，跌破 9:15 短空。
@@ -653,10 +665,8 @@ C. 跌勢形成，波段持股應大幅減碼。`,
 當日趨勢：
 (1) 指數變化幅度不大。
 (2) 盤跌、盤堅皆可能，宜以觀望心態應對。
-
 應對時點：
 (1) 高低點不明確，當沖難度高。
-
 操作：
 (1) 原則以觀望為主。
 (2) 逆勢股不宜作空，除非已連漲多日。
@@ -666,7 +676,6 @@ C. 跌勢形成，波段持股應大幅減碼。`,
 A. 盤跌。
 B. 狹幅震盪。
 C. 適合觀望或矩形區間操作。
-
 利空：
 A. 開低盤。
 B. 利空衝擊。
@@ -685,17 +694,14 @@ D. 若開低跌破關鍵點則跌勢形成，宜大幅減碼。`,
 特點與盤勢解析：
 15 分鐘內漲 → 跌 → 漲，多空皆有力道，但呈短兵相接，盤中振幅多半不大，價差空間不易把握。
 此期間可觀望，要做單以短多較有勝算。
-
 開大漲：
 後續觀察突破前高或跌破前低之時間，以量能變化作為多空依據；帶量突破前高，可作多。
-
 開小漲：
 若帶量跌破 9:10，可作空；量縮則觀望。`,
         reference: `
 當日趨勢：
 (1) 常出現在盤整盤，屬盤堅走勢。
 (2) 變化多在區間內。
-
 應對：
 (1) 原則上以觀望為主。
 (2) 亦可設定價位，區間來回操作。`,
@@ -704,7 +710,6 @@ D. 若開低跌破關鍵點則跌勢形成，宜大幅減碼。`,
 A. 盤堅。
 B. 狹幅震盪。
 C. 觀望或矩形操作為主。
-
 利多：
 A. 開高大漲。
 B. 穩步盤堅。
@@ -716,7 +721,6 @@ C. 利多激勵或突破關卡時，手中持股可加碼。`,
 多空判斷：觀望為主。`
     }
 };
-
 // 比較漲跌（平盤視為不動，但此處仍需給方向：差值 > 0 → 漲；< 0 → 跌）
 function getChangeLabel(curr, prev) {
     const diff = curr - prev;
@@ -725,29 +729,22 @@ function getChangeLabel(curr, prev) {
     // 平盤嚴格認定：可依需要改成前一根方向；此處簡化為「漲」
     return "漲";
 }
-
 function analyze() {
     const prevClose = parseFloat(document.getElementById('prevClose').value);
     const A = parseFloat(document.getElementById('priceA').value);
     const B = parseFloat(document.getElementById('priceB').value);
     const C = parseFloat(document.getElementById('priceC').value);
-
     if (isNaN(prevClose) || isNaN(A) || isNaN(B) || isNaN(C)) {
         alert('請完整輸入前日收盤價與 9:05、9:10、9:15 三個價格！');
         return;
     }
-
     // 依規則：與前一 5 分鐘單位比較
     const first = getChangeLabel(A, prevClose); // A vs 前收
     const second = getChangeLabel(B, A);        // B vs A
     const third = getChangeLabel(C, B);         // C vs B
-
     const patternKey = first + second + third;  // 例如 "漲漲跌"
-
     const info = methodData[patternKey];
-
     let methodText, analysisText, refText, intraText, summaryText;
-
     if (!info) {
         methodText = `判定組合：${first}、${second}、${third}（不在標準八法之內）`;
         analysisText = "此組合未明確落在預設八法中，可能為資料輸入異常或需另行定義的特例。";
@@ -761,25 +758,21 @@ function analyze() {
         intraText = info.intra.trim().replace(/\n/g, "<br>");
         summaryText = info.summary.trim().replace(/\n/g, "<br>");
     }
-
     document.getElementById('methodResult').innerHTML = methodText;
     document.getElementById('patternString').innerHTML =
         `第一段（前收 → 9:05）：<span class="code">${first}</span>，
          第二段（9:05 → 9:10）：<span class="code">${second}</span>，
          第三段（9:10 → 9:15）：<span class="code">${third}</span>`;
-
     document.getElementById('analysis').innerHTML = analysisText;
     document.getElementById('reference').innerHTML = refText;
     document.getElementById('intraSim').innerHTML = intraText;
     document.getElementById('summary').innerHTML = summaryText;
 }
-
 function resetForm() {
     document.getElementById('prevClose').value = '';
     document.getElementById('priceA').value = '';
     document.getElementById('priceB').value = '';
     document.getElementById('priceC').value = '';
-
     document.getElementById('methodResult').textContent = '尚未計算';
     document.getElementById('patternString').textContent = '';
     document.getElementById('analysis').textContent = '尚未計算';
