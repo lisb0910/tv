@@ -19,13 +19,14 @@ https://raw.githubusercontent.com/lisb0910/tv/main/liveTVList.txt
 https://api.freeob.com/tvbox/jiekou.json
 http://pandown.pro/tvbox/tvbox.json
 https://api.freeob.com/tvbox/jiekou.json
-https://vip.nxog.top
+http://fty.xxooo.cf/tv
 https://m.jiabaide.cn
-https://7337.kstore.space/kjtv/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json
+https://毒盒.com/tv/
 http://xhztv.top/4k.json
 https://catbox.n13.club/jk/jsm.json
-http://ok321.top/tv
-http://www.饭太硬.com/tv/
+http://ok321.top/tv		# OK影视内部接口
+http://ok321.top/ok		# OK影视公开接口
+http://www.饭太硬.com/tv
 http://肥猫.com
 https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json
 https://raw.githubusercontent.com/xifan2333/tvbox-source/main/feimao.json
