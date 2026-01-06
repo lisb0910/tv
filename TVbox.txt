@@ -16,9 +16,9 @@ https://raw.githubusercontent.com/lisb0910/tv/main/liveTVList.txt
 
 
 點播源
-https://api.freeob.com/tvbox/jiekou.json
-http://pandown.pro/tvbox/tvbox.json
-https://api.freeob.com/tvbox/jiekou.json
+https://github.com/qist/tvbox/blob/7521fe7e1626b8bedf17c6aacb303e882839f029/dianshi.json
+http://tv.nxog.top/m/
+https://yydsys.top/duo
 http://fty.xxooo.cf/tv
 https://m.jiabaide.cn
 https://毒盒.com/tv/
