@@ -5,7 +5,7 @@ Decoder=3
 📺台灣新聞,#genre#
 TVBS HD,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv073
 TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
-TVBS HD,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
+TVBS HD,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS
 TVBS HD,http://114.34.40.48:50008/4gtv-4gtv073/index.m3u8?proxy=true
 TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=51767e95111b87503a1995bcfbae5e5b
@@ -42,7 +42,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 非凡新闻台（p2p）,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 東森財經新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
 東森財經新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv153
-東森財經新聞台,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
+東森財經新聞台,https://live.catvod.com/live.php?id=ettvcaijing_twn
 東森財經新聞台,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
 東森財經新聞台,https://stream1.freetv.fun/9ab1d387aea892378b7046dff801ff75aa65efb7a39fabda8629a2246ab8542e.ctv
 東森財經新聞台,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
@@ -63,7 +63,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 東森超視,rtmp://f13h.mine.nu:1935/sat/tv331
 東森超視,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 東森新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
-東森新聞,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
+東森新聞,https://live.catvod.com/live.php?id=ettvnews
 東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 東森新聞,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv152
 東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
@@ -226,192 +226,214 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 台灣頻道,#genre#
 民視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv002
 民視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv155
+民視,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96
 民視,http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=19e1c2009b356aeb0b8cd2c4155ada22
 民視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv155
-民視台灣,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv001
+民視台灣台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv001
+民視台灣台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E5%8F%B0%E7%81%A3%E5%8F%B0
 民視台灣台,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8201e27c64398b11362da6f5a8afa92e
 民視台灣台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
 民視旅遊,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv07
+民視旅遊,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E6%97%85%E9%81%8A%E5%8F%B0
 民視旅遊,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv07
-民視第一,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv003
-民視第一,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003
-民視第一,http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1cb964c32a7625db277030a612341eae
+民視第一台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv003
+民視第一台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E7%AC%AC%E4%B8%80%E5%8F%B0
+民視第一台,http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1cb964c32a7625db277030a612341eae
+民視第一台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003
 民視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv13
-民視新聞,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv13
+民視新聞,https://live.catvod.com/live.php?id=ftvnew_taiwan
 民視新聞,http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
 民視綜藝,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv004
+民視綜藝,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E7%B6%9C%E8%97%9D%E5%8F%B0
 民視綜藝,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv004
 民視影劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv09
+民視影劇,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%B0%91%E8%A6%96%E5%BD%B1%E5%8A%87%E5%8F%B0
 民視影劇,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv09
+三立台劇(YT),https://www.youtube.com/watch?v=LGpEb8dIOPw&list=PLE6ICy7YAcNYvZiazthDbEubWwJ0H4X_2&pp=iAQB
+三立台灣,https://live.catvod.com/live.php?id=sanlitaiwan
+三立台灣,http://125.227.210.55:8160/VideoInput/play.ts
+三立台灣,http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=77eb1dd21bce370359c7999bea4250a6
+三立都會,https://live.catvod.com/live.php?id=sanlidouhui_twn
+三立都會,https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
+三立新聞iNEWS,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9EiNEWS
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+三立綜合,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%89%E7%AB%8B%E7%B6%9C%E5%90%88%E5%8F%B0
+三立綜合,https://live.catvod.com/live.php?id=sanlizhonghe
+三立綜合,http://114.34.40.48:50008/4gtv-live207/index.m3u8?proxy=true
+三立綜合,http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c7bcade088cb0f7c18f6fd6c6b4a627e
+三立戲劇,https://live.catvod.com/live.php?id=sanlixiju_twn
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+三立戲劇,https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
+三立戲劇,http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
+TVBS HD,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv073
+TVBS HD,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS
+TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=51767e95111b87503a1995bcfbae5e5b
+TVBS HD,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
+TVBS台劇台,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E5%8F%B0%E5%8A%87%E5%8F%B0
+TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
+TVBS新聞,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+TVBS新聞,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
+TVBS精采台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv067
+TVBS精采台,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E7%B2%BE%E9%87%87%E5%8F%B0
+TVBS精采台,http://114.34.40.48:50008/li-4gtv-4gtv067/index.m3u8?proxy=true
+TVBS綜藝台,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E7%B6%9C%E8%97%9D%E5%8F%B0
+TVBS綜藝,http://114.34.40.48:50008/4gtv-live087/index.m3u8?proxy=true
+TVBS歡樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv068
+TVBS歡樂台,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E6%AD%A1%E6%A8%82%E5%8F%B0
+TVBS歡樂台,http://114.34.40.48:50008/li-4gtv-4gtv068/index.m3u8?proxy=true
+TVBS歡樂台,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ef02578497d13965a0af430c964d4edc
 非凡商業,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv048
 非凡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv010
-非凡新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=062cd4838cc875a5c2b36c7b6c0441d9
+非凡新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 東森財經新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
-東森財經新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv153
 東森財經新聞,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1c72ebf556e1cc4f5f7d31b8de9b4de2
-東森超視,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
+東森財經新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv153
+東森超視,https://live.catvod.com/live.php?id=ettvsuper
 東森超視,rtmp://f13h.mine.nu/sat/tv331
 東森新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
+東森新聞,https://live.catvod.com/live.php?id=ettvnews
 東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f71d63a3f4f29c1989254097e43d1628
-東森新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
-年代新闻,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-八大精彩,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv034
-八大精彩,http://114.34.40.48:50008/li-4gtv-4gtv034/index.m3u8?proxy=true
-八大娛樂,https://smart.pendy.dpdns.org/Smart.php?id=badaentertain
-八大第一,https://smart.pendy.dpdns.org/Smart.php?id=badafirst
+東森電影,https://live.catvod.com/live.php?id=ettvmovie
+東森綜合,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7c67d8df65d0f243d7ed4e4080609bd5
+東森綜合,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
+東森戲劇,https://live.catvod.com/live.php?id=ettvdrama
+東森娛樂台,http://114.34.40.48:50008/ofiii32/index.m3u8?proxy=true
+TLC旅遊生活,https://live.catvod.com/live.php?id=Tlc
+TLC旅遊生活,https://live.catvod.com/live.php?id=tlc_twn
+人間衛視,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%BA%BA%E9%96%93%E8%A1%9B%E8%A6%96
+八大娛樂,https://live.catvod.com/live.php?id=badaentertain
+八大第一,https://live.catvod.com/live.php?id=badafirst
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=1a04cd80a204e4b394f89b4d34ae00b7
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大第一,http://smt.iktv.ddns-ip.net/Smart.php?id=badafirst
-八大綜藝,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv039
-八大綜藝,http://114.34.40.48:50008/li-4gtv-4gtv039/index.m3u8?proxy=true
-八大綜合,https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
+八大精彩,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv034
+八大精彩,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%85%AB%E5%A4%A7%E7%B2%BE%E5%BD%A9%E5%8F%B0
+八大精彩,http://114.34.40.48:50008/li-4gtv-4gtv034/index.m3u8?proxy=true
+八大綜合,https://live.catvod.com/live.php?id=badazhonghe
 八大綜合,http://198.16.100.186:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
 八大綜合,http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=020937c001062a4332afb110a312bd20
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
-八大戲劇,https://smart.pendy.dpdns.org/Smart.php?id=badadrama
-八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+八大綜藝台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv039
+八大綜藝台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%85%AB%E5%A4%A7%E7%B6%9C%E8%97%9D%E5%8F%B0
+八大綜藝台,http://114.34.40.48:50008/li-4gtv-4gtv039/index.m3u8?proxy=true
+八大戲劇,https://live.catvod.com/live.php?id=badadrama
 八大戲劇,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=861e8fc388791a904100e419dfd4914a
-三立台灣,https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
-三立台灣,http://125.227.210.55:8160/VideoInput/play.ts
-三立台灣,http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-三立台灣,http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=77eb1dd21bce370359c7999bea4250a6
-三立台劇(YT),https://www.youtube.com/watch?v=LGpEb8dIOPw&list=PLE6ICy7YAcNYvZiazthDbEubWwJ0H4X_2&pp=iAQB
-戲說台灣(YT),https://www.youtube.com/watch?v=WzkhDwXLolI
-好運來(YT),https://www.youtube.com/watch?v=9v2SOMKT7rs&list=PL02zpjjwMEjoiKM4Rnd864YGyqYW-PsfV&pp=iAQBmAUB0gcJCYsCa94AFGB0
-三立都會,https://smart.pendy.dpdns.org/Smart.php?id=Huahee
-三立都會,https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
-三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
-三立綜合,http://114.34.40.48:50008/4gtv-live207/index.m3u8?proxy=true
-三立綜合,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
-三立綜合,http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c7bcade088cb0f7c18f6fd6c6b4a627e
-三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
-三立戲劇,https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
-三立戲劇,http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
-三立戲劇台,http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
-TVBS HD,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv073
-TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=51767e95111b87503a1995bcfbae5e5b
-TVBS HD,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
-TVBS新聞,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
-TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
-TVBS新聞,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
-TVBS精采,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv067
-TVBS精采,http://114.34.40.48:50008/li-4gtv-4gtv067/index.m3u8?proxy=true
-TVBS歡樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv068
-TVBS歡樂台,http://114.34.40.48:50008/li-4gtv-4gtv068/index.m3u8?proxy=true
-TVBS歡樂台,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ef02578497d13965a0af430c964d4edc
-TVBS綜藝,http://114.34.40.48:50008/4gtv-live087/index.m3u8?proxy=true
+八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
 中天新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv009
-中天新聞,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
+中天新聞,https://k44991.kylintv.tv/live/cti_iphone.m3u8
 中天新聞,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d61541eb2b655702cac4d94cda026d96
-中天綜合 CTI Metro,https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
-中天綜合,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=16ebd28b8fed732a20c025197b9a5dd0
+中天亞洲台,https://live.catvod.com/live.php?id=ctiasia_twn
 中天亞洲台,http://114.34.40.48:50008/4gtv-4gtv109/index.m3u8?proxy=true
-中天亞洲台,http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
 中天亞洲台,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d07136a2d6a7e4bd268434d68673481f
-中天娛樂,https://smart.pendy.dpdns.org/Smart.php?id=ctient
+中天娛樂,https://live.catvod.com/live.php?id=ctient
 中天娛樂,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f638d0887843283530ddb62d4d8e3257
-東森電影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=a075bdb8849783c1693f9dd62b185e4e
-東森娛樂台,http://114.34.40.48:50008/ofiii32/index.m3u8?proxy=true
-東森綜合,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
-東森綜合,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7c67d8df65d0f243d7ed4e4080609bd5
-中視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv040
-中視,https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
-中視,http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=32d18c5b25d1beb4c99b22e3309ae886
-中視菁採,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv064
-中視菁採,http://114.34.40.48:50008/li-4gtv-4gtv064/index.m3u8?proxy=true
-中視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv074
-中視新聞,http://114.34.40.48:50008/4gtv-4gtv074/index.m3u8?proxy=true
-中視經典,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv080
-中視經典,http://114.34.40.48:50008/4gtv-4gtv080/index.m3u8?proxy=true
+中天綜合,https://live.catvod.com/live.php?id=ctizhonghe
+中天綜合,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=16ebd28b8fed732a20c025197b9a5dd0
 台視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv066
 台視,https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
-台視,http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=82fd176eb53ca34311ffe6c333804f14
 台視,rtmp://f13h.mine.nu/sat/tv071
+台視,http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=82fd176eb53ca34311ffe6c333804f14
 台視財經,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv056
 台視財經,http://114.34.40.48:50008/4gtv-4gtv056/index.m3u8?proxy=true
 台視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv051
 台視新聞,http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=2b575543b8a09372654cd3b50ae69c94
-台視新聞台,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
+台視新聞,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
 台視綜合台,https://smart.pendy.dpdns.org/Smart.php?id=ttvzhonghe
 台灣戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn22
 台灣戲劇,http://114.34.40.48:50008/litv-longturn22/index.m3u8?proxy=true
-華視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv052
+大愛電視,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96
+大愛二台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A4%A7%E6%84%9B%E4%BA%8C%E5%8F%B0
+中視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv040
+中視,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96
+中視,http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=32d18c5b25d1beb4c99b22e3309ae886
+中視,https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
+中視菁採,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv064
+中視菁采台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96%E8%8F%81%E9%87%87%E5%8F%B0
+中視菁採,http://114.34.40.48:50008/li-4gtv-4gtv064/index.m3u8?proxy=true
+中視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv074
+中視新聞,http://114.34.40.48:50008/4gtv-4gtv074/index.m3u8?proxy=true
+中視經典,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv080
+中視經典,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96%E7%B6%93%E5%85%B8%E5%8F%B0
+中視經典,http://114.34.40.48:50008/4gtv-4gtv080/index.m3u8?proxy=true
 華視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv041
+華視,https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96
 華視,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
-華視,http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f87c65eeec10c9bc82b4417c55523210
 華視,rtmp://f13h.mine.nu/sat/tv111
-鏡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv075
+華視,http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f87c65eeec10c9bc82b4417c55523210
+華視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv052
+公視,https://live.catvod.com/live.php?id=ctv_taiwan
+公視,http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=100430272d79e1b58f70da883d75c794
+公視2,https://live.catvod.com/live.php?id=pts3_twn
+公視戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv042
+公視戲劇,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%85%AC%E8%A6%96%E6%88%B2%E5%8A%87
 寰宇台灣,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv156
+寰宇財經台,https://live.catvod.com/live.php?id=huanyutaiwan_twn
 寰宇財經台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false
-寰宇財經台,http://50.7.234.10:8278/huanyutaiwan_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=cf7be8ecea972582b17a2ee35463c961
 寰宇新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn14
 寰宇新聞,http://50.7.234.10:8278/huanyuxinwen_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=72315211ea2fb5525f48563203b6a7b8
 寰宇新聞台,http://114.34.40.48:50008/litv-longturn14/index.m3u8?proxy=true
+寰宇新聞台灣台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0
+年代新聞,https://live.catvod.com/live.php?id=niandainews_twn
+年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
-年代新聞,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=91d8cf0514a580f2187d1f0dcb6dc2aa
-amc電影,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv017
-影迷數位電影,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv011
-影迷數位電影,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
-AXN Taiwan,https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
-AXN,http://50.7.234.10:8278/axn_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=03765d6e573bb47ebdfb4c9c366c2052
-HBO,https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
-HBO,https://smart.pendy.dpdns.org/Smart.php?id=hbohit_twn
-HBO,http://125.227.210.55:8153/VideoInput/play.ts
-HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-HBO,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ca82da37e8eeb07511bfc6b5f9e9795f
-HBO Family,https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
-HBO Family,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c6b7b1a30c4faf9433b8de2037988922
-HBO Hits,https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
-HBO Signature,https://smart.pendy.dpdns.org/Smart.php?id=Hbosignature
-CINEMAX,http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c6954ca5263b8dee34496f2c62329cfc
-东森电影 ETTV Movie,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
-东森戏剧 ETTV Drama,https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
-东森洋片 ETTV Western,https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
-美亞電影,https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
-AFC 亞洲旅遊台,http://114.34.40.48:50008/4gtv-4gtv076/index.m3u8?proxy=true
-亞洲美食,http://50.7.234.10:8278/afc_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9a258d5e5910448bc703a61bab8e37c0
-亞洲美食,https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
-亞洲旅遊 TLC Asia,https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
-亞洲旅遊,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv076
+鏡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv075
+半島國際新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv10
+半島國際新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%8D%8A%E5%B3%B6%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E%E5%8F%B0
+亞洲旅遊台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv076
+亞洲旅遊台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%BA%9E%E6%B4%B2%E6%97%85%E9%81%8A%E5%8F%B0
 亞洲旅遊台,http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8eea6c49ddad8f8d366d6d5d899cfdb7
-探索亞洲,http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f2a44f0c9477bbd4866c1a9d45fa5ca5
-JET 綜合,https://smart.pendy.dpdns.org/Smart.php?id=jettv_japan
-TLC旅遊生活,https://smart.pendy.dpdns.org/Smart.php?id=Tlc
-TLC旅遊生活,http://50.7.234.10:8278/tlc_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8f13ae0ea1143384471db3685eecde63
-美食星球,https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
-國家地理,http://198.16.100.186:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
-國家地理,http://50.7.234.10:8278/natgeohd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7a2359a2bf7a324b6b249ddeeff5f656
-好萊塢電影台,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+幸福空間居家台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%B9%B8%E7%A6%8F%E7%A9%BA%E9%96%93%E5%B1%85%E5%AE%B6%E5%8F%B0
 靖天日本,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv047
+靖天日本台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0
 靖天卡通,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv044
 靖天卡通台,http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=918113915ab95013bdae540bbf8c4619
+靖天卡通台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0
 靖天卡通台,https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
 靖天育樂,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv062
+靖天育樂台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E8%82%B2%E6%A8%82%E5%8F%B0
 靖天映畫,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv055
+靖天映畫,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E6%98%A0%E7%95%AB
 靖天國際,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv063
 靖天國際台,http://50.7.234.10:8278/jingtianintl_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=594878ec85f4841d0e4b6cba429b0436
 靖天國際台,https://smart.pendy.dpdns.org/Smart.php?id=jingtianintl_twn
 靖天資訊,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv065
+靖天資訊台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E8%B3%87%E8%A8%8A%E5%8F%B0
 靖天電影,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv061
+靖天電影台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E9%9B%BB%E5%BD%B1%E5%8F%B0
 靖天綜合,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv046
+靖天綜合台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E7%B6%9C%E5%90%88%E5%8F%B0
 靖天戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv058
+靖天戲劇台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E6%88%B2%E5%8A%87%E5%8F%B0
 靖天歡樂,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv054
 靖洋卡通,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv057
+靖洋卡通Nice Bingo,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9ANice%20Bingo
 靖洋戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv045
-緯來日本,http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=70283ceb3b9f1cb39c326f328521e79b
-緯來日本,https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
+靖洋戲劇台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E6%B4%8B%E6%88%B2%E5%8A%87%E5%8F%B0
+影迷數位紀實,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E7%B4%80%E5%AF%A6%E5%8F%B0
+影迷數位電影,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv011
+影迷數位電影,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E9%9B%BB%E5%BD%B1%E5%8F%B0
+影迷數位電影,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
+緯來日本,https://live.catvod.com/live.php?id=videolandjapan
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
-緯來育樂,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
+緯來日本,http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=70283ceb3b9f1cb39c326f328521e79b
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
-緯來電影台,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
-緯來精彩,https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn
-緯來綜合台,https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
+緯來育樂,https://live.catvod.com/live.php?id=videolandyule
+緯來電影台,https://live.catvod.com/live.php?id=videolandmovie
+緯來精彩,https://live.catvod.com/live.php?id=videolandspecial_twn
+緯來綜合台,https://live.catvod.com/live.php?id=videolandzonghe
+緯來體育,https://live.catvod.com/live.php?id=videolandsport
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+緯來體育,http://50.7.234.10:8278/videolandsport/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c1c9d7b13616697395efac52288b8dde
 衛視中文台 Star Movies Chinese,https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
 衛視電影台,https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
+豬哥亮歌廳秀,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv006
+豬哥亮歌廳秀,https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%B1%AC%E5%93%A5%E4%BA%AE%E6%AD%8C%E5%BB%B3%E7%A7%80
+龍華電影,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn03
+龍華戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn18
 龍華日韓,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn11
 龍華卡通,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn01
 龍華洋片,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn02
@@ -419,92 +441,152 @@ TLC旅遊生活,http://50.7.234.10:8278/tlc_twn/playlist.m3u8?tid=mc609f36f8a214
 龍華偶像,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
 龍華經典,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn21
 龍華經典台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
-龍華電影,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn03
-龍華戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn18
 龍詳時代,https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
-ARIRANG,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv079
-BBC World News,http://50.7.234.10:8278/bbcnews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=b9bcb038b7d5af9a71e9119c2781744f
-Bloomberg News,http://50.7.234.10:8278/bloomberg_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=36b5fd7dce31e2aabd66ebf0f62356b2
-CLASSICA古典樂,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv059
-Discovery Asia,http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f2a44f0c9477bbd4866c1a9d45fa5ca5
-Discovery HD,http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=be73404e18c83a0b9e6a60b7d6b22887
-動物星球,https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
-動物星球,http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=b90fb5897f088ef819b3fb1f62e1fd31
-動物星球(Eng),https://smart.pendy.dpdns.org/Smart.php?id=AnimalPlanet
-野生動物,http://50.7.234.10:8278/natgeowild_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=fba311b00ad329c7dd6580f59917d416
-CN卡通,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=573ad445b8f616ddebc862c578dac5c5
-ELEVEN 1,http://50.7.234.10:8278/golfchannel_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d77b31437cad11339692d7566897e46f
-ELTV生活英語,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn20
-ELTV娛樂,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv070
-EYE旅遊,http://50.7.234.10:8278/eyetvtravel_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ec67faaab6ebecb645f4a654a0504976
-EYE旅遊,https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
-EYE戲劇,http://50.7.234.10:8278/eyetvxiju_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=3d3cc7fc9fc11de8ea70e6d3f4146d75
-EYE戲劇,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
-Fashion TV,https://smart.pendy.dpdns.org/Smart.php?id=fashiontv_twn
-Fox News,http://50.7.234.10:8278/foxnews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=acc82bd27a8e6ff0f264139ae8966e36
-GINXEsportsTV,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv053
-Globetrotter,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv016
-MezzoLive,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv083
-MTV Live,http://50.7.234.10:8278/mtvhd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4c5676d9df502deb44f03423724a399f
-Smart知識,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn19
-TraceUrban,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv082
-大愛1台,http://50.7.234.10:8278/daai_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=e99baa96714160a139bfe06bba6e025e
-大愛1台,https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
-大愛2台,https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
-公視 CTV,https://smart.pendy.dpdns.org/Smart.php?id=ctv18_twn
-公視,http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=100430272d79e1b58f70da883d75c794
-公視2,https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
-公視戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv042
-半島國際新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv10
-好消息一,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv16
-好消息二,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv17
+戲說台灣(YT),https://www.youtube.com/watch?v=WzkhDwXLolI
+好消息1台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv16
+好消息1台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A5%BD%E6%B6%88%E6%81%AF
+好消息2台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv17
+好消息2台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A5%BD%E6%B6%88%E6%81%AF2%E5%8F%B0
+好萊塢電影台,https://live.catvod.com/live.php?id=hollywoodmovies_twn
+好運來(YT),https://www.youtube.com/watch?v=9v2SOMKT7rs&list=PL02zpjjwMEjoiKM4Rnd864YGyqYW-PsfV&pp=iAQBmAUB0gcJCYsCa94AFGB0
+車迷TV,https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%BB%8A%E8%BF%B7TV
+亞洲美食,https://live.catvod.com/live.php?id=afc_twn
+亞洲美食,http://50.7.234.10:8278/afc_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=9a258d5e5910448bc703a61bab8e37c0
+亞洲旅遊 TLC Asia,https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
 東森幼幼 Yoyo TV,https://smart.pendy.dpdns.org/Smart.php?id=yoyo_twn
-翡翠台 backup,https://smart.pendy.dpdns.org/Smart.php?id=Jade_xue
-翡翠台,https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
+東森購物一台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E4%B8%80%E5%8F%B0
+東森購物二台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E4%BA%8C%E5%8F%B0
+東森購物三台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E4%B8%89%E5%8F%B0
+東森購物四台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E5%9B%9B%E5%8F%B0
+采昌影劇台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%87%87%E6%98%8C%E5%BD%B1%E5%8A%87%E5%8F%B0
+金光布袋戲,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%87%91%E5%85%89%E5%B8%83%E8%A2%8B%E6%88%B2
 客家電視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv043
-星衛電影,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
-珍珠台,https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
+客家電視台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AE%A2%E5%AE%B6%E9%9B%BB%E8%A6%96%E5%8F%B0
+美亞電影,https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
+美食星球,https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
 美國之音,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv03
-時尚,http://50.7.234.10:8278/fashiontv_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=552d865caab15fc0a5d563d9647ba6cc
+原住民族電視台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E9%9B%BB%E8%A6%96%E5%8F%B0
 時尚運動X,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv014
+時尚運動X,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%82%E5%B0%9A%E9%81%8B%E5%8B%95X
+國會頻道1,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%9C%8B%E6%9C%83%E9%A0%BB%E9%81%931
+國會頻道2,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%9C%8B%E6%9C%83%E9%A0%BB%E9%81%932
+國會頻道一,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv084
+國會頻道二,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv085
 採昌影劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv049
+探索亞洲,http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f2a44f0c9477bbd4866c1a9d45fa5ca5
 第1商業,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv104
-博斯高球1,http://50.7.234.10:8278/bosigolf1_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=0ccaaf225d754cebefa05176e55fb6b0
-博斯高球2 HD,https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
 博斯高球一,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn05
 博斯高球二,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn06
-博斯無限,https://smart.pendy.dpdns.org/Smart.php?id=bosiunlimited_twn
 博斯無限一,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn10
 博斯無限二,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn13
-博斯運動1,http://50.7.234.10:8278/bosisport1_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=aa5e8641589790e769e841e83d7c79cd
-博斯運動1,https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
-博斯運動2,http://50.7.234.10:8278/bosisport2_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=195d83131e7db600c58b235b19607c55
-博斯運動2,https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
 博斯運動一,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn07
 博斯運動二,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn08
-博斯網球 HD,https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
-博斯網球,http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=47e5003d17342241515e41171c21631e
 博斯網球一,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn09
 博斯魅力,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn04
 智林體育,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv101
-華藝綜合,http://50.7.234.10:8278/weishichinese_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c39a5b38259d9c50474fdf84e8dee60d
+智林體育,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%BA%E6%9E%97%E9%AB%94%E8%82%B2%E5%8F%B0
 視納華仁紀實,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv013
+視納華仁紀實,https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%A6%96%E7%B4%8D%E8%8F%AF%E4%BB%81%E7%B4%80%E5%AF%A6%E9%A0%BB%E9%81%93
+愛爾達生活旅遊台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E7%94%9F%E6%B4%BB%E6%97%85%E9%81%8A%E5%8F%B0
+愛爾達娛樂台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E5%A8%9B%E6%A8%82%E5%8F%B0
 愛爾達綜合台,https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
 愛爾達影劇,http://50.7.234.10:8278/eltayingju_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=5ce748da1aad651ca8ee7f68760251dc
 愛爾達影劇台,https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
-緯來體育,rtmp://f13h.mine.nu/sat/tv721
-緯來體育台,http://50.7.234.10:8278/videolandsport/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c1c9d7b13616697395efac52288b8dde
-緯來體育台,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 愛爾達體育 1,http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=19dc80cf972ed07683b0cd2b94e94b4b
 愛爾達體育2台,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=433c402ab35c42a3032f0619ab9fb588
 愛爾達體育2台,https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
 愛爾達體育3台,http://50.7.234.10:8278/eltasport3_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=0fc359f9c20e894a0f6aa0b86c15b1a5
 愛爾達體育3台,https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
+新唐人亞太台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%96%B0%E5%94%90%E4%BA%BA%E4%BA%9E%E5%A4%AA%E5%8F%B0
+經典卡通台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E7%B6%93%E5%85%B8%E5%8D%A1%E9%80%9A%E5%8F%B0
+經典電影台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E7%B6%93%E5%85%B8%E9%9B%BB%E5%BD%B1%E5%8F%B0
 達文西頻道,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv018
-豬哥亮歌廳秀,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv006
-國會頻道一,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv084
-國會頻道二,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv085
-阿裡郎,http://50.7.234.10:8278/arirang_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=fefaee2f94f9244ff4b94fba23cde914
+達文西頻道,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%81%94%E6%96%87%E8%A5%BF%E9%A0%BB%E9%81%93
+電影原聲台CMusic,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9B%BB%E5%BD%B1%E5%8E%9F%E8%81%B2%E5%8F%B0CMusic
+韓國娛樂台 KMTV,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9F%93%E5%9C%8B%E5%A8%9B%E6%A8%82%E5%8F%B0%20KMTV
+尼克兒童頻道,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%B0%BC%E5%85%8B%E5%85%92%E7%AB%A5%E9%A0%BB%E9%81%93
+AXN Taiwan,https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
+AXN,http://50.7.234.10:8278/axn_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=03765d6e573bb47ebdfb4c9c366c2052
+CI 罪案偵查頻道,https://4gtv.946985.filegear-sg.me/playlist?channel=CI%20%E7%BD%AA%E6%A1%88%E5%81%B5%E6%9F%A5%E9%A0%BB%E9%81%93
+CinemaWorld,https://4gtv.946985.filegear-sg.me/playlist?channel=CinemaWorld
+CINEMAX,http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c6954ca5263b8dee34496f2c62329cfc
+Discovery Asia,http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f2a44f0c9477bbd4866c1a9d45fa5ca5
+Discovery HD,http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=be73404e18c83a0b9e6a60b7d6b22887
+DreamWorks 夢工廠動畫,https://4gtv.946985.filegear-sg.me/playlist?channel=DreamWorks%20%E5%A4%A2%E5%B7%A5%E5%BB%A0%E5%8B%95%E7%95%AB
+AFC 亞洲旅遊台,http://114.34.40.48:50008/4gtv-4gtv076/index.m3u8?proxy=true
+amc電影,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv017
+amc電影台,https://4gtv.946985.filegear-sg.me/playlist?channel=amc%E9%9B%BB%E5%BD%B1%E5%8F%B0
+HBO Family,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c6b7b1a30c4faf9433b8de2037988922
+HBO,http://125.227.210.55:8153/VideoInput/play.ts
+HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+HBO,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ca82da37e8eeb07511bfc6b5f9e9795f
+HBO,https://4gtv.946985.filegear-sg.me/playlist?id=hbohd_twn
+History 歷史頻道,https://4gtv.946985.filegear-sg.me/playlist?channel=History%20%E6%AD%B7%E5%8F%B2%E9%A0%BB%E9%81%93
+HITS頻道,https://4gtv.946985.filegear-sg.me/playlist?channel=HITS%E9%A0%BB%E9%81%93
+INULTRA,https://4gtv.946985.filegear-sg.me/playlist?channel=INULTRA
+戲劇免費看 1台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%88%B2%E5%8A%87%E5%85%8D%E8%B2%BB%E7%9C%8B%201%E5%8F%B0
+ARIRANG,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv079
+ARIRANG阿里郎頻道,https://4gtv.946985.filegear-sg.me/playlist?channel=ARIRANG%E9%98%BF%E9%87%8C%E9%83%8E%E9%A0%BB%E9%81%93
+BBC World News,http://50.7.234.10:8278/bbcnews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=b9bcb038b7d5af9a71e9119c2781744f
+Bloomberg News,http://50.7.234.10:8278/bloomberg_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=36b5fd7dce31e2aabd66ebf0f62356b2
+Bloomberg TV,https://4gtv.946985.filegear-sg.me/playlist?channel=Bloomberg%20TV
+CLASSICA 古典樂,https://4gtv.946985.filegear-sg.me/playlist?channel=CLASSICA%20%E5%8F%A4%E5%85%B8%E6%A8%82
+CLASSICA古典樂,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv059
+CNBC Asia 財經台,https://4gtv.946985.filegear-sg.me/playlist?channel=CNBC%20Asia%20%E8%B2%A1%E7%B6%93%E5%8F%B0
+CN卡通,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=573ad445b8f616ddebc862c578dac5c5
+DW德國之聲,https://4gtv.946985.filegear-sg.me/playlist?channel=DW%E5%BE%B7%E5%9C%8B%E4%B9%8B%E8%81%B2
+ELEVEN 1,http://50.7.234.10:8278/golfchannel_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d77b31437cad11339692d7566897e46f
+ELTV生活英語,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn20
+ELTV生活英語台,https://4gtv.946985.filegear-sg.me/playlist?channel=ELTV%E7%94%9F%E6%B4%BB%E8%8B%B1%E8%AA%9E%E5%8F%B0
+ELTV娛樂,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv070
+EYE旅遊,http://50.7.234.10:8278/eyetvtravel_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ec67faaab6ebecb645f4a654a0504976
+EYE旅遊,https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
+EYE戲劇,http://iptv.4666888.xyz/iptv2A.php?id=56
+EYE戲劇,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
+Fashion TV,https://smart.pendy.dpdns.org/Smart.php?id=fashiontv_twn
+Fox News,http://50.7.234.10:8278/foxnews_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=acc82bd27a8e6ff0f264139ae8966e36
+FRANCE24 英文台,https://4gtv.946985.filegear-sg.me/playlist?channel=FRANCE24%20%E8%8B%B1%E6%96%87%E5%8F%B0
+滾動力rollor,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%BB%BE%E5%8B%95%E5%8A%9Brollor
+精選動漫台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E7%B2%BE%E9%81%B8%E5%8B%95%E6%BC%AB%E5%8F%B0
+fun探索娛樂台,https://4gtv.946985.filegear-sg.me/playlist?channel=fun%E6%8E%A2%E7%B4%A2%E5%A8%9B%E6%A8%82%E5%8F%B0
+GINX Esports TV,https://4gtv.946985.filegear-sg.me/playlist?channel=GINX%20Esports%20TV
+GINXEsportsTV,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv053
+Global Trekker,https://4gtv.946985.filegear-sg.me/playlist?channel=Global%20Trekker
+Globetrotter,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv016
+JET 綜合,https://smart.pendy.dpdns.org/Smart.php?id=jettv_japan
+KLT-靖天國際台,https://4gtv.946985.filegear-sg.me/playlist?channel=KLT-%E9%9D%96%E5%A4%A9%E5%9C%8B%E9%9A%9B%E5%8F%B0
+Lifetime 娛樂頻道,https://4gtv.946985.filegear-sg.me/playlist?channel=Lifetime%20%E5%A8%9B%E6%A8%82%E9%A0%BB%E9%81%93
+LiveABC互動英語頻道,https://4gtv.946985.filegear-sg.me/playlist?channel=LiveABC%E4%BA%92%E5%8B%95%E8%8B%B1%E8%AA%9E%E9%A0%BB%E9%81%93
+Love Nature,https://4gtv.946985.filegear-sg.me/playlist?channel=Love%20Nature
+LUXE TV Channel,https://4gtv.946985.filegear-sg.me/playlist?channel=LUXE%20TV%20Channel
+MagellanTV頻道 (麥哲倫頻道),https://4gtv.946985.filegear-sg.me/playlist?channel=MagellanTV%E9%A0%BB%E9%81%93%20%28%E9%BA%A5%E5%93%B2%E5%80%AB%E9%A0%BB%E9%81%93%29
+Mezzo Live HD,https://4gtv.946985.filegear-sg.me/playlist?channel=Mezzo%20Live%20HD
+MezzoLive,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv083
+MOMO親子台,https://4gtv.946985.filegear-sg.me/playlist?channel=MOMO%E8%A6%AA%E5%AD%90%E5%8F%B0
+MTV Live HD 音樂頻道,https://4gtv.946985.filegear-sg.me/playlist?channel=MTV%20Live%20HD%20%E9%9F%B3%E6%A8%82%E9%A0%BB%E9%81%93
+MTV Live,http://50.7.234.10:8278/mtvhd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=4c5676d9df502deb44f03423724a399f
+My Cinema Europe HD 我的歐洲電影,https://4gtv.946985.filegear-sg.me/playlist?channel=My%20Cinema%20Europe%20HD%20%E6%88%91%E7%9A%84%E6%AD%90%E6%B4%B2%E9%9B%BB%E5%BD%B1
+NHK WORLD-JAPAN,https://4gtv.946985.filegear-sg.me/playlist?channel=NHK%20WORLD-JAPAN
+Nice TV 靖天歡樂台,https://4gtv.946985.filegear-sg.me/playlist?channel=Nice%20TV%20%E9%9D%96%E5%A4%A9%E6%AD%A1%E6%A8%82%E5%8F%B0
+Nick Jr. 兒童頻道,https://4gtv.946985.filegear-sg.me/playlist?channel=Nick%20Jr.%20%E5%85%92%E7%AB%A5%E9%A0%BB%E9%81%93
+Pet Club TV,https://4gtv.946985.filegear-sg.me/playlist?channel=Pet%20Club%20TV
+ROCK Action,https://4gtv.946985.filegear-sg.me/playlist?channel=ROCK%20Action
+ROCK Entertainment,https://4gtv.946985.filegear-sg.me/playlist?channel=ROCK%20Entertainment
+SBN全球財經台,https://4gtv.946985.filegear-sg.me/playlist?channel=SBN%E5%85%A8%E7%90%83%E8%B2%A1%E7%B6%93%E5%8F%B0
+Smart知識,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn19
+TRACE Sport Stars,https://4gtv.946985.filegear-sg.me/playlist?channel=TRACE%20Sport%20Stars
+TRACE Urban,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv082
+TRACE Urban,https://4gtv.946985.filegear-sg.me/playlist?channel=TRACE%20Urban
+TV5MONDE STYLE HD 生活時尚,https://4gtv.946985.filegear-sg.me/playlist?channel=TV5MONDE%20STYLE%20HD%20%E7%94%9F%E6%B4%BB%E6%99%82%E5%B0%9A
+動物星球(Eng),https://smart.pendy.dpdns.org/Smart.php?id=AnimalPlanet
+動物星球,http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=b90fb5897f088ef819b3fb1f62e1fd31
+動物星球,https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
+野生動物,http://50.7.234.10:8278/natgeowild_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=fba311b00ad329c7dd6580f59917d416
+國家地理,http://198.16.100.186:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
+國家地理,http://50.7.234.10:8278/natgeohd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=7a2359a2bf7a324b6b249ddeeff5f656
+翡翠台 backup,https://smart.pendy.dpdns.org/Smart.php?id=Jade_xue
+翡翠台,https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
+
 
 
 
