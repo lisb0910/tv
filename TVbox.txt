@@ -28,6 +28,9 @@ http://ok321.top/tv		# OK影视内部接口
 http://ok321.top/ok		# OK影视公开接口
 http://www.饭太硬.com/tv
 http://肥猫.com
+福利接口:
+https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/shiba.json
+
 https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json
 https://raw.githubusercontent.com/xifan2333/tvbox-source/main/feimao.json
 https://raw.githubusercontent.com/cyao2q/files/master/m.json
