@@ -1,10 +1,13 @@
 配置位置
 https://github.com/lisb0910/tv/blob/main/TVbox.txt
-溫馨房租管傢https://lisb0910.github.io/rent/rent.html
-開盤方法分析https://lisb0910.github.io/tv/
-智能股票全方位分析https://copy-of-gemini-819624606168.us-west1.run.app/
-line貼圖自動化助手https://meikochang.github.io/line-sticker-factory/
 
+溫馨房租管傢https://lisb0910.github.io/rent/rent.html
+
+開盤方法分析https://lisb0910.github.io/tv/
+
+智能股票全方位分析https://copy-of-gemini-819624606168.us-west1.run.app/
+
+line貼圖自動化助手https://meikochang.github.io/line-sticker-factory/
 IPTV電視直播網址 https://m.iptv234.com
 
 file://Download/4gtv去廣告.json
