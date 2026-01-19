@@ -4,11 +4,11 @@ Decoder=3
 
 📺台灣新聞,#genre#
 TVBS HD,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
+TVBS HD,https://live.catvod.com/live.php?id=TVBS
 TVBS HD,http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
 TVBS HD,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv073
 TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS HD,https://live.catvod.com/live.php?id=TVBS
 TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 新聞大白話（YT）,https://www.youtube.com/watch?v=DYSYTNkCObk
@@ -16,9 +16,9 @@ TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS NEWS,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TVBS新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
 TVBS新聞台,https://live.catvod.com/live.php?id=tvbs_n
 TVBS新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
-TVBS新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
 TVBS新聞台,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 TVBS新聞台,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 TVBS新聞台,http://211.72.65.236:8574/.m3u8
@@ -63,7 +63,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 東森超視,rtmp://f13h.mine.nu:1935/sat/tv331
 東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 東森新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
-東森新聞,https://live.catvod.com/live.php?id=ettvnews
+東森新聞,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1014.m3u8
 東森新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
 東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
@@ -110,9 +110,11 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 年代新聞,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 年代新聞(P2p),mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 華視新聞(YT),https://www.youtube.com/watch?v=wM0g8EoUZ_E
-華視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv052
 華視新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
+華視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv052
+華視新聞,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1120.m3u8
 華視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv041
+華視,http://hk.mushui.tk/mqlive/live.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1049.m3u8
 華視,rtmp://f13h.mine.nu/sat/tv111
 華視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv041
 台视,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv066
@@ -129,8 +131,8 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 鳳凰資訊,http://125.227.210.55:39004/VideoInput/play.ts
 壹新聞,http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
-鏡新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv075
 鏡新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv075
+鏡新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv075
 鏡新聞台,http://37.27.111.214:8080/live/62/hls.m3u8
 鏡新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv075
 鏡新聞台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv075
@@ -140,7 +142,7 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 寰宇台湾(YT),https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇新聞(YT),https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn14
-寰宇新聞台,http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
+寰宇新聞台,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1222.m3u8
 寰宇新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn14
 NOW新聞台,http://108.181.20.197/livehttpplay?channel_id=20041
 第1商業,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv104
@@ -265,18 +267,18 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 三立戲劇,https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
 三立戲劇,http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
+TVBS HD,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
 TVBS HD,http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
-TVBS HD,TVBS HD,https://live.catvod.com/live.php?id=TVBS
 TVBS HD,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv073
 TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=51767e95111b87503a1995bcfbae5e5b
 TVBS台劇台,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E5%8F%B0%E5%8A%87%E5%8F%B0
 TVBS新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
 TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
 TVBS新聞,https://live.catvod.com/live.php?id=tvbs_n
+TVBS精采台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
 TVBS精采台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv067
 TVBS精采台,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E7%B2%BE%E9%87%87%E5%8F%B0
-TVBS精采台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
-TVBS綜藝台,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E7%B6%9C%E8%97%9D%E5%8F%B0
+TVBS綜藝,https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS%E7%B6%9C%E8%97%9D%E5%8F%B0
 TVBS綜藝,http://114.34.40.48:50008/4gtv-live087/index.m3u8?proxy=true
 TVBS歡樂台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv068
 TVBS歡樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv068
@@ -312,9 +314,9 @@ TLC旅遊生活,https://live.catvod.com/live.php?id=tlc_twn
 八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大第一,http://smt.iktv.ddns-ip.net/Smart.php?id=badafirst
+八大精彩,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv034
 八大精彩,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv034
 八大精彩,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%85%AB%E5%A4%A7%E7%B2%BE%E5%BD%A9%E5%8F%B0
-八大精彩,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv034
 八大綜合,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1019.m3u8
 八大綜合,http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
 八大綜合,http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=020937c001062a4332afb110a312bd20
@@ -350,9 +352,9 @@ TLC旅遊生活,https://live.catvod.com/live.php?id=tlc_twn
 台灣戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-longturn22
 大愛電視,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96
 大愛二台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A4%A7%E6%84%9B%E4%BA%8C%E5%8F%B0
-中視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv040
 中視,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96
 中視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv040
+中視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv040
 中視,https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
 中視菁採,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv064
 中視菁采台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96%E8%8F%81%E9%87%87%E5%8F%B0
