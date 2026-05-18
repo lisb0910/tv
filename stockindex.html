@@ -3,24 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>財經資訊門戶</title>
+    <title>專業財經資訊終端</title>
     <style>
         :root {
-            --bg-color: #0f1114;
-            --sidebar-color: #1a1d23;
+            --bg-color: #0d1117;
+            --sidebar-color: #161b22;
             --text-color: #c9d1d9;
             --accent-color: #2f81f7;
-            --hover-color: #2d333b;
             --border-color: #30363d;
         }
 
         body, html {
             margin: 0; padding: 0; height: 100%;
-            font-family: "PingFang TC", "Microsoft JhengHei", sans-serif;
-            background-color: var(--bg-color);
-            color: var(--text-color);
+            font-family: -apple-system, "Microsoft JhengHei", sans-serif;
+            background-color: var(--bg-color); color: var(--text-color);
             overflow: hidden;
         }
+
+        /* 啟動遮罩 (解決自動開聲問題) */
+        #welcome-overlay {
+            position: fixed; inset: 0; background: #000;
+            z-index: 999; display: flex; flex-direction: column;
+            align-items: center; justify-content: center;
+        }
+        .start-btn {
+            padding: 15px 40px; background: var(--accent-color); color: #fff;
+            border: none; border-radius: 30px; font-size: 1.2rem; cursor: pointer;
+            box-shadow: 0 0 20px rgba(47, 129, 247, 0.4); transition: 0.3s;
+        }
+        .start-btn:hover { transform: scale(1.05); filter: brightness(1.2); }
 
         .container { display: flex; height: 100vh; width: 100vw; }
 
@@ -34,96 +45,85 @@
 
         .sidebar-header {
             padding: 20px; font-size: 1.1rem; font-weight: bold;
-            color: #fff; border-bottom: 1px solid var(--border-color);
-            text-align: center; background: linear-gradient(to bottom, #21262d, #1a1d23);
+            color: #fff; border-bottom: 1px solid var(--border-color); text-align: center;
         }
 
         .menu-container { flex-grow: 1; overflow-y: auto; padding: 10px 0; }
 
         .category-title {
-            padding: 15px 20px 5px; font-size: 0.75rem;
-            color: #8b949e; text-transform: uppercase; font-weight: bold;
+            padding: 15px 20px 5px; font-size: 0.75rem; color: #8b949e; text-transform: uppercase;
         }
 
         .nav-item {
             padding: 12px 20px; cursor: pointer; transition: 0.2s;
-            display: flex; justify-content: space-between; align-items: center;
-            text-decoration: none; color: var(--text-color); font-size: 0.9rem;
-            border-left: 3px solid transparent;
+            display: flex; justify-content: space-between; text-decoration: none;
+            color: var(--text-color); font-size: 0.9rem; border-left: 3px solid transparent;
         }
 
-        .nav-item:hover { background-color: var(--hover-color); color: #fff; }
-        .nav-item.active {
-            background-color: #21262d; border-left-color: var(--accent-color); color: #fff;
-        }
+        .nav-item:hover { background-color: #21262d; }
+        .nav-item.active { background-color: #21262d; border-left-color: var(--accent-color); color: #fff; }
 
         /* 拖動條 */
-        #resizer { width: 4px; cursor: col-resize; background-color: #000; transition: 0.3s; }
+        #resizer { width: 4px; cursor: col-resize; background-color: #000; }
         #resizer:hover { background-color: var(--accent-color); }
 
         /* 右側主內容 */
         #main-content { flex-grow: 1; display: flex; flex-direction: column; background-color: #000; position: relative; }
 
         .top-bar {
-            height: 45px; background: #161b22; display: flex; align-items: center;
+            height: 40px; background: #161b22; display: flex; align-items: center;
             padding: 0 15px; border-bottom: 1px solid var(--border-color);
-            justify-content: space-between;
+            justify-content: space-between; font-size: 0.8rem;
         }
-        .status-dot { width: 8px; height: 8px; background: #238636; border-radius: 50%; display: inline-block; margin-right: 8px; }
 
-        /* 內容區 */
         #iframe-area { flex-grow: 1; position: relative; }
         iframe { width: 100%; height: 100%; border: none; background: #000; }
 
         /* 廣告位 */
         .ad-space { background: #0d1117; display: flex; align-items: center; justify-content: center; color: #484f58; font-size: 11px; }
         .ad-top { height: 60px; width: 100%; border-bottom: 1px solid var(--border-color); }
-        .ad-sidebar { height: 100px; margin: 15px; border: 1px dashed #30363d; border-radius: 6px; }
+        .ad-sidebar { height: 90px; margin: 15px; border: 1px dashed #30363d; border-radius: 6px; }
 
-        /* 智能跳轉顯示 (針對不支援 iframe 的網頁) */
-        #external-display {
-            position: absolute; inset: 0; background: #0f1114;
-            display: none; flex-direction: column; align-items: center; justify-content: center; text-align: center;
+        /* 外連提示 */
+        #ext-display {
+            position: absolute; inset: 0; background: #0d1117;
+            display: none; flex-direction: column; align-items: center; justify-content: center;
         }
-        .info-card {
-            background: #161b22; padding: 40px; border-radius: 12px;
-            border: 1px solid var(--border-color); max-width: 400px;
-        }
-        .btn-open {
-            display: inline-block; margin-top: 20px; padding: 12px 30px;
-            background: var(--accent-color); color: #fff; text-decoration: none;
-            border-radius: 6px; font-weight: bold; transition: 0.3s;
-        }
-        .btn-open:hover { filter: brightness(1.2); }
+        .info-card { background: #161b22; padding: 30px; border-radius: 12px; border: 1px solid var(--border-color); text-align: center; }
+        .btn-open { display: inline-block; margin-top: 15px; padding: 10px 25px; background: var(--accent-color); color: #fff; text-decoration: none; border-radius: 5px; }
     </style>
 </head>
 <body>
 
+<!-- 啟動畫面 -->
+<div id="welcome-overlay">
+    <h2 style="margin-bottom: 30px; letter-spacing: 2px;">財經即時資訊終端</h2>
+    <button class="start-btn" onclick="startSystem()">進入系統並開啟音效</button>
+    <p style="margin-top: 20px; color: #555; font-size: 0.8rem;">點擊後將自動播放即時新聞直播</p>
+</div>
+
 <div class="container">
     <div id="sidebar">
-        <div class="sidebar-header">財經即時終端</div>
+        <div class="sidebar-header">FINANCE TERMINAL</div>
         <div class="menu-container" id="menu"></div>
-        <div class="ad-space ad-sidebar">SIDEBAR_ADS</div>
+        <div class="ad-space ad-sidebar">AD_SPACE_SIDEBAR</div>
     </div>
 
     <div id="resizer"></div>
 
     <div id="main-content">
-        <div class="ad-space ad-top">BANNER_ADS (728x60)</div>
-        
+        <div class="ad-space ad-top">AD_SPACE_BANNER (728x60)</div>
         <div class="top-bar">
-            <div style="font-size: 0.85rem;"><span class="status-dot"></span><span id="cur-title">載入中...</span></div>
-            <div style="font-size: 0.75rem; color: #8b949e;" id="cur-url"></div>
+            <span id="cur-title">選擇分類</span>
+            <span id="cur-url" style="color:#555"></span>
         </div>
-
         <div id="iframe-area">
             <iframe id="main-frame" allow="autoplay; encrypted-media; fullscreen"></iframe>
-            
-            <div id="external-display">
+            <div id="ext-display">
                 <div class="info-card">
-                    <h3 id="ext-name" style="color:#fff; margin-top:0;"></h3>
-                    <p style="font-size: 0.9rem; line-height: 1.6;">此網站設有安全保護，不允許在框架內直接顯示。請點擊下方按鈕在新分頁中瀏覽。</p>
-                    <a href="#" id="ext-link" target="_blank" class="btn-open">立即開啟原始網頁</a>
+                    <h3 id="ext-name" style="color:#fff;"></h3>
+                    <p>此網頁不支援嵌入，請開啟新分頁瀏覽</p>
+                    <a href="#" id="ext-link" target="_blank" class="btn-open">開啟網頁 ↗</a>
                 </div>
             </div>
         </div>
@@ -132,33 +132,38 @@
 
 <script>
     const sites = [
-        { name: "即時財經新聞直播", url: "https://www.youtube.com/embed/AEBeWMM1atA?autoplay=1&mute=1", type: "frame", cat: "即時資訊" },
-        { name: "TradingView 新聞", url: "https://tw.tradingview.com/news/", type: "jump", cat: "即時資訊" },
-        
+        // 注意：YouTube 網址拿掉了 mute=1，改為 autoplay=1
+        { name: "東森財經即時新聞", url: "https://www.youtube.com/embed/AEBeWMM1atA?autoplay=1", type: "frame", cat: "即時新聞" },
+        { name: "TradingView 新聞", url: "https://tw.tradingview.com/news/", type: "jump", cat: "即時新聞" },
         { name: "常用網址", url: "https://lisb0910.github.io/tv/bookmarks.html", type: "frame", cat: "工具清單" },
         { name: "房租管家", url: "https://lisb0910.github.io/rent/rent.html", type: "frame", cat: "工具清單" },
-        
         { name: "開盤八法判斷", url: "https://lisb0910.github.io/tv/", type: "frame", cat: "股市分析" },
         { name: "智能股票分析", url: "https://copy-of-gemini-819624606168.us-west1.run.app/", type: "frame", cat: "股市分析" },
         { name: "股市爆料同學會", url: "https://www.cmoney.tw/forum/stock/2344", type: "jump", cat: "股市分析" },
         { name: "Yahoo股市", url: "https://tw.stock.yahoo.com/", type: "jump", cat: "股市分析" },
         { name: "統一投信", url: "https://www.ezmoney.com.tw/member", type: "jump", cat: "股市分析" },
-        
-        { name: "非凡新聞", url: "https://www.youtube.com/embed/xLqt2p6Dowo", type: "frame", cat: "新聞直播" },
-        { name: "TVBS優選", url: "https://www.youtube.com/embed/WAUECPu9EOw", type: "frame", cat: "新聞直播" },
+        { name: "非凡新聞", url: "https://www.youtube.com/embed/xLqt2p6Dowo?autoplay=1", type: "frame", cat: "新聞直播" },
+        { name: "TVBS優選", url: "https://www.youtube.com/embed/WAUECPu9EOw?autoplay=1", type: "frame", cat: "新聞直播" },
         { name: "TVBOX線路", url: "https://github.com/lisb0910/tv/blob/main/TVbox.txt", type: "jump", cat: "系統" }
     ];
 
     const menu = document.getElementById('menu');
     const frame = document.getElementById('main-frame');
-    const extDisplay = document.getElementById('external-display');
+    const extDisplay = document.getElementById('ext-display');
     const curTitle = document.getElementById('cur-title');
-    const curUrl = document.getElementById('cur-url');
     const extLink = document.getElementById('ext-link');
     const extName = document.getElementById('ext-name');
 
+    // 啟動系統
+    function startSystem() {
+        document.getElementById('welcome-overlay').style.display = 'none';
+        // 載入第一個項目
+        loadSite(sites[0], document.querySelector('.nav-item'));
+    }
+
+    // 生成選單
     let lastCat = "";
-    sites.forEach((site, index) => {
+    sites.forEach((site) => {
         if (site.cat !== lastCat) {
             const t = document.createElement('div');
             t.className = 'category-title';
@@ -168,17 +173,16 @@
         }
         const item = document.createElement('div');
         item.className = 'nav-item';
-        item.innerHTML = `<span>${site.name}</span> <span style="font-size:10px; opacity:0.5">${site.type === 'jump' ? '↗' : ''}</span>`;
+        item.innerHTML = `<span>${site.name}</span> <small style="opacity:0.3">${site.type === 'jump' ? '↗' : ''}</small>`;
         item.onclick = () => loadSite(site, item);
         menu.appendChild(item);
-        if (index === 0) loadSite(site, item);
     });
 
     function loadSite(site, el) {
+        if (!el) return;
         document.querySelectorAll('.nav-item').forEach(i => i.classList.remove('active'));
         el.classList.add('active');
         curTitle.innerText = site.name;
-        curUrl.innerText = site.url;
 
         if (site.type === "jump") {
             frame.style.display = 'none';
@@ -193,11 +197,10 @@
         }
     }
 
-    // 側邊欄寬度調整
+    // 側邊欄拖動
     const resizer = document.getElementById('resizer');
     const sidebar = document.getElementById('sidebar');
     let isResizing = false;
-
     resizer.addEventListener('mousedown', () => { isResizing = true; frame.style.pointerEvents = 'none'; });
     document.addEventListener('mousemove', (e) => {
         if (!isResizing) return;
