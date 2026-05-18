@@ -3,20 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>專業財經導覽終端</title>
+    <title>財經資訊導覽終端</title>
     <style>
         :root {
-            --bg-color: #0a0a0a;
-            --sidebar-color: #161616;
-            --text-color: #c0c0c0;
-            --accent-color: #2962ff;
-            --hover-color: #2a2a2a;
-            --border-color: #222;
+            --bg-color: #0d1117;
+            --sidebar-color: #161b22;
+            --text-color: #c9d1d9;
+            --accent-color: #58a6ff;
+            --hover-color: #21262d;
+            --border-color: #30363d;
         }
 
         body, html {
             margin: 0; padding: 0; height: 100%;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Microsoft JhengHei", sans-serif;
+            font-family: -apple-system, "Microsoft JhengHei", sans-serif;
             background-color: var(--bg-color);
             color: var(--text-color);
             overflow: hidden;
@@ -30,38 +30,36 @@
             background-color: var(--sidebar-color);
             display: flex; flex-direction: column;
             border-right: 1px solid var(--border-color);
-            z-index: 10;
         }
 
         .sidebar-header {
-            padding: 25px 20px; font-size: 1.1rem; font-weight: 800;
+            padding: 20px; font-size: 1.2rem; font-weight: bold;
             color: #fff; border-bottom: 1px solid var(--border-color);
-            text-align: center; letter-spacing: 2px;
+            text-align: center;
         }
 
         .menu-container { flex-grow: 1; overflow-y: auto; padding: 10px 0; }
 
         .category-title {
-            padding: 15px 20px 5px; font-size: 0.7rem;
-            color: #555; text-transform: uppercase; font-weight: bold;
+            padding: 15px 20px 5px; font-size: 0.75rem;
+            color: #8b949e; text-transform: uppercase;
         }
 
         .nav-item {
-            padding: 12px 20px; cursor: pointer; transition: all 0.2s;
-            display: flex; align-items: center; text-decoration: none;
-            color: var(--text-color); font-size: 0.9rem;
+            padding: 12px 20px; cursor: pointer; transition: 0.2s;
+            display: block; text-decoration: none;
+            color: var(--text-color); font-size: 0.95rem;
             border-left: 3px solid transparent;
         }
 
-        .nav-item:hover { background-color: var(--hover-color); color: #fff; }
+        .nav-item:hover { background-color: var(--hover-color); }
         .nav-item.active {
-            background-color: #1e1e1e; border-left-color: var(--accent-color); color: #fff;
+            background-color: #1c2128; border-left-color: var(--accent-color); color: #fff;
         }
 
         /* 拖動條 */
         #resizer {
-            width: 6px; cursor: col-resize; background-color: #111;
-            transition: background 0.3s;
+            width: 5px; cursor: col-resize; background-color: var(--border-color);
         }
         #resizer:hover { background-color: var(--accent-color); }
 
@@ -69,133 +67,161 @@
         #main-content { flex-grow: 1; display: flex; flex-direction: column; background-color: #000; }
 
         .top-bar {
-            height: 40px; background: #111; display: flex; align-items: center;
-            padding: 0 15px; border-bottom: 1px solid #222; justify-content: space-between;
-        }
-        .url-display { font-size: 0.75rem; color: #555; }
-        .open-btn {
-            color: var(--accent-color); text-decoration: none; font-size: 0.75rem;
-            padding: 2px 8px; border: 1px solid var(--accent-color); border-radius: 3px;
+            height: 40px; background: #161b22; display: flex; align-items: center;
+            padding: 0 15px; border-bottom: 1px solid var(--border-color);
+            justify-content: space-between; font-size: 0.8rem;
         }
 
-        /* 內容區 */
-        #iframe-container { flex-grow: 1; position: relative; }
-        iframe { width: 100%; height: 100%; border: none; background: #000; }
+        /* 內容顯示區 */
+        #content-area { flex-grow: 1; position: relative; }
+        iframe { width: 100%; height: 100%; border: none; background: #fff; }
 
         /* 廣告位 */
-        .ad-space { background: #0f0f0f; display: flex; align-items: center; justify-content: center; color: #333; font-size: 11px; }
-        .ad-top { height: 60px; width: 100%; border-bottom: 1px solid #222; }
-        .ad-sidebar { height: 90px; margin: 15px; border: 1px dashed #222; }
+        .ad-space { background: #0d1117; display: flex; align-items: center; justify-content: center; color: #484f58; }
+        .ad-top { height: 60px; width: 100%; border-bottom: 1px solid var(--border-color); }
+        .ad-sidebar { height: 100px; margin: 15px; border: 1px dashed #30363d; border-radius: 6px; }
 
-        /* 特殊：隱藏 TradingView 的某些元素 */
-        .tv-embed-container { width: 100%; height: 100%; }
+        /* 跳轉提示按鈕 */
+        .jump-box {
+            position: absolute; inset: 0; background: #0d1117;
+            display: none; flex-direction: column; align-items: center; justify-content: center;
+        }
+        .btn {
+            padding: 10px 20px; background: var(--accent-color); color: white;
+            text-decoration: none; border-radius: 5px; margin-top: 15px;
+        }
     </style>
 </head>
 <body>
 
 <div class="container">
     <div id="sidebar">
-        <div class="sidebar-header">FINANCE HUB</div>
-        
-        <div class="menu-container" id="menu">
-            <!-- 由 JS 動態生成 -->
-        </div>
-
-        <div class="ad-space ad-sidebar">廣告位預留</div>
+        <div class="sidebar-header">財經資訊終端</div>
+        <div class="menu-container" id="menu"></div>
+        <div class="ad-space ad-sidebar">廣告預留位</div>
     </div>
 
     <div id="resizer"></div>
 
     <div id="main-content">
-        <div class="ad-space ad-top">橫幅廣告位 728 x 60</div>
-        
+        <div class="ad-space ad-top">廣告預留位 (728x60)</div>
         <div class="top-bar">
-            <div class="url-display" id="url-text">載入中...</div>
-            <a href="#" id="external-link" target="_blank" class="open-btn">全螢幕開啟 ↗</a>
+            <span id="target-name">請選擇分類</span>
+            <a href="#" id="out-link" target="_blank" style="color:var(--accent-color); text-decoration:none;">在新視窗打開 ↗</a>
         </div>
-
-        <div id="iframe-container">
-            <iframe id="content-frame" name="content-frame"></iframe>
+        <div id="content-area">
+            <iframe id="main-frame"></iframe>
+            <div id="jump-box" class="jump-box">
+                <p id="jump-text">此網站不支援嵌入顯示</p>
+                <a href="#" id="jump-link" target="_blank" class="btn">前往原始網站</a>
+            </div>
         </div>
     </div>
 </div>
 
 <script>
-    // 網頁清單配置
+    // 配置列表
     const sites = [
-        { name: "即時財經新聞 (推薦)", url: "https://www.tradingview.com/embed-widget/timeline/?locale=zh_TW&colorTheme=dark", type: 'frame', cat: "財經資訊" },
-        { name: "常用網址", url: "https://lisb0910.github.io/tv/bookmarks.html", type: 'frame', cat: "常用工具" },
-        { name: "房租管家", url: "https://lisb0910.github.io/rent/rent.html", type: 'frame', cat: "常用工具" },
-        
-        { name: "開盤八法判斷", url: "https://lisb0910.github.io/tv/", type: 'frame', cat: "股市分析" },
-        { name: "智能股票全方位分析", url: "https://copy-of-gemini-819624606168.us-west1.run.app/", type: 'frame', cat: "股市分析" },
-        { name: "股市爆料同學會", url: "https://www.cmoney.tw/forum/stock/2344", type: 'jump', cat: "股市分析" },
-        { name: "yahoo股市 (外開)", url: "https://tw.stock.yahoo.com/", type: 'jump', cat: "股市分析" },
-        { name: "統一投信", url: "https://www.ezmoney.com.tw/member", type: 'jump', cat: "股市分析" },
-        
-        { name: "東森財經新聞", url: "https://www.youtube.com/embed/AEBeWMM1atA?autoplay=1&mute=1", type: 'frame', cat: "影音直播" },
-        { name: "非凡新聞", url: "https://www.youtube.com/embed/xLqt2p6Dowo?autoplay=1&mute=1", type: 'frame', cat: "影音直播" },
-        { name: "TVBS優選", url: "https://www.youtube.com/embed/WAUECPu9EOw?autoplay=1&mute=1", type: 'frame', cat: "影音直播" },
-        
-        { name: "TVBOX線路", url: "https://github.com/lisb0910/tv/blob/main/TVbox.txt", type: 'jump', cat: "系統" }
+        { name: "即時財經新聞", type: "widget", cat: "財經資訊" },
+        { name: "常用網址", url: "https://lisb0910.github.io/tv/bookmarks.html", type: "frame", cat: "常用工具" },
+        { name: "房租管家", url: "https://lisb0910.github.io/rent/rent.html", type: "frame", cat: "常用工具" },
+        { name: "開盤八法判斷", url: "https://lisb0910.github.io/tv/", type: "frame", cat: "股市分析" },
+        { name: "智能股票分析", url: "https://copy-of-gemini-819624606168.us-west1.run.app/", type: "frame", cat: "股市分析" },
+        { name: "股市爆料同學會", url: "https://www.cmoney.tw/forum/stock/2344", type: "jump", cat: "股市分析" },
+        { name: "yahoo股市", url: "https://tw.stock.yahoo.com/", type: "jump", cat: "股市分析" },
+        { name: "統一投信", url: "https://www.ezmoney.com.tw/member", type: "jump", cat: "股市分析" },
+        { name: "東森財經新聞", url: "https://www.youtube.com/embed/AEBeWMM1atA", type: "frame", cat: "影音直播" },
+        { name: "非凡新聞", url: "https://www.youtube.com/embed/xLqt2p6Dowo", type: "frame", cat: "影音直播" },
+        { name: "TVBS優選", url: "https://www.youtube.com/embed/WAUECPu9EOw", type: "frame", cat: "影音直播" },
+        { name: "TVBOX線路", url: "https://github.com/lisb0910/tv/blob/main/TVbox.txt", type: "jump", cat: "系統" }
     ];
 
-    const menuEl = document.getElementById('menu');
-    const frame = document.getElementById('content-frame');
-    const urlText = document.getElementById('url-text');
-    const extLink = document.getElementById('external-link');
+    const menu = document.getElementById('menu');
+    const frame = document.getElementById('main-frame');
+    const jumpBox = document.getElementById('jump-box');
+    const jumpLink = document.getElementById('jump-link');
+    const targetName = document.getElementById('target-name');
+    const outLink = document.getElementById('out-link');
 
     // 生成菜單
-    let currentCat = "";
-    sites.forEach(site => {
-        if (site.cat !== currentCat) {
-            const catDiv = document.createElement('div');
-            catDiv.className = 'category-title';
-            catDiv.innerText = site.cat;
-            menuEl.appendChild(catDiv);
-            currentCat = site.cat;
+    let lastCat = "";
+    sites.forEach((site, index) => {
+        if (site.cat !== lastCat) {
+            const title = document.createElement('div');
+            title.className = 'category-title';
+            title.innerText = site.cat;
+            menu.appendChild(title);
+            lastCat = site.cat;
         }
         const item = document.createElement('div');
         item.className = 'nav-item';
         item.innerText = site.name;
-        item.onclick = () => loadSite(site, item);
-        menuEl.appendChild(item);
+        item.onclick = () => load(site, item);
+        menu.appendChild(item);
+        if (index === 0) load(site, item); // 默認加載第一個
     });
 
-    function loadSite(site, element) {
+    function load(site, el) {
+        // UI 更新
         document.querySelectorAll('.nav-item').forEach(i => i.classList.remove('active'));
-        element.classList.add('active');
-        urlText.innerText = site.name;
-        extLink.href = site.url;
+        el.classList.add('active');
+        targetName.innerText = "目前瀏覽：" + site.name;
+        outLink.href = site.url || "#";
+        
+        // 內容加載邏輯
+        jumpBox.style.display = 'none';
+        frame.style.display = 'block';
+        frame.src = "about:blank"; // 先清空
 
-        if (site.type === 'jump') {
-            // 如果是無法嵌入的網頁，顯示提示並提供按鈕
-            frame.srcdoc = `
-                <body style="background:#000; color:#888; display:flex; flex-direction:column; align-items:center; justify-content:center; height:100vh; font-family:sans-serif;">
-                    <p>此網頁限制在框架內顯示</p>
-                    <a href="${site.url}" target="_blank" style="color:#2962ff; text-decoration:none; border:1px solid #2962ff; padding:10px 20px; border-radius:5px;">在新標籤頁打開 ${site.name}</a>
+        if (site.type === "widget") {
+            // 這是針對 TradingView 的特別處理方式 (注入 HTML)
+            const widgetHtml = `
+                <body style="margin:0;background:#000;">
+                <div class="tradingview-widget-container">
+                    <div class="tradingview-widget-container__widget"></div>
+                    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-timeline.js" async>
+                    {
+                        "feedMode": "all_symbols",
+                        "colorTheme": "dark",
+                        "isWidescreen": true,
+                        "displayMode": "regular",
+                        "width": "100%",
+                        "height": "100%",
+                        "locale": "zh_TW"
+                    }
+                    <\/script>
+                </div>
                 </body>`;
+            frame.contentWindow.document.open();
+            frame.contentWindow.document.write(widgetHtml);
+            frame.contentWindow.document.close();
+        } else if (site.type === "jump") {
+            frame.style.display = 'none';
+            jumpBox.style.display = 'flex';
+            jumpLink.href = site.url;
         } else {
-            frame.srcdoc = "";
             frame.src = site.url;
         }
     }
 
-    // 側邊欄拖動
-    const sidebar = document.getElementById('sidebar');
+    // 寬度調節
     const resizer = document.getElementById('resizer');
-    let isResizing = false;
-
-    resizer.addEventListener('mousedown', () => { isResizing = true; frame.style.pointerEvents = 'none'; });
-    document.addEventListener('mousemove', (e) => {
-        if (!isResizing) return;
-        let width = e.clientX;
-        if (width > 150 && width < 600) sidebar.style.width = width + 'px';
-    });
-    document.addEventListener('mouseup', () => { isResizing = false; frame.style.pointerEvents = 'auto'; });
-
-    // 初始載入第一個
-    document.querySelector('.nav-item').click();
+    const sidebar = document.getElementById('sidebar');
+    let m_pos;
+    function resize(e){
+        const dx = m_pos - e.x;
+        m_pos = e.x;
+        sidebar.style.width = (parseInt(getComputedStyle(sidebar, '').width) - dx) + "px";
+    }
+    resizer.addEventListener("mousedown", function(e){
+        m_pos = e.x;
+        frame.style.pointerEvents = 'none';
+        document.addEventListener("mousemove", resize, false);
+    }, false);
+    document.addEventListener("mouseup", function(){
+        frame.style.pointerEvents = 'auto';
+        document.removeEventListener("mousemove", resize, false);
+    }, false);
 </script>
 
 </body>
