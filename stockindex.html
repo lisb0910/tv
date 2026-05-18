@@ -3,241 +3,231 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>財經股市導覽終端</title>
+    <title>財經資訊門戶終端</title>
     <style>
         :root {
-            --bg-color: #121212;
-            --sidebar-color: #1e1e1e;
-            --text-color: #e0e0e0;
-            --accent-color: #007bff;
-            --hover-color: #333;
+            --bg-color: #0f0f0f;
+            --sidebar-color: #1a1a1a;
+            --text-color: #d1d1d1;
+            --accent-color: #3b82f6;
+            --hover-color: #2d2d2d;
             --border-color: #333;
         }
 
         body, html {
-            margin: 0;
-            padding: 0;
-            height: 100%;
-            font-family: "Microsoft JhengHei", Arial, sans-serif;
+            margin: 0; padding: 0; height: 100%;
+            font-family: "Inter", "Microsoft JhengHei", sans-serif;
             background-color: var(--bg-color);
             color: var(--text-color);
             overflow: hidden;
         }
 
-        .container {
-            display: flex;
-            height: 100vh;
-            width: 100vw;
-        }
+        .container { display: flex; height: 100vh; width: 100vw; }
 
-        /* 左側導航欄 */
+        /* 左側導航 */
         #sidebar {
-            width: 250px;
-            min-width: 150px;
-            max-width: 500px;
+            width: 260px; min-width: 180px; max-width: 500px;
             background-color: var(--sidebar-color);
-            display: flex;
-            flex-direction: column;
+            display: flex; flex-direction: column;
             border-right: 1px solid var(--border-color);
-            flex-shrink: 0;
         }
 
         .sidebar-header {
-            padding: 20px;
-            font-size: 1.2rem;
-            font-weight: bold;
-            color: var(--accent-color);
-            border-bottom: 1px solid var(--border-color);
-            text-align: center;
+            padding: 25px 20px; font-size: 1.1rem; font-weight: 800;
+            color: #fff; border-bottom: 1px solid var(--border-color);
+            letter-spacing: 1px; text-align: center;
         }
 
-        .menu-container {
-            flex-grow: 1;
-            overflow-y: auto;
-            padding: 10px 0;
-        }
+        .menu-container { flex-grow: 1; overflow-y: auto; padding: 15px 0; }
 
         .category-title {
-            padding: 10px 20px;
-            font-size: 0.8rem;
-            color: #888;
-            text-transform: uppercase;
-            letter-spacing: 1px;
+            padding: 15px 20px 5px; font-size: 0.75rem;
+            color: #666; text-transform: uppercase; font-weight: bold;
         }
 
         .nav-item {
-            padding: 12px 20px;
-            cursor: pointer;
-            transition: background 0.2s;
-            display: block;
-            text-decoration: none;
-            color: var(--text-color);
-            border-left: 3px solid transparent;
-            font-size: 0.95rem;
+            padding: 12px 20px; cursor: pointer; transition: all 0.2s;
+            display: flex; align-items: center; text-decoration: none;
+            color: var(--text-color); font-size: 0.9rem;
+            border-left: 4px solid transparent;
         }
 
-        .nav-item:hover {
-            background-color: var(--hover-color);
-        }
-
+        .nav-item:hover { background-color: var(--hover-color); color: #fff; }
         .nav-item.active {
-            background-color: #2a2a2a;
-            border-left: 3px solid var(--accent-color);
-            color: #fff;
+            background-color: #252525; border-left-color: var(--accent-color); color: #fff;
         }
 
         /* 拖動條 */
         #resizer {
-            width: 5px;
-            cursor: col-resize;
-            background-color: var(--border-color);
-            transition: background 0.2s;
+            width: 4px; cursor: col-resize; background-color: #222;
+            transition: background 0.3s;
         }
+        #resizer:hover { background-color: var(--accent-color); }
 
-        #resizer:hover {
-            background-color: var(--accent-color);
-        }
+        /* 右側主內容 */
+        #main-content { flex-grow: 1; display: flex; flex-direction: column; background-color: #000; position: relative; }
 
-        /* 右側主內容區 */
-        #main-content {
-            flex-grow: 1;
-            display: flex;
-            flex-direction: column;
-            background-color: #000;
+        /* 頂部操作列 */
+        .top-bar {
+            height: 45px; background: #1a1a1a; display: flex; align-items: center;
+            padding: 0 15px; border-bottom: 1px solid #333; justify-content: space-between;
         }
-
-        iframe {
-            width: 100%;
-            height: 100%;
-            border: none;
-            background-color: #fff; /* 預防部分網頁載入前閃爍 */
+        .url-display { font-size: 0.8rem; color: #888; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 60%; }
+        .open-btn {
+            background: var(--accent-color); color: white; border: none;
+            padding: 5px 12px; border-radius: 4px; cursor: pointer; font-size: 0.8rem;
+            text-decoration: none; transition: opacity 0.2s;
         }
+        .open-btn:hover { opacity: 0.9; }
 
         /* 廣告位 */
-        .ad-space {
-            background-color: #1a1a1a;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: #555;
-            font-size: 0.8rem;
-            overflow: hidden;
-        }
+        .ad-space { background: #151515; display: flex; align-items: center; justify-content: center; color: #444; font-size: 12px; }
+        .ad-top { height: 60px; width: 100%; border-bottom: 1px solid #333; }
+        .ad-sidebar { height: 80px; margin: 15px; border: 1px dashed #333; border-radius: 4px; }
 
-        .ad-sidebar {
-            height: 100px;
-            margin: 10px;
-            border: 1px dashed #444;
-        }
+        /* 內容顯示 */
+        #iframe-container { flex-grow: 1; position: relative; background: #000; }
+        iframe { width: 100%; height: 100%; border: none; background: #fff; }
 
-        .ad-top {
-            height: 60px;
-            width: 100%;
-            border-bottom: 1px solid var(--border-color);
+        /* 跳轉提示遮罩 */
+        #jump-notice {
+            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            background: #121212; display: none; flex-direction: column;
+            align-items: center; justify-content: center; text-align: center; color: #aaa;
+            z-index: 10;
         }
-
-        /* 隱藏滾動條 */
-        ::-webkit-scrollbar {
-            width: 6px;
-        }
-        ::-webkit-scrollbar-thumb {
-            background: #333;
-        }
+        #jump-notice h2 { color: #fff; margin-bottom: 10px; }
     </style>
 </head>
 <body>
 
 <div class="container">
-    <!-- 左側選單 -->
     <div id="sidebar">
-        <div class="sidebar-header">財經資訊終端</div>
-        
-        <div class="menu-container">
-            <div class="category-title">常用工具</div>
-            <div class="nav-item" onclick="loadUrl('https://lisb0910.github.io/tv/bookmarks.html', this)">常用網址</div>
-            <div class="nav-item" onclick="loadUrl('https://lisb0910.github.io/rent/rent.html', this)">房租管家</div>
-            
-            <div class="category-title">股市分析</div>
-            <div class="nav-item" onclick="loadUrl('https://tw.stock.yahoo.com/', this)">Yahoo股市</div>
-            <div class="nav-item" onclick="loadUrl('https://lisb0910.github.io/tv/', this)">開盤八法判斷</div>
-            <div class="nav-item" onclick="loadUrl('https://copy-of-gemini-819624606168.us-west1.run.app/', this)">智能股票全方位分析</div>
-            <div class="nav-item" onclick="loadUrl('https://www.cmoney.tw/forum/stock/2344', this)">股市爆料同學會</div>
-            <div class="nav-item" onclick="loadUrl('https://www.ezmoney.com.tw/member', this)">統一投信</div>
-            
-            <div class="category-title">新聞影視</div>
-            <div class="nav-item" onclick="loadUrl('https://www.youtube.com/embed/AEBeWMM1atA', this)">東森財經新聞</div>
-            <div class="nav-item" onclick="loadUrl('https://www.youtube.com/embed/xLqt2p6Dowo', this)">非凡新聞</div>
-            <div class="nav-item" onclick="loadUrl('https://www.youtube.com/embed/WAUECPu9EOw', this)">TVBS優選</div>
-            
-            <div class="category-title">系統</div>
-            <div class="nav-item" onclick="loadUrl('https://lisb0910.github.io/tv/TVbox.txt', this)">TVBOX線路</div>
+        <div class="sidebar-header">FINANCE TERMINAL</div>
+        <div class="menu-container" id="menu">
+            <!-- 由 JS 動態生成 -->
         </div>
-
-        <!-- 側邊欄廣告位 -->
-        <div class="ad-space ad-sidebar">
-            廣告位 (寬度隨動)
-        </div>
+        <div class="ad-space ad-sidebar">廣告位 (預留)</div>
     </div>
 
-    <!-- 調節寬度條 -->
     <div id="resizer"></div>
 
-    <!-- 右側內容 -->
     <div id="main-content">
-        <!-- 頂部廣告位 -->
         <div class="ad-space ad-top">
-            橫幅廣告位 - 這裡是放置廣告代碼的地方
+            這裡可以放置 728x60 廣告代碼
         </div>
         
-        <iframe id="content-frame" src="https://tw.stock.yahoo.com/"></iframe>
+        <div class="top-bar">
+            <div class="url-display" id="url-text">請選擇分類</div>
+            <a href="#" id="external-link" target="_blank" class="open-btn">在新分頁打開原始網頁 ↗</a>
+        </div>
+
+        <div id="iframe-container">
+            <iframe id="content-frame" src=""></iframe>
+            <div id="jump-notice">
+                <h2>由於安全限制</h2>
+                <p>該網站不允許在框架內顯示，請點擊上方按鈕開啟</p>
+                <br>
+                <a href="#" id="jump-btn" target="_blank" class="open-btn" style="padding: 10px 25px;">立即前往</a>
+            </div>
+        </div>
     </div>
 </div>
 
 <script>
-    const sidebar = document.getElementById('sidebar');
-    const resizer = document.getElementById('resizer');
-    const frame = document.getElementById('content-frame');
-
-    // 點選切換網址功能
-    function loadUrl(url, element) {
-        // 更新樣式
-        document.querySelectorAll('.nav-item').forEach(item => item.classList.remove('active'));
-        element.classList.add('active');
+    // 網頁清單配置
+    // type: 'frame' 表示可以嵌入, 'jump' 表示可能需要外開
+    const sites = [
+        { name: "常用網址", url: "https://lisb0910.github.io/tv/bookmarks.html", type: 'frame', cat: "常用工具" },
+        { name: "房租管家", url: "https://lisb0910.github.io/rent/rent.html", type: 'frame', cat: "常用工具" },
         
-        // 更新 iframe
-        frame.src = url;
+        { name: "yahoo股市", url: "https://tw.stock.yahoo.com/", type: 'jump', cat: "股市分析" },
+        { name: "開盤八法判斷", url: "https://lisb0910.github.io/tv/", type: 'frame', cat: "股市分析" },
+        { name: "智能股票分析", url: "https://copy-of-gemini-819624606168.us-west1.run.app/", type: 'frame', cat: "股市分析" },
+        { name: "股市爆料同學會", url: "https://www.cmoney.tw/forum/stock/2344", type: 'jump', cat: "股市分析" },
+        { name: "統一投信", url: "https://www.ezmoney.com.tw/member", type: 'jump', cat: "股市分析" },
+        
+        { name: "東森財經新聞", url: "https://www.youtube.com/embed/AEBeWMM1atA", type: 'frame', cat: "新聞影視" },
+        { name: "非凡新聞", url: "https://www.youtube.com/embed/xLqt2p6Dowo", type: 'frame', cat: "新聞影視" },
+        { name: "TVBS優選", url: "https://www.youtube.com/embed/WAUECPu9EOw", type: 'frame', cat: "新聞影視" },
+        
+        { name: "TVBOX線路", url: "https://lisb0910.github.io/tv/TVbox.txt", type: 'jump', cat: "系統" }
+    ];
+
+    const menuEl = document.getElementById('menu');
+    const frame = document.getElementById('content-frame');
+    const urlText = document.getElementById('url-text');
+    const extLink = document.getElementById('external-link');
+    const jumpBtn = document.getElementById('jump-btn');
+    const jumpNotice = document.getElementById('jump-notice');
+
+    // 生成菜單
+    let currentCat = "";
+    sites.forEach(site => {
+        if (site.cat !== currentCat) {
+            const catDiv = document.createElement('div');
+            catDiv.className = 'category-title';
+            catDiv.innerText = site.cat;
+            menuEl.appendChild(catDiv);
+            currentCat = site.cat;
+        }
+        const item = document.createElement('div');
+        item.className = 'nav-item';
+        item.innerText = site.name;
+        item.onclick = () => loadSite(site, item);
+        menuEl.appendChild(item);
+    });
+
+    function loadSite(site, element) {
+        // 更新樣式
+        document.querySelectorAll('.nav-item').forEach(i => i.classList.remove('active'));
+        element.classList.add('active');
+
+        // 更新頂部資訊
+        urlText.innerText = `目前網址: ${site.url}`;
+        extLink.href = site.url;
+        jumpBtn.href = site.url;
+
+        if (site.type === 'jump') {
+            // 針對 Yahoo 等網站顯示跳轉提示
+            frame.style.display = 'none';
+            jumpNotice.style.display = 'flex';
+        } else {
+            // 正常嵌入
+            frame.style.display = 'block';
+            jumpNotice.style.display = 'none';
+            frame.src = site.url;
+        }
     }
 
-    // 側邊欄寬度調整邏輯
+    // 側邊欄拖動邏輯
+    const sidebar = document.getElementById('sidebar');
+    const resizer = document.getElementById('resizer');
     let isResizing = false;
 
-    resizer.addEventListener('mousedown', function(e) {
+    resizer.addEventListener('mousedown', () => {
         isResizing = true;
         document.body.style.cursor = 'col-resize';
-        // 防止滑鼠進入 iframe 後事件失效
         frame.style.pointerEvents = 'none';
     });
 
-    document.addEventListener('mousemove', function(e) {
+    document.addEventListener('mousemove', (e) => {
         if (!isResizing) return;
-        
-        let offsetLeft = e.clientX;
-        if (offsetLeft > 150 && offsetLeft < 500) {
-            sidebar.style.width = offsetLeft + 'px';
+        let width = e.clientX;
+        if (width > 180 && width < 500) {
+            sidebar.style.width = width + 'px';
         }
     });
 
-    document.addEventListener('mouseup', function() {
+    document.addEventListener('mouseup', () => {
         isResizing = false;
         document.body.style.cursor = 'default';
         frame.style.pointerEvents = 'auto';
     });
 
-    // 初始化第一個項目為 Active
-    document.querySelector('.nav-item').classList.add('active');
-
-    // 修正 YouTube 連結: YouTube 必須使用 /embed/ 格式才能在 iframe 顯示
-    // 代碼中我已經預先將 YouTube 連結改為 embed 格式
+    // 預設載入第一個
+    const firstItem = document.querySelector('.nav-item');
+    if(firstItem) firstItem.click();
 </script>
 
 </body>
