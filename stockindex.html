@@ -1,2 +1,244 @@
-TVBOX線路,https://github.com/lisb0910/tv/blob/main/TVbox.txt
-常用網址,https://lisb0910.github.io/tv/bookmarks.html
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>財經股市導覽終端</title>
+    <style>
+        :root {
+            --bg-color: #121212;
+            --sidebar-color: #1e1e1e;
+            --text-color: #e0e0e0;
+            --accent-color: #007bff;
+            --hover-color: #333;
+            --border-color: #333;
+        }
+
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            font-family: "Microsoft JhengHei", Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            overflow: hidden;
+        }
+
+        .container {
+            display: flex;
+            height: 100vh;
+            width: 100vw;
+        }
+
+        /* 左側導航欄 */
+        #sidebar {
+            width: 250px;
+            min-width: 150px;
+            max-width: 500px;
+            background-color: var(--sidebar-color);
+            display: flex;
+            flex-direction: column;
+            border-right: 1px solid var(--border-color);
+            flex-shrink: 0;
+        }
+
+        .sidebar-header {
+            padding: 20px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: var(--accent-color);
+            border-bottom: 1px solid var(--border-color);
+            text-align: center;
+        }
+
+        .menu-container {
+            flex-grow: 1;
+            overflow-y: auto;
+            padding: 10px 0;
+        }
+
+        .category-title {
+            padding: 10px 20px;
+            font-size: 0.8rem;
+            color: #888;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .nav-item {
+            padding: 12px 20px;
+            cursor: pointer;
+            transition: background 0.2s;
+            display: block;
+            text-decoration: none;
+            color: var(--text-color);
+            border-left: 3px solid transparent;
+            font-size: 0.95rem;
+        }
+
+        .nav-item:hover {
+            background-color: var(--hover-color);
+        }
+
+        .nav-item.active {
+            background-color: #2a2a2a;
+            border-left: 3px solid var(--accent-color);
+            color: #fff;
+        }
+
+        /* 拖動條 */
+        #resizer {
+            width: 5px;
+            cursor: col-resize;
+            background-color: var(--border-color);
+            transition: background 0.2s;
+        }
+
+        #resizer:hover {
+            background-color: var(--accent-color);
+        }
+
+        /* 右側主內容區 */
+        #main-content {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            background-color: #000;
+        }
+
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+            background-color: #fff; /* 預防部分網頁載入前閃爍 */
+        }
+
+        /* 廣告位 */
+        .ad-space {
+            background-color: #1a1a1a;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #555;
+            font-size: 0.8rem;
+            overflow: hidden;
+        }
+
+        .ad-sidebar {
+            height: 100px;
+            margin: 10px;
+            border: 1px dashed #444;
+        }
+
+        .ad-top {
+            height: 60px;
+            width: 100%;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        /* 隱藏滾動條 */
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #333;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <!-- 左側選單 -->
+    <div id="sidebar">
+        <div class="sidebar-header">財經資訊終端</div>
+        
+        <div class="menu-container">
+            <div class="category-title">常用工具</div>
+            <div class="nav-item" onclick="loadUrl('https://lisb0910.github.io/tv/bookmarks.html', this)">常用網址</div>
+            <div class="nav-item" onclick="loadUrl('https://lisb0910.github.io/rent/rent.html', this)">房租管家</div>
+            
+            <div class="category-title">股市分析</div>
+            <div class="nav-item" onclick="loadUrl('https://tw.stock.yahoo.com/', this)">Yahoo股市</div>
+            <div class="nav-item" onclick="loadUrl('https://lisb0910.github.io/tv/', this)">開盤八法判斷</div>
+            <div class="nav-item" onclick="loadUrl('https://copy-of-gemini-819624606168.us-west1.run.app/', this)">智能股票全方位分析</div>
+            <div class="nav-item" onclick="loadUrl('https://www.cmoney.tw/forum/stock/2344', this)">股市爆料同學會</div>
+            <div class="nav-item" onclick="loadUrl('https://www.ezmoney.com.tw/member', this)">統一投信</div>
+            
+            <div class="category-title">新聞影視</div>
+            <div class="nav-item" onclick="loadUrl('https://www.youtube.com/embed/AEBeWMM1atA', this)">東森財經新聞</div>
+            <div class="nav-item" onclick="loadUrl('https://www.youtube.com/embed/xLqt2p6Dowo', this)">非凡新聞</div>
+            <div class="nav-item" onclick="loadUrl('https://www.youtube.com/embed/WAUECPu9EOw', this)">TVBS優選</div>
+            
+            <div class="category-title">系統</div>
+            <div class="nav-item" onclick="loadUrl('https://github.com/lisb0910/tv/blob/main/TVbox.txt', this)">TVBOX線路</div>
+        </div>
+
+        <!-- 側邊欄廣告位 -->
+        <div class="ad-space ad-sidebar">
+            廣告位 (寬度隨動)
+        </div>
+    </div>
+
+    <!-- 調節寬度條 -->
+    <div id="resizer"></div>
+
+    <!-- 右側內容 -->
+    <div id="main-content">
+        <!-- 頂部廣告位 -->
+        <div class="ad-space ad-top">
+            橫幅廣告位 - 這裡是放置廣告代碼的地方
+        </div>
+        
+        <iframe id="content-frame" src="https://tw.stock.yahoo.com/"></iframe>
+    </div>
+</div>
+
+<script>
+    const sidebar = document.getElementById('sidebar');
+    const resizer = document.getElementById('resizer');
+    const frame = document.getElementById('content-frame');
+
+    // 點選切換網址功能
+    function loadUrl(url, element) {
+        // 更新樣式
+        document.querySelectorAll('.nav-item').forEach(item => item.classList.remove('active'));
+        element.classList.add('active');
+        
+        // 更新 iframe
+        frame.src = url;
+    }
+
+    // 側邊欄寬度調整邏輯
+    let isResizing = false;
+
+    resizer.addEventListener('mousedown', function(e) {
+        isResizing = true;
+        document.body.style.cursor = 'col-resize';
+        // 防止滑鼠進入 iframe 後事件失效
+        frame.style.pointerEvents = 'none';
+    });
+
+    document.addEventListener('mousemove', function(e) {
+        if (!isResizing) return;
+        
+        let offsetLeft = e.clientX;
+        if (offsetLeft > 150 && offsetLeft < 500) {
+            sidebar.style.width = offsetLeft + 'px';
+        }
+    });
+
+    document.addEventListener('mouseup', function() {
+        isResizing = false;
+        document.body.style.cursor = 'default';
+        frame.style.pointerEvents = 'auto';
+    });
+
+    // 初始化第一個項目為 Active
+    document.querySelector('.nav-item').classList.add('active');
+
+    // 修正 YouTube 連結: YouTube 必須使用 /embed/ 格式才能在 iframe 顯示
+    // 代碼中我已經預先將 YouTube 連結改為 embed 格式
+</script>
+
+</body>
+</html>
