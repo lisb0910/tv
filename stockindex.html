@@ -3,20 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>財經資訊門戶終端</title>
+    <title>專業財經導覽終端</title>
     <style>
         :root {
-            --bg-color: #0f0f0f;
-            --sidebar-color: #1a1a1a;
-            --text-color: #d1d1d1;
-            --accent-color: #3b82f6;
-            --hover-color: #2d2d2d;
-            --border-color: #333;
+            --bg-color: #0a0a0a;
+            --sidebar-color: #161616;
+            --text-color: #c0c0c0;
+            --accent-color: #2962ff;
+            --hover-color: #2a2a2a;
+            --border-color: #222;
         }
 
         body, html {
             margin: 0; padding: 0; height: 100%;
-            font-family: "Inter", "Microsoft JhengHei", sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Microsoft JhengHei", sans-serif;
             background-color: var(--bg-color);
             color: var(--text-color);
             overflow: hidden;
@@ -30,136 +30,120 @@
             background-color: var(--sidebar-color);
             display: flex; flex-direction: column;
             border-right: 1px solid var(--border-color);
+            z-index: 10;
         }
 
         .sidebar-header {
             padding: 25px 20px; font-size: 1.1rem; font-weight: 800;
             color: #fff; border-bottom: 1px solid var(--border-color);
-            letter-spacing: 1px; text-align: center;
+            text-align: center; letter-spacing: 2px;
         }
 
-        .menu-container { flex-grow: 1; overflow-y: auto; padding: 15px 0; }
+        .menu-container { flex-grow: 1; overflow-y: auto; padding: 10px 0; }
 
         .category-title {
-            padding: 15px 20px 5px; font-size: 0.75rem;
-            color: #666; text-transform: uppercase; font-weight: bold;
+            padding: 15px 20px 5px; font-size: 0.7rem;
+            color: #555; text-transform: uppercase; font-weight: bold;
         }
 
         .nav-item {
             padding: 12px 20px; cursor: pointer; transition: all 0.2s;
             display: flex; align-items: center; text-decoration: none;
             color: var(--text-color); font-size: 0.9rem;
-            border-left: 4px solid transparent;
+            border-left: 3px solid transparent;
         }
 
         .nav-item:hover { background-color: var(--hover-color); color: #fff; }
         .nav-item.active {
-            background-color: #252525; border-left-color: var(--accent-color); color: #fff;
+            background-color: #1e1e1e; border-left-color: var(--accent-color); color: #fff;
         }
 
         /* 拖動條 */
         #resizer {
-            width: 4px; cursor: col-resize; background-color: #222;
+            width: 6px; cursor: col-resize; background-color: #111;
             transition: background 0.3s;
         }
         #resizer:hover { background-color: var(--accent-color); }
 
         /* 右側主內容 */
-        #main-content { flex-grow: 1; display: flex; flex-direction: column; background-color: #000; position: relative; }
+        #main-content { flex-grow: 1; display: flex; flex-direction: column; background-color: #000; }
 
-        /* 頂部操作列 */
         .top-bar {
-            height: 45px; background: #1a1a1a; display: flex; align-items: center;
-            padding: 0 15px; border-bottom: 1px solid #333; justify-content: space-between;
+            height: 40px; background: #111; display: flex; align-items: center;
+            padding: 0 15px; border-bottom: 1px solid #222; justify-content: space-between;
         }
-        .url-display { font-size: 0.8rem; color: #888; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 60%; }
+        .url-display { font-size: 0.75rem; color: #555; }
         .open-btn {
-            background: var(--accent-color); color: white; border: none;
-            padding: 5px 12px; border-radius: 4px; cursor: pointer; font-size: 0.8rem;
-            text-decoration: none; transition: opacity 0.2s;
+            color: var(--accent-color); text-decoration: none; font-size: 0.75rem;
+            padding: 2px 8px; border: 1px solid var(--accent-color); border-radius: 3px;
         }
-        .open-btn:hover { opacity: 0.9; }
+
+        /* 內容區 */
+        #iframe-container { flex-grow: 1; position: relative; }
+        iframe { width: 100%; height: 100%; border: none; background: #000; }
 
         /* 廣告位 */
-        .ad-space { background: #151515; display: flex; align-items: center; justify-content: center; color: #444; font-size: 12px; }
-        .ad-top { height: 60px; width: 100%; border-bottom: 1px solid #333; }
-        .ad-sidebar { height: 80px; margin: 15px; border: 1px dashed #333; border-radius: 4px; }
+        .ad-space { background: #0f0f0f; display: flex; align-items: center; justify-content: center; color: #333; font-size: 11px; }
+        .ad-top { height: 60px; width: 100%; border-bottom: 1px solid #222; }
+        .ad-sidebar { height: 90px; margin: 15px; border: 1px dashed #222; }
 
-        /* 內容顯示 */
-        #iframe-container { flex-grow: 1; position: relative; background: #000; }
-        iframe { width: 100%; height: 100%; border: none; background: #fff; }
-
-        /* 跳轉提示遮罩 */
-        #jump-notice {
-            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
-            background: #121212; display: none; flex-direction: column;
-            align-items: center; justify-content: center; text-align: center; color: #aaa;
-            z-index: 10;
-        }
-        #jump-notice h2 { color: #fff; margin-bottom: 10px; }
+        /* 特殊：隱藏 TradingView 的某些元素 */
+        .tv-embed-container { width: 100%; height: 100%; }
     </style>
 </head>
 <body>
 
 <div class="container">
     <div id="sidebar">
-        <div class="sidebar-header">FINANCE TERMINAL</div>
+        <div class="sidebar-header">FINANCE HUB</div>
+        
         <div class="menu-container" id="menu">
             <!-- 由 JS 動態生成 -->
         </div>
-        <div class="ad-space ad-sidebar">廣告位 (預留)</div>
+
+        <div class="ad-space ad-sidebar">廣告位預留</div>
     </div>
 
     <div id="resizer"></div>
 
     <div id="main-content">
-        <div class="ad-space ad-top">
-            這裡可以放置 728x60 廣告代碼
-        </div>
+        <div class="ad-space ad-top">橫幅廣告位 728 x 60</div>
         
         <div class="top-bar">
-            <div class="url-display" id="url-text">請選擇分類</div>
-            <a href="#" id="external-link" target="_blank" class="open-btn">在新分頁打開原始網頁 ↗</a>
+            <div class="url-display" id="url-text">載入中...</div>
+            <a href="#" id="external-link" target="_blank" class="open-btn">全螢幕開啟 ↗</a>
         </div>
 
         <div id="iframe-container">
-            <iframe id="content-frame" src=""></iframe>
-            <div id="jump-notice">
-                <h2>由於安全限制</h2>
-                <p>該網站不允許在框架內顯示，請點擊上方按鈕開啟</p>
-                <br>
-                <a href="#" id="jump-btn" target="_blank" class="open-btn" style="padding: 10px 25px;">立即前往</a>
-            </div>
+            <iframe id="content-frame" name="content-frame"></iframe>
         </div>
     </div>
 </div>
 
 <script>
     // 網頁清單配置
-    // type: 'frame' 表示可以嵌入, 'jump' 表示可能需要外開
     const sites = [
+        { name: "即時財經新聞 (推薦)", url: "https://www.tradingview.com/embed-widget/timeline/?locale=zh_TW&colorTheme=dark", type: 'frame', cat: "財經資訊" },
         { name: "常用網址", url: "https://lisb0910.github.io/tv/bookmarks.html", type: 'frame', cat: "常用工具" },
         { name: "房租管家", url: "https://lisb0910.github.io/rent/rent.html", type: 'frame', cat: "常用工具" },
         
-        { name: "yahoo股市", url: "https://tw.stock.yahoo.com/", type: 'jump', cat: "股市分析" },
         { name: "開盤八法判斷", url: "https://lisb0910.github.io/tv/", type: 'frame', cat: "股市分析" },
-        { name: "智能股票分析", url: "https://copy-of-gemini-819624606168.us-west1.run.app/", type: 'frame', cat: "股市分析" },
+        { name: "智能股票全方位分析", url: "https://copy-of-gemini-819624606168.us-west1.run.app/", type: 'frame', cat: "股市分析" },
         { name: "股市爆料同學會", url: "https://www.cmoney.tw/forum/stock/2344", type: 'jump', cat: "股市分析" },
+        { name: "yahoo股市 (外開)", url: "https://tw.stock.yahoo.com/", type: 'jump', cat: "股市分析" },
         { name: "統一投信", url: "https://www.ezmoney.com.tw/member", type: 'jump', cat: "股市分析" },
         
-        { name: "東森財經新聞", url: "https://www.youtube.com/embed/AEBeWMM1atA", type: 'frame', cat: "新聞影視" },
-        { name: "非凡新聞", url: "https://www.youtube.com/embed/xLqt2p6Dowo", type: 'frame', cat: "新聞影視" },
-        { name: "TVBS優選", url: "https://www.youtube.com/embed/WAUECPu9EOw", type: 'frame', cat: "新聞影視" },
+        { name: "東森財經新聞", url: "https://www.youtube.com/embed/AEBeWMM1atA?autoplay=1&mute=1", type: 'frame', cat: "影音直播" },
+        { name: "非凡新聞", url: "https://www.youtube.com/embed/xLqt2p6Dowo?autoplay=1&mute=1", type: 'frame', cat: "影音直播" },
+        { name: "TVBS優選", url: "https://www.youtube.com/embed/WAUECPu9EOw?autoplay=1&mute=1", type: 'frame', cat: "影音直播" },
         
-        { name: "TVBOX線路", url: "https://lisb0910.github.io/tv/TVbox.txt", type: 'jump', cat: "系統" }
+        { name: "TVBOX線路", url: "https://github.com/lisb0910/tv/blob/main/TVbox.txt", type: 'jump', cat: "系統" }
     ];
 
     const menuEl = document.getElementById('menu');
     const frame = document.getElementById('content-frame');
     const urlText = document.getElementById('url-text');
     const extLink = document.getElementById('external-link');
-    const jumpBtn = document.getElementById('jump-btn');
-    const jumpNotice = document.getElementById('jump-notice');
 
     // 生成菜單
     let currentCat = "";
@@ -179,55 +163,39 @@
     });
 
     function loadSite(site, element) {
-        // 更新樣式
         document.querySelectorAll('.nav-item').forEach(i => i.classList.remove('active'));
         element.classList.add('active');
-
-        // 更新頂部資訊
-        urlText.innerText = `目前網址: ${site.url}`;
+        urlText.innerText = site.name;
         extLink.href = site.url;
-        jumpBtn.href = site.url;
 
         if (site.type === 'jump') {
-            // 針對 Yahoo 等網站顯示跳轉提示
-            frame.style.display = 'none';
-            jumpNotice.style.display = 'flex';
+            // 如果是無法嵌入的網頁，顯示提示並提供按鈕
+            frame.srcdoc = `
+                <body style="background:#000; color:#888; display:flex; flex-direction:column; align-items:center; justify-content:center; height:100vh; font-family:sans-serif;">
+                    <p>此網頁限制在框架內顯示</p>
+                    <a href="${site.url}" target="_blank" style="color:#2962ff; text-decoration:none; border:1px solid #2962ff; padding:10px 20px; border-radius:5px;">在新標籤頁打開 ${site.name}</a>
+                </body>`;
         } else {
-            // 正常嵌入
-            frame.style.display = 'block';
-            jumpNotice.style.display = 'none';
+            frame.srcdoc = "";
             frame.src = site.url;
         }
     }
 
-    // 側邊欄拖動邏輯
+    // 側邊欄拖動
     const sidebar = document.getElementById('sidebar');
     const resizer = document.getElementById('resizer');
     let isResizing = false;
 
-    resizer.addEventListener('mousedown', () => {
-        isResizing = true;
-        document.body.style.cursor = 'col-resize';
-        frame.style.pointerEvents = 'none';
-    });
-
+    resizer.addEventListener('mousedown', () => { isResizing = true; frame.style.pointerEvents = 'none'; });
     document.addEventListener('mousemove', (e) => {
         if (!isResizing) return;
         let width = e.clientX;
-        if (width > 180 && width < 500) {
-            sidebar.style.width = width + 'px';
-        }
+        if (width > 150 && width < 600) sidebar.style.width = width + 'px';
     });
+    document.addEventListener('mouseup', () => { isResizing = false; frame.style.pointerEvents = 'auto'; });
 
-    document.addEventListener('mouseup', () => {
-        isResizing = false;
-        document.body.style.cursor = 'default';
-        frame.style.pointerEvents = 'auto';
-    });
-
-    // 預設載入第一個
-    const firstItem = document.querySelector('.nav-item');
-    if(firstItem) firstItem.click();
+    // 初始載入第一個
+    document.querySelector('.nav-item').click();
 </script>
 
 </body>
