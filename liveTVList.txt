@@ -5,7 +5,7 @@ Decoder=3
 📺台灣新聞,#genre#
 TVBS HD,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1081.m3u8
 TVBS HD,http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
-TVBS HD,https://stream1.freetv.fun/a969d7787c96c8a7a9cf6f542343848dc7beb7475d548e093d53d2e9cde7d70b.ctv
+TVBS HD,https://stream1.freetv.fun/363c2cded19435f6246775f35056ac65a2041ac53ee74d310346babe4550ab93.m3u8
 TVBS HD,https://tv.iill.top/4gtv/4gtv-live073
 TVBS HD,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv073
 TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
@@ -171,8 +171,8 @@ Decoder=3
 三立財經,https://www.youtube.com/watch?v=pF507BLtbqU
 三立電視,https://www.youtube.com/watch?v=hfytG5Fj05w&list=PLE6ICy7YAcNYvZiazthDbEubWwJ0H4X_2&pp=iAQB
 三立戲劇,https://www.youtube.com/watch?v=2vvcLVfPQRE&list=PLE6ICy7YAcNZs02YjbMEV4SF0hllwkvET
-非凡商業,https://www.youtube.com/watch?v=QlJJEwMYzEc
-非凡新聞,https://www.youtube.com/watch?v=eA6Aczd3FZM
+非凡商業,https://www.youtube.com/watch?v=eA6Aczd3FZM
+非凡新聞,https://www.youtube.com/watch?v=eA6Aczd3FZM&list=WL&index=18
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 東森新聞,http://www.youtube.com/c/newsebc/live
 東森財經新聞,https://www.youtube.com/@57ETFN/live
