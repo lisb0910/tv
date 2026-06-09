@@ -18,7 +18,8 @@ https://raw.githubusercontent.com/lisb0910/tv/main/liveTVList.txt
 
 點播源
 個人推薦超優綜合主線路:
-https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/xwck.json
+https://gh-proxy.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/xwck.json
+
 
 
 https://github.com/qist/tvbox/blob/7521fe7e1626b8bedf17c6aacb303e882839f029/dianshi.json
@@ -33,6 +34,10 @@ http://ok321.top/tv		# OK影视内部接口
 http://ok321.top/ok		# OK影视公开接口
 http://www.饭太硬.com/tv
 http://肥猫.com
+
+你懂的
+https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/20260103.json
+
 福利接口:
 https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/shiba.json
 
@@ -49,43 +54,14 @@ https://raw.githubusercontent.com/cyao2q/files/master/m.json
 （8）摸鱼儿：http://我不是.摸鱼儿.com
 （9）菜妮丝：https://tvbox.cainisi.cf
 （10）盒子迷： https://盒子迷.top/春盈天下
-公子福利接口:
-https://gzy.lzo.publicvm.com/19-1.txt
+換影視線路的步驟:軟體首頁 [設定] > [點播] > 填上底下線路 > [確定] 就搞定了 ~
+==============================================================================================
 
-阿祥福利接口:
-http://666.hz.cz/only/only.json
+一般的電影與電視連續劇等節目請設定:【飯太硬】線路裡面的【文采】影視接口 速度較優
 
-參考福利接口:
-https://gzy.lzo.publicvm.com/18.txt
+成人福利18+線路請切換選擇【你懂的】線路 裡面18+接口眾多 請自己探索尋找自己的最愛
 
-B521福利接口:
-https://ghfast.top/https://raw.githubusercontent.com/wwb521/live/main/video.json
-
-老色批福利接口:
-https://ghfast.top/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt
-
-貓18福利接口:
-https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json
-
-張杰福利接口:
-https://ghfast.top/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json
-https://github.com/lisb0910/tv/blob/main/1.json
-https://github.com/lisb0910/tv/blob/main/tv.txt
-https://github.com/lisb0910/tv/blob/main/TVbox.text
-
-https://jinenge.cn/1.json
-https://jinenge.cn/jar/jinenge.jar
-
-
-https://raw.githubusercontent.com/cyao2q/files/master/m.json
-https://raw.githubusercontent.com/cyao2q/files/master/jar/Butterfly.jar
-
-https://github.com/lisb0910/tv
-
-
-原始資源
-https://github.com/sqspot/tac/blob/main/4GTV%E8%B1%AA%E8%8F%AF%E7%89%88.txt
-https://github.com/lisb0910/tv/settings
+============================================================================================
 
 東森財經新聞台－最多免費頻道線上看｜網路第四台第一推薦｜四季線上4gTV
 https://www.4gtv.tv/channel/4gtv-4gtv153?set=1&ch=293
