@@ -11,7 +11,7 @@ TVBS HD,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gt
 TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS HD,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS HD（YT）,https://youtu.be/WAUECPu9EOw
+TVBS HD（YT）,https://www.youtube.com/watch?v=WAUECPu9EOw
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS NEWS,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
@@ -32,15 +32,15 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 非凡商業台,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1012.m3u8
 非凡商業台,http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
 非凡商業台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv048
-非凡新聞,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1013.m3u8
 非凡新聞,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1013.m3u8
+非凡新聞,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1013.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,https://cdn.19891230.eu.org/4gtv/media-live010/index.m3u8
 非凡新聞,https://live.catvod.com/live.php?id=feifannews_twn
 非凡新聞,http://114.34.40.48:50008/4gtv-4gtv010/index.m3u8?proxy=true
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 非凡新聞,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-非凡新闻台（YT）,https://youtu.be/eA6Aczd3FZM
+非凡新闻台（YT）,https://www.youtube.com/watch?v=eA6Aczd3FZM&list=WL&index=18
 非凡新闻台（YT）,https://www.youtube.com/watch?v=eA6Aczd3FZM
 非凡新闻台（p2p）,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新闻台（p2p）,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
@@ -231,7 +231,7 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 
 
 台灣頻道,#genre#
-民視,http://iptv.4666888.xyz/iptv2A.php?id=55
+民視,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv002/index.m3u8
 民視,https://tv.iill.top/4gtv/4gtv-4gtv002
 民視,https://tv.iill.top/4gtv/4gtv-4gtv155
 民視,rtmp://f13h.mine.nu/sat/tv051
