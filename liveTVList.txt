@@ -4,9 +4,9 @@ Decoder=3
 
 📺台灣新聞,#genre#
 TVBS HD,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1081.m3u8
+TVBS HD,https://c958c7-ceb9ea-ea3a.kylintv.tv/live/tvbshd_iphone.m3u8
 TVBS HD,https://cdn.19891230.eu.org/4gtv/media-live073/index.m3u8
 TVBS HD,https://iptv.852851.xyz/ch/490e01bc4bc49c735fdf421170bb4536/master.m3u8
-TVBS HD,https://tv.iill.top/4gtv/4gtv-live073
 TVBS HD,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv073
 TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS HD,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
@@ -96,11 +96,11 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 民視新聞P2p,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 民視新聞(YT),https://www.youtube.com/watch?v=ylYJSBUgaMA
 民視,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv002/index.m3u8
-民視,https://tv.iill.top/4gtv/4gtv-4gtv155
+民視,https://c958c7-ceb9ea-ea3a.kylintv.tv/live/formosatv_iphone.m3u8
+中天新聞,https://c958c7-ceb9ea-ea3a.kylintv.tv/live/cti_iphone.m3u8
 中天新聞,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新聞,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv009/index.m3u8
 中天新聞,https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8
-中天新聞,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1015.m3u8
 中天新聞,https://k44991.kylintv.tv/live/cti_iphone.m3u8
 中天新聞(YT),https://youtu.be/vr3XyVCR4T0
 中天亞洲,https://tv.iill.top/FainTV/121
@@ -117,6 +117,7 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 華視新聞,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv052/index.m3u8
 華視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv052
 華視新聞,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1120.m3u8
+華視,https://c958c7-ceb9ea-ea3a.kylintv.tv/live/ctshd_iphone.m3u8
 華視,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1049.m3u8
 華視,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv041/index.m3u8
 華視,http://hk.mushui.tk/mqlive/live.php?ip=218.32.247.100&url=http://218.32.247.100:5003/live1049.m3u8
