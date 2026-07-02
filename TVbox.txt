@@ -17,9 +17,13 @@ https://raw.githubusercontent.com/lisb0910/tv/main/liveTVList.txt
 
 
 點播源
+https://qist.wyfc.qzz.io/fty.json
+
+https://pastecode.dev/raw/7tvw3n7c/kuzis.json    
+裤佬多线
+
 個人推薦超優綜合主線路:
 https://gh-proxy.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/xwck.json
-
 
 
 https://github.com/qist/tvbox/blob/7521fe7e1626b8bedf17c6aacb303e882839f029/dianshi.json
