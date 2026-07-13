@@ -92,7 +92,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 三立新聞台(YT),https://www.youtube.com/watch?v=QsGswQvRmtU
 民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
 民視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=31
-民視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv13
+民視新聞,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
 民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民視新聞P2p,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 民視新聞(YT),https://www.youtube.com/watch?v=ylYJSBUgaMA
@@ -235,8 +235,9 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 
 台灣頻道,#genre#
 民視,http://74.91.26.218:82/live/ftv.m3u8
+民視,https://ha.msbot.dpdns.org/4gtv_api.php?id=3
+民視,https://ha.msbot.dpdns.org/4gtv_api.php?id=246
 民視,https://t.freetv.fun/live/min-shi-2.m3u8
-民視,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv002/index.m3u8
 民視,rtmp://f13h.mine.nu/sat/tv051
 民視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv155
 民視台灣台,http://74.91.26.218:82/live/ftvtw.m3u8
@@ -253,8 +254,9 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 民視第一台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv003
 民視新聞,http://74.91.26.218:82/live/ftvnews.m3u8
 民視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=257
-民視新聞,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
+民視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=31
 民視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=467
+民視新聞,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
 民視綜藝,https://ha.msbot.dpdns.org/4gtv_api.php?id=16
 民視綜藝,https://t.freetv.fun/live/min-shi-zong-yi.m3u8
 民視綜藝,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv004
@@ -268,7 +270,7 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 三立台灣,http://125.227.210.55:8160/VideoInput/play.ts
 三立都會,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1020.m3u8
 三立都會,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1020.m3u8
-三立新聞iNEWS,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9EiNEWS
+三立新聞iNEWS,https://ha.msbot.dpdns.org/4gtv_api.php?id=229
 三立新聞,http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
 三立新聞,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1016.m3u8
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
@@ -280,14 +282,14 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 三立戲劇,https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
 三立戲劇,http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
-TVBS HD,https://iptv.852851.xyz/ch/490e01bc4bc49c735fdf421170bb4536/master.m3u8
-TVBS HD,http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
+TVBS HD,https://ha.msbot.dpdns.org/4gtv_api.php?id=183
+TVBS HD,https://ha.msbot.dpdns.org/4gtv_api.php?id=472
 TVBS HD,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv073
 TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=51767e95111b87503a1995bcfbae5e5b
 TVBS台劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=477
-TVBS新聞,https://tv.iill.top/4gtv/4gtv-4gtv072
+TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
+TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
 TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
-TVBS新聞,https://live.catvod.com/live.php?id=tvbs_n
 TVBS精采台,https://ha.msbot.dpdns.org/4gtv_api.php?id=227
 TVBS精采台,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv067/index.m3u8
 TVBS精采台,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv067
@@ -306,16 +308,16 @@ TVBS歡樂台,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=mc609f36f
 非凡新聞,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1013.m3u8
 非凡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv010
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
-東森財經新聞,https://tv.iill.top/4gtv/4gtv-4gtv153
+東森財經新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=211
 東森財經新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv153
 東森財經新聞,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1017.m3u8
 東森財經新聞,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1017.m3u8
 東森超視,http://220.134.196.147:8508/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
 東森超視,rtmp://f13h.mine.nu/sat/tv331
 東森新聞,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1014.m3u8
-東森新聞,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv152/index.m3u8
+東森新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=234
 東森新聞,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1014.m3u8
-東森新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
+東森新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
 東森新聞,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1014.m3u8
 東森電影,https://pixman.passwdwork.cc.cd/proxy/c18ab737012f7f1d.m3u8
 東森綜合,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1041.m3u8
@@ -335,13 +337,13 @@ TLC旅遊生活,https://live.catvod.com/live.php?id=tlc_twn
 八大第一,http://smt.iktv.ddns-ip.net/Smart.php?id=badafirst
 八大精彩,http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1782639885837
 八大精彩,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv034
-八大精彩,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%85%AB%E5%A4%A7%E7%B2%BE%E5%BD%A9%E5%8F%B0
+八大精彩,https://ha.msbot.dpdns.org/4gtv_api.php?id=172
 八大綜合,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1019.m3u8
 八大綜合,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1019.m3u8
 八大綜合,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1019.m3u8
-八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
-八大綜藝台,http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1782639885837
-八大綜藝台,https://tv.iill.top/4gtv/4gtv-4gtv039
+八大綜合,http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1782639885837
+八大綜藝台,https://ha.msbot.dpdns.org/4gtv_api.php?id=114
+八大綜藝台,https://ha.msbot.dpdns.org/4gtv_api.php?id=276
 八大戲劇,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1057.m3u8
 八大戲劇,http://220.134.196.147:8552/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
@@ -369,9 +371,9 @@ TLC旅遊生活,https://live.catvod.com/live.php?id=tlc_twn
 台視新聞,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
 台視綜合台,https://tv.iill.top/4gtv/ttvzhonghe
 台灣戲劇,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn22
-台灣戲劇,https://tv.iill.top/4gtv/litv-longturn22
-大愛電視,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A4%A7%E6%84%9B%E9%9B%BB%E8%A6%96
-大愛二台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A4%A7%E6%84%9B%E4%BA%8C%E5%8F%B0
+華視好劇,https://ha.msbot.dpdns.org/4gtv_api.php?id=330
+公視好劇,https://ha.msbot.dpdns.org/4gtv_api.php?id=337
+中視,https://ha.msbot.dpdns.org/4gtv_api.php?id=4
 中視,http://74.91.26.218:82/live/ctv.m3u8
 中視,rtmp://f13h.mine.nu/sat/tv091
 中視,https://t.freetv.fun/live/zhong-shi-1-1.m3u8
@@ -380,27 +382,27 @@ TLC旅遊生活,https://live.catvod.com/live.php?id=tlc_twn
 中視菁采,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%B8%AD%E8%A6%96%E8%8F%81%E9%87%87%E5%8F%B0
 中視菁採,https://tv.iill.top/4gtv/4gtv-4gtv064
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
+中視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=33
 中視經典,http://74.91.26.218:82/live/ctvjd.m3u8
 中視經典,https://tv.iill.top/4gtv/4gtv-4gtv080
 華視,http://74.91.26.218:82/live/cts.m3u8
-華視,https://4gtv.946985.filegear-sg.me/playlist?channel=%E8%8F%AF%E8%A6%96
+華視,https://ha.msbot.dpdns.org/4gtv_api.php?id=6
 華視,https://tv.iill.top/4gtv/4gtv-4gtv041
 華視,rtmp://f13h.mine.nu/sat/tv111
 華視,http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f87c65eeec10c9bc82b4417c55523210
 華視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=34
-華視新聞,https://tv.iill.top/4gtv/4gtv-4gtv052
+華視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=256
 公視,https://live.catvod.com/live.php?id=ctv_taiwan
 公視,http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=100430272d79e1b58f70da883d75c794
 公視2,http://74.91.26.218:82/live/ptsse.m3u8
-公視戲劇,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv042/index.m3u8
-公視戲劇,https://tv.iill.top/4gtv/4gtv-4gtv042
+公視戲劇,https://ha.msbot.dpdns.org/4gtv_api.php?id=7
 公視戲劇,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%85%AC%E8%A6%96%E6%88%B2%E5%8A%87
 寰宇財經台,https://tv.iill.top/4gtv/4gtv-4gtv158
 寰宇財經台,https://live.catvod.com/live.php?id=huanyutaiwan_twn
-寰宇新聞,https://tv.iill.top/4gtv/litv-longturn14
-寰宇新聞,https://tv.iill.top/4gtv/litv-longturn14
+寰宇新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=262
+寰宇新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=36
 寰宇新聞台,http://114.34.40.48:50008/litv-longturn14/index.m3u8?proxy=true
-寰宇新聞台灣台,https://tv.iill.top/4gtv/4gtv-4gtv156
+寰宇新聞台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 寰宇新聞台灣台,https://tv.iill.top/4gtv/4gtv-4gtv156
 寰宇新聞台灣台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0
 年代新聞,https://live.catvod.com/live.php?id=niandainews_twn
@@ -410,49 +412,47 @@ TLC旅遊生活,https://live.catvod.com/live.php?id=tlc_twn
 鏡新聞,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1031.m3u8
 半島國際新聞,https://tv.iill.top/4gtv/litv-ftv10
 半島國際新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%8D%8A%E5%B3%B6%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E%E5%8F%B0
-亞洲旅遊台,https://tv.iill.top/4gtv/4gtv-4gtv076
-亞洲旅遊台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%BA%9E%E6%B4%B2%E6%97%85%E9%81%8A%E5%8F%B0
+亞洲旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=250
+亞洲旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=261
 亞洲旅遊台,http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8eea6c49ddad8f8d366d6d5d899cfdb7
 幸福空間居家台,https://tv.iill.top/4gtv/4gtv-live206
-靖天日本,https://tv.iill.top/4gtv/4gtv-4gtv047
-靖天日本,https://tv.iill.top/4gtv/4gtv-4gtv047
+靖天日本,https://ha.msbot.dpdns.org/4gtv_api.php?id=22
+靖天日本,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1782639885837
 靖天日本台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0
-靖天卡通,https://tv.iill.top/4gtv/4gtv-4gtv044
+靖天卡通,https://ha.msbot.dpdns.org/4gtv_api.php?id=15
 靖天卡通,https://tv.iill.top/4gtv/4gtv-4gtv057
 靖天卡通,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0
-靖天育樂,https://tv.iill.top/4gtv/4gtv-4gtv062
-靖天育樂,https://tv.iill.top/4gtv/4gtv-4gtv062
-靖天育樂,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E8%82%B2%E6%A8%82%E5%8F%B0
-靖天映畫,https://tv.iill.top/4gtv/4gtv-4gtv055
+靖天育樂,https://ha.msbot.dpdns.org/4gtv_api.php?id=83
+靖天育樂,http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1782639885837
+靖天歡樂台,https://ha.msbot.dpdns.org/4gtv_api.php?id=119
+靖天映畫,https://ha.msbot.dpdns.org/4gtv_api.php?id=42
 靖天映畫,https://tv.iill.top/4gtv/4gtv-4gtv055
 靖天映畫,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E6%98%A0%E7%95%AB
-靖天國際台,https://tv.iill.top/4gtv/4gtv-4gtv063
-靖天國際台,http://50.7.234.10:8278/jingtianintl_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=594878ec85f4841d0e4b6cba429b0436
-靖天國際台,https://smart.pendy.dpdns.org/Smart.php?id=jingtianintl_twn
+靖天國際台,https://ha.msbot.dpdns.org/4gtv_api.php?id=84
+靖天國際台,http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1782639885837
+靖天資訊,https://ha.msbot.dpdns.org/4gtv_api.php?id=88
 靖天資訊,https://tv.iill.top/4gtv/4gtv-4gtv065
-靖天資訊,https://tv.iill.top/4gtv/4gtv-4gtv065
-靖天資訊台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E8%B3%87%E8%A8%8A%E5%8F%B0
-靖天電影台,http://iptv.4666888.xyz/iptv2A.php?id=56
+靖天資訊台,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1782639885837
+靖天電影台,https://ha.msbot.dpdns.org/4gtv_api.php?id=82
 靖天電影台,https://tv.iill.top/4gtv/4gtv-4gtv061
-靖天電影台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E9%9B%BB%E5%BD%B1%E5%8F%B0
+靖天電影台,http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1782639885837
+靖天綜合台,https://ha.msbot.dpdns.org/4gtv_api.php?id=21
 靖天綜合台,https://tv.iill.top/4gtv/4gtv-4gtv046
-靖天綜合台,https://tv.iill.top/4gtv/4gtv-4gtv046
-靖天綜合台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E7%B6%9C%E5%90%88%E5%8F%B0
+靖天綜合台,http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1782639885837
+靖天戲劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=116
 靖天戲劇台,https://tv.iill.top/4gtv/4gtv-4gtv058
-靖天戲劇台,https://tv.iill.top/4gtv/4gtv-4gtv058
-靖天戲劇台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E5%A4%A9%E6%88%B2%E5%8A%87%E5%8F%B0
 靖天歡樂,https://tv.iill.top/4gtv/4gtv-4gtv054
 靖天歡樂,https://tv.iill.top/4gtv/4gtv-4gtv054
-靖洋卡通,https://tv.iill.top/4gtv/4gtv-4gtv057
+靖洋卡通,https://ha.msbot.dpdns.org/4gtv_api.php?id=59
 靖洋卡通,https://tv.iill.top/4gtv/4gtv-4gtv057
 靖洋卡通,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9ANice%20Bingo
-靖洋戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
+靖洋戲劇,https://ha.msbot.dpdns.org/4gtv_api.php?id=118
 靖洋戲劇,https://tv.iill.top/4gtv/4gtv-4gtv045
-靖洋戲劇,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9D%96%E6%B4%8B%E6%88%B2%E5%8A%87%E5%8F%B0
-影迷數位紀實,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E7%B4%80%E5%AF%A6%E5%8F%B0
+靖洋戲劇,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1782639885837
+影迷數位紀實,https://ha.msbot.dpdns.org/4gtv_api.php?id=445
+影迷數位電影,https://ha.msbot.dpdns.org/4gtv_api.php?id=40
+影迷數位電影,http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1782639885837
 影迷數位電影,https://tv.iill.top/4gtv/4gtv-4gtv011
-影迷數位電影,https://tv.iill.top/4gtv/4gtv-4gtv011
-影迷數位電影,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E9%9B%BB%E5%BD%B1%E5%8F%B0
 緯來日本,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1026.m3u8
 緯來日本,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1026.m3u8
 緯來日本,https://cdn.19891230.eu.org/api/VL-Japan/index.m3u8
@@ -471,7 +471,7 @@ TLC旅遊生活,https://live.catvod.com/live.php?id=tlc_twn
 JET綜合,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1009.m3u8
 衛視中文台 Star Movies Chinese,https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
 衛視電影台,https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
-豬哥亮歌廳秀,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv006/index.m3u8
+豬哥亮歌廳秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1782639885837
 豬哥亮歌廳秀,https://tv.iill.top/4gtv/4gtv-4gtv006
 娛樂百分百,http://iptv.4666888.xyz/iptv2A.php?id=64
 綜藝大贏家,http://iptv.4666888.xyz/iptv2A.php?id=65
@@ -506,43 +506,22 @@ JET綜合,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.1
 亞洲旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=261
 momo親子台,https://ha.msbot.dpdns.org/4gtv_api.php?id=231
 momo親子台,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1007.m3u8
-東森購物一台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E4%B8%80%E5%8F%B0
-東森購物二台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E4%BA%8C%E5%8F%B0
-東森購物三台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E4%B8%89%E5%8F%B0
-東森購物四台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E5%9B%9B%E5%8F%B0
-采昌影劇台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%87%87%E6%98%8C%E5%BD%B1%E5%8A%87%E5%8F%B0
-金光布袋戲,https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%87%91%E5%85%89%E5%B8%83%E8%A2%8B%E6%88%B2
-客家電視,https://tv.iill.top/4gtv/4gtv-4gtv043
-客家電視台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%AE%A2%E5%AE%B6%E9%9B%BB%E8%A6%96%E5%8F%B0
-美亞電影,https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
-美食星球,https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
-美國之音,https://tv.iill.top/4gtv/litv-ftv03
-原住民族電視台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E9%9B%BB%E8%A6%96%E5%8F%B0
-時尚運動X,https://tv.iill.top/4gtv/4gtv-4gtv014
-時尚運動X,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%82%E5%B0%9A%E9%81%8B%E5%8B%95X
-國會頻道1,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%9C%8B%E6%9C%83%E9%A0%BB%E9%81%931
-國會頻道2,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%9C%8B%E6%9C%83%E9%A0%BB%E9%81%932
-國會頻道一,https://tv.iill.top/4gtv/4gtv-4gtv084
-國會頻道二,https://tv.iill.top/4gtv/4gtv-4gtv085
-採昌影劇,https://tv.iill.top/4gtv/4gtv-4gtv049
-探索亞洲,http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f2a44f0c9477bbd4866c1a9d45fa5ca5
-第1商業,https://tv.iill.top/4gtv/4gtv-4gtv104
-博斯魅力台,https://tv.iill.top/4gtv/litv-longturn04
-博斯高球台,https://tv.iill.top/4gtv/litv-longturn05
-博斯高球二台,https://tv.iill.top/4gtv/litv-longturn06
-博斯運動一台,https://tv.iill.top/4gtv/litv-longturn07
-博斯運動二台,https://tv.iill.top/4gtv/litv-longturn08
-博斯網球台,https://tv.iill.top/4gtv/litv-longturn09
-博斯無限台,https://tv.iill.top/4gtv/litv-longturn10
-龍華日韓台,https://tv.iill.top/4gtv/litv-longturn11
+fun探索娛樂台,https://ha.msbot.dpdns.org/4gtv_api.php?id=274
+采昌影劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=25
+博斯高球二台,https://ha.msbot.dpdns.org/4gtv_api.php?id=494
+博斯運動一台,https://ha.msbot.dpdns.org/4gtv_api.php?id=265
+博斯運動二台,https://ha.msbot.dpdns.org/4gtv_api.php?id=495
+博斯網球台,https://ha.msbot.dpdns.org/4gtv_api.php?id=267
+博斯無限台,https://ha.msbot.dpdns.org/4gtv_api.php?id=266
+博斯魅力台,https://ha.msbot.dpdns.org/4gtv_api.php?id=493
 龍華偶像台,https://tv.iill.top/4gtv/litv-longturn12
 博斯無限二台,https://tv.iill.top/4gtv/litv-longturn13
-智林體育,https://tv.iill.top/4gtv/4gtv-4gtv101
+智林體育,https://ha.msbot.dpdns.org/4gtv_api.php?id=58
 智林體育,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%99%BA%E6%9E%97%E9%AB%94%E8%82%B2%E5%8F%B0
 韓國娛樂台,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live2021.m3u8
-AXN Taiwan,https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
+amc電影台,https://ha.msbot.dpdns.org/4gtv_api.php?id=39
 AXN,http://50.7.234.10:8278/axn_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=03765d6e573bb47ebdfb4c9c366c2052
-CinemaWorld,https://cdn.19891230.eu.org/4gtv/4gtv-live069/index.m3u8
+CinemaWorld,https://ha.msbot.dpdns.org/4gtv_api.php?id=225
 CINEMAX,https://cdn.19891230.eu.org/api/Cinemax/index.m3u8
 Discovery Asia,http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f2a44f0c9477bbd4866c1a9d45fa5ca5
 DISCOVERY,http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
@@ -557,7 +536,7 @@ HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 HBO,http://125.227.210.55:8153/VideoInput/play.ts
 HBO,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ca82da37e8eeb07511bfc6b5f9e9795f
 HBO,https://4gtv.946985.filegear-sg.me/playlist?id=hbohd_twn
-History 歷史頻道,https://4gtv.946985.filegear-sg.me/playlist?channel=History%20%E6%AD%B7%E5%8F%B2%E9%A0%BB%E9%81%93
+History 歷史頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=214
 HITS頻道,https://4gtv.946985.filegear-sg.me/playlist?channel=HITS%E9%A0%BB%E9%81%93
 INULTRA,https://4gtv.946985.filegear-sg.me/playlist?channel=INULTRA
 韓國娛樂台,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live2021.m3u8
@@ -569,22 +548,15 @@ Bloomberg TV,https://4gtv.946985.filegear-sg.me/playlist?channel=Bloomberg%20TV
 CLASSICA 古典樂,https://4gtv.946985.filegear-sg.me/playlist?channel=CLASSICA%20%E5%8F%A4%E5%85%B8%E6%A8%82
 CLASSICA古典樂,https://tv.iill.top/4gtv/4gtv-4gtv059
 CNBC Asia 財經台,https://4gtv.946985.filegear-sg.me/playlist?channel=CNBC%20Asia%20%E8%B2%A1%E7%B6%93%E5%8F%B0
-DreamWorks 夢工廠動畫,https://cdn.19891230.eu.org/4gtv/4gtv-live017/index.m3u8
-視納華仁紀實頻道,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv013/index.m3u8
-CI 罪案偵查頻道,https://cdn.19891230.eu.org/4gtv/4gtv-live027/index.m3u8
-LiveABC互動英語頻道,https://cdn.19891230.eu.org/4gtv/4gtv-live030/index.m3u8
+DreamWorks 夢工廠動畫,https://ha.msbot.dpdns.org/4gtv_api.php?id=282
+視納華仁紀實頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=38
+CI 罪案偵查頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=215
+LiveABC互動英語頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=188
 NHK,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1027.m3u8
-ELTA娛樂,https://tv.iill.top/4gtv/4gtv-4gtv070
-ELTA娛樂,https://tv.iill.top/4gtv/4gtv-4gtv070
-EYE旅遊,http://50.7.234.10:8278/eyetvtravel_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ec67faaab6ebecb645f4a654a0504976
-寰宇新聞台,https://tv.iill.top/4gtv/litv-longturn14
-龍華戲劇台,https://tv.iill.top/4gtv/litv-longturn18
-Smart知識台,https://tv.iill.top/4gtv/litv-longturn19
-ELTA生活英語台,https://tv.iill.top/4gtv/litv-longturn20
-龍華經典台,https://tv.iill.top/4gtv/litv-longturn21
-台灣戲劇台,https://tv.iill.top/4gtv/litv-longturn22
-寰宇財經台,https://tv.iill.top/4gtv/4gtv-4gtv158
-GINXEsportsTV,https://tv.iill.top/4gtv/4gtv-4gtv053
+愛爾達生活旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=237
+愛爾達寵物運動台,https://ha.msbot.dpdns.org/4gtv_api.php?id=19
+金光布袋戲,https://ha.msbot.dpdns.org/4gtv_api.php?id=339
+民視生活通,https://ha.msbot.dpdns.org/4gtv_api.php?id=387
 國興衛視,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1010.m3u8
 國興衛視,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1010.m3u8
 JET 綜合,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1009.m3u8
