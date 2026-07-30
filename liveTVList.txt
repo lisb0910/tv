@@ -99,7 +99,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 民視,https://ha.msbot.dpdns.org/4gtv_api.php?id=3
 民視,https://ha.msbot.dpdns.org/4gtv_api.php?id=246
 民視,https://t.freetv.fun/live/min-shi-2.m3u8
-中天新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
+中天新聞,https://dfe3-6a12-2f81-6b56.kylintv.tv/live/cti_iphone.m3u8
 中天新聞,http://74.91.26.218:82/live/ztxw.m3u8
 中天新聞,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=260
@@ -275,7 +275,7 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 三立新聞,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1016.m3u8
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
 三立綜合,https://ha.msbot.dpdns.org/4gtv_api.php?id=169
-三立綜合,https://tv.iill.top/4gtv/4gtv-live207
+三立綜合,http://nmk.ioapk.com:5050/4gtv-live207/index.m3u8
 三立綜合,http://114.34.40.48:50008/4gtv-live207/index.m3u8?proxy=true
 三立綜合,http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c7bcade088cb0f7c18f6fd6c6b4a627e
 三立戲劇,https://live.catvod.com/live.php?id=sanlixiju_twn
@@ -347,7 +347,8 @@ TLC旅遊生活,https://live.catvod.com/live.php?id=tlc_twn
 八大戲劇,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1057.m3u8
 八大戲劇,http://220.134.196.147:8552/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
-中天新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=30
+中天新聞,http://rihou.cc:555/tv/[Bx]中天新闻
+中天新聞,https://dfe3-6a12-2f81-6b56.kylintv.tv/live/cti_iphone.m3u8
 中天新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=260
 中天新聞,https://k44991.kylintv.tv/live/cti_iphone.m3u8
 中天亞洲台,https://cdn.19891230.eu.org/api/Cti-I/index.m3u8
