@@ -3,6 +3,7 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 Decoder=3
 
 📺台灣新聞,#genre#
+TVBS HD,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8
 TVBS HD,https://ha.msbot.dpdns.org/4gtv_api.php?id=183
 TVBS HD,https://ha.msbot.dpdns.org/4gtv_api.php?id=472
 TVBS HD,https://t.freetv.fun/live/tvbs-1.m3u8
@@ -15,6 +16,7 @@ TVBS HD（YT）,https://www.youtube.com/watch?v=pkLOXxMlt20
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS NEWS,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+TVBS新聞台,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8
 TVBS新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
 TVBS新聞台,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1080.m3u8
 TVBS新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
@@ -47,7 +49,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 東森財經新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=211
 東森財經新聞台,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1017.m3u8
 東森財經新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=293
-東森財經新聞台,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1017.m3u8
+東森財經新聞台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8
 東森財經新聞台,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1017.m3u8
 東森財經新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=211
 東森財經新聞台,http://211.72.65.236:8546/.m3u8
@@ -81,7 +83,7 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 三立iNEWS(YT),https://www.youtube.com/watch?v=pF507BLtbqU
 三立iNEWS,https://ha.msbot.dpdns.org/4gtv_api.php?id=229
-三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立iNEWS,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8
 三立新聞台,http://211.23.114.106:8507/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 三立新聞台,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1016.m3u8
 三立新聞台,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1016.m3u8
@@ -99,13 +101,14 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 民視,https://ha.msbot.dpdns.org/4gtv_api.php?id=3
 民視,https://ha.msbot.dpdns.org/4gtv_api.php?id=246
 民視,https://t.freetv.fun/live/min-shi-2.m3u8
-中天新聞,https://dfe3-6a12-2f81-6b56.kylintv.tv/live/cti_iphone.m3u8
+中天新聞,http://4gtv.cnlive.club/channel/3824d067/index.m3u8
 中天新聞,http://74.91.26.218:82/live/ztxw.m3u8
 中天新聞,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=260
 中天新聞(YT),https://youtu.be/vr3XyVCR4T0
 中天亞洲,https://tv.iill.top/FainTV/121
 中天亞洲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+中視新聞,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8
 中視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=33
 中視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=258
 中視新聞(YT),https://www.youtube.com/watch?v=TCnaIE_SAtM
@@ -116,6 +119,7 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 年代新闻,http://108.181.21.27:27347/livehttpplay?channel_id=20033
 年代新聞(P2p),mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 華視新聞(YT),https://www.youtube.com/watch?v=wM0g8EoUZ_E
+華視新聞,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8
 華視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=256
 華視新聞,http://74.91.26.218:82/live/ctsnews.m3u8
 華視新聞,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1120.m3u8
@@ -147,12 +151,13 @@ SBN全球財經,https://z88.ubtvfans.com/live/rx6/1497/f9e70480c90f3eaa610233983
 鏡新聞台,https://4gtv.mytvsuper.xyz/?id=4gtv-4gtv075
 鏡新聞台,mitv://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
 寰宇台湾,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
-寰宇台湾,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv156
+寰宇台湾,http://4gtv.cnlive.club/channel/n37458587/index.m3u8
 寰宇台湾(YT),https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇新聞(YT),https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞台,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1222.m3u8
 寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=262
 寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=36
+寰宇新聞台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8
 NOW新聞台,http://108.181.20.197/livehttpplay?channel_id=20041
 第1商業,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv104
 第1商業,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv104
@@ -234,19 +239,22 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 
 
 台灣頻道,#genre#
+民視,http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8
 民視,http://74.91.26.218:82/live/ftv.m3u8
 民視,https://ha.msbot.dpdns.org/4gtv_api.php?id=3
 民視,https://ha.msbot.dpdns.org/4gtv_api.php?id=246
 民視,https://t.freetv.fun/live/min-shi-2.m3u8
 民視,rtmp://f13h.mine.nu/sat/tv051
 民視,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv155
+民視台灣台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8
 民視台灣台,http://74.91.26.218:82/live/ftvtw.m3u8
 民視台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=2
 民視台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=255
-民視台灣台,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8201e27c64398b11362da6f5a8afa92e
 民視旅遊,https://ha.msbot.dpdns.org/4gtv_api.php?id=61
 民視旅遊,https://t.freetv.fun/live/min-shi-lu-you.m3u8
 民視旅遊,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv07
+民視第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8
+民視第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8
 民視第一台,http://74.91.26.218:82/live/ftvdy.m3u8
 民視第一台,https://ha.msbot.dpdns.org/4gtv_api.php?id=254
 民視第一台,https://ha.msbot.dpdns.org/4gtv_api.php?id=470
@@ -259,7 +267,7 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 民視新聞,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
 民視綜藝,https://ha.msbot.dpdns.org/4gtv_api.php?id=16
 民視綜藝,https://t.freetv.fun/live/min-shi-zong-yi.m3u8
-民視綜藝,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv004
+民視綜藝,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8
 民視影劇,https://ha.msbot.dpdns.org/4gtv_api.php?id=24
 民視影劇,https://cdn.19891230.eu.org/4gtv/litv-ftv09/index.m3u8
 民視影劇,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=litv-ftv09
@@ -274,21 +282,23 @@ TVBS新聞台,https://clonglii.serv00.net/youtube_d.php?id=2mCSYvcfhtc&ln=2&data
 三立新聞,http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
 三立新聞,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1016.m3u8
 三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+三立綜合,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8
 三立綜合,https://ha.msbot.dpdns.org/4gtv_api.php?id=169
 三立綜合,http://nmk.ioapk.com:5050/4gtv-live207/index.m3u8
 三立綜合,http://114.34.40.48:50008/4gtv-live207/index.m3u8?proxy=true
-三立綜合,http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=c7bcade088cb0f7c18f6fd6c6b4a627e
 三立戲劇,https://live.catvod.com/live.php?id=sanlixiju_twn
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 三立戲劇,https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
 三立戲劇,http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
 TVBS HD,https://ha.msbot.dpdns.org/4gtv_api.php?id=183
 TVBS HD,https://ha.msbot.dpdns.org/4gtv_api.php?id=472
+TVBS HD,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8
 TVBS HD,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv073
-TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=51767e95111b87503a1995bcfbae5e5b
 TVBS台劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=477
+TVBS台劇台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=291
+TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8
 TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv072
 TVBS精采台,https://ha.msbot.dpdns.org/4gtv_api.php?id=227
 TVBS精采台,https://cdn.19891230.eu.org/4gtv/4gtv-4gtv067/index.m3u8
@@ -298,7 +308,7 @@ TVBS綜藝,http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8?q=1782639885837
 TVBS歡樂台,https://ha.msbot.dpdns.org/4gtv_api.php?id=184
 TVBS歡樂台,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1018.m3u8
 TVBS歡樂台,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1018.m3u8
-TVBS歡樂台,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=ef02578497d13965a0af430c964d4edc
+TVBS歡樂台,http://4gtv.cnlive.club/channel/498f035d/index.m3u8
 非凡商業,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1012.m3u8
 非凡商業,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1012.m3u8
 非凡商業,https://tv.iill.top/4gtv/4gtv-4gtv048
@@ -314,6 +324,7 @@ TVBS歡樂台,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=mc609f36f
 東森財經新聞,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1017.m3u8
 東森超視,http://220.134.196.147:8508/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
 東森超視,rtmp://f13h.mine.nu/sat/tv331
+東森新聞,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8
 東森新聞,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1014.m3u8
 東森新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=234
 東森新聞,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1014.m3u8
@@ -327,8 +338,8 @@ TVBS歡樂台,http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=mc609f36f
 東森娛樂台,http://114.34.40.48:50008/ofiii32/index.m3u8?proxy=true
 TLC旅遊生活,https://live.catvod.com/live.php?id=Tlc
 TLC旅遊生活,https://live.catvod.com/live.php?id=tlc_twn
-人間衛視,https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%BA%BA%E9%96%93%E8%A1%9B%E8%A6%96
-八大娛樂,https://live.catvod.com/live.php?id=badaentertain
+人間衛視,http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8
+八大娛樂,http://4gtv.cnlive.club/channel/662e9334/index.m3u8
 八大第一,http://hk.mushui.tk/mqlive/live.php?ip=60.250.121.103&url=http://60.250.121.103:5003/live1043.m3u8
 八大第一,http://hk.mushui.tk/mqlive/live.php?ip=61.220.72.26&url=http://61.220.72.26:5003/live1043.m3u8
 八大第一,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
@@ -391,6 +402,7 @@ TLC旅遊生活,https://live.catvod.com/live.php?id=tlc_twn
 華視,https://tv.iill.top/4gtv/4gtv-4gtv041
 華視,rtmp://f13h.mine.nu/sat/tv111
 華視,http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=f87c65eeec10c9bc82b4417c55523210
+華視新聞,http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8
 華視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=34
 華視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=256
 公視,https://live.catvod.com/live.php?id=ctv_taiwan
@@ -409,10 +421,8 @@ TLC旅遊生活,https://live.catvod.com/live.php?id=tlc_twn
 年代新聞,https://live.catvod.com/live.php?id=niandainews_twn
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
-鏡新聞,https://tv.iill.top/4gtv/4gtv-4gtv075
+鏡新聞,http://4gtv.cnlive.club/channel/351c8485/index.m3u8
 鏡新聞,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1031.m3u8
-半島國際新聞,https://tv.iill.top/4gtv/litv-ftv10
-半島國際新聞,https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%8D%8A%E5%B3%B6%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E%E5%8F%B0
 亞洲旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=250
 亞洲旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=261
 亞洲旅遊台,http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=8eea6c49ddad8f8d366d6d5d899cfdb7
