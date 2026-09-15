@@ -3,16 +3,16 @@ ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec
 Decoder=3
 
 📺台灣新聞,#genre#
+TVBS HD,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1081.m3u8
 TVBS HD,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8
 TVBS HD,https://ha.msbot.dpdns.org/4gtv_api.php?id=183
 TVBS HD,https://ha.msbot.dpdns.org/4gtv_api.php?id=472
 TVBS HD,https://t.freetv.fun/live/tvbs-1.m3u8
-TVBS HD,http://hk.mushui.tk/mqlive/live.php?ip=61.216.26.165&url=http://61.216.26.165:5003/live1081.m3u8
 TVBS HD,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv073
 TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS HD,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS HD（YT）,https://youtu.be/eEvMO8zGIeI?list=PLRPdZdTG7HaAj1hQB4GYvGg_mc8CAHFL9
+TVBS HD（YT）,https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS NEWS,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 TVBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
@@ -67,10 +67,10 @@ TVBS新聞（p2p）,rtmp://f13h.mine.nu/sat/tv551
 寰宇財經,http://37.27.111.214:8080/live/65/hls.m3u8
 東森超視,rtmp://f13h.mine.nu:1935/sat/tv331
 東森超視,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-東森新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=234
-東森新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
 東森新聞,http://hk.mushui.tk/mqlive/live.php?ip=211.75.236.187&url=http://211.75.236.187:5003/live1014.m3u8
 東森新聞,http://hk.mushui.tk/mqlive/live.php?ip=61.63.19.241&url=http://61.63.19.241:5003/live1257.m3u8
+東森新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=234
+東森新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
 東森新聞,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
 東森新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/live?token=leifeng&id=4gtv-4gtv152
 东森新闻台(YT),https://www.youtube.com/watch?v=V1p33hqPrUk
